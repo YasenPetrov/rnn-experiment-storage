@@ -1,0 +1,89 @@
+{
+  "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
+  "best_key": "0",
+  "0": {
+    "path": "./../rnn-experiment-storage/test_small/out/0/checkpoints/best.pth.tar",
+    "valid_loss": 2.4084207308983023,
+    "mean_sec_per_batch": 0.003963524877250962,
+    "batch_count": 3080,
+    "training_time_min": 0.2977210362752279,
+    "sec_per_batch_sd": 1.619802776631983e-05,
+    "config": {
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.23,
+      "optimizer": {
+        "name": "SGD",
+        "kwargs": {
+          "lr": 0.23,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 120,
+      "num_timesteps": 20,
+      "batch_size": 2,
+      "num_layers": 1,
+      "hidden_size": 84,
+      "network_type": "lstm"
+    }
+  },
+  "1": {
+    "path": "./../rnn-experiment-storage/test_small/out/1/checkpoints/best.pth.tar",
+    "valid_loss": 2.5354640021432258,
+    "mean_sec_per_batch": 0.00416646559261582,
+    "batch_count": 2060,
+    "training_time_min": 0.20085389216740926,
+    "sec_per_batch_sd": 8.499981354911602e-08,
+    "config": {
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.23,
+      "optimizer": {
+        "name": "SGD",
+        "kwargs": {
+          "lr": 0.23,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 120,
+      "num_timesteps": 30,
+      "batch_size": 2,
+      "num_layers": 1,
+      "hidden_size": 84,
+      "network_type": "lstm"
+    }
+  },
+  "2": {
+    "path": "./../rnn-experiment-storage/test_small/out/2/checkpoints/best.pth.tar",
+    "valid_loss": 2.7603955497069084,
+    "mean_sec_per_batch": 0.0036828538040062056,
+    "batch_count": 3080,
+    "training_time_min": 0.281735094388326,
+    "sec_per_batch_sd": 1.0617244184445579e-07,
+    "config": {
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "SGD",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 120,
+      "num_timesteps": 10,
+      "batch_size": 4,
+      "num_layers": 1,
+      "hidden_size": 84,
+      "network_type": "lstm"
+    }
+  },
+  "experiment_duration_min": 0.8553406000137329
+}
