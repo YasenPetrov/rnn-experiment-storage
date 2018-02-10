@@ -1,0 +1,30 @@
+{
+  "data_folder" : "text8",
+  "model"       : "rnn",
+  "alphabet_file": "",
+  "batches_between_stats": 50,
+  "hyperparams" : {
+    "1": {
+      "network_type"      : ["lstm"],
+      "hidden_size"       : [256],
+      "num_layers"        : [1],
+      "batch_size"        : [100],
+      "num_timesteps"     : [100],
+      "reset_state_every" : [10000],
+      "optimizer"         : [
+        {
+          "name": "rmsprop",
+          "kwargs":
+          {
+
+          }
+        }
+      ],
+      "learning_rate"     : [0.01],
+      "num_epochs"        : [1],
+      "l2_penalty"        : [0],
+      "recurrent_dropout" : [0],
+      "linear_dropout"    : [0]
+    }
+  }
+}
