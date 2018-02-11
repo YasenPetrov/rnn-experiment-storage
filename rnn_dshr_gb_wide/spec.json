@@ -4,7 +4,7 @@
   "alphabet_file": "",
   "hyperparams" : {
     "1": {
-      "batches_between_stats": 640,
+      "batches_between_stats": [640],
       "network_type"      : ["lstm"],
       "hidden_size"       : [16, 32, 64, 128, 256],
       "num_layers"        : [1],
@@ -27,7 +27,7 @@
       "linear_dropout"    : [0]
     },
     "2": {
-      "batches_between_stats": 320,
+      "batches_between_stats": [320],
       "network_type"      : ["lstm"],
       "hidden_size"       : [16, 32, 64, 128, 256],
       "num_layers"        : [1],
@@ -51,7 +51,7 @@
 
     },
     "3": {
-      "batches_between_stats": 160,
+      "batches_between_stats": [160],
       "network_type"      : ["lstm"],
       "hidden_size"       : [16, 32, 64, 128, 256],
       "num_layers"        : [1],
@@ -75,7 +75,7 @@
 
     },
     "4": {
-      "batches_between_stats": 80,
+      "batches_between_stats": [80],
       "network_type"      : ["lstm"],
       "hidden_size"       : [16, 32, 64, 128, 256],
       "num_layers"        : [1],

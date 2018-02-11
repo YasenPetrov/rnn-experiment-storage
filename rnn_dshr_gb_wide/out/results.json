@@ -1,0 +1,2105 @@
+{
+  "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
+  "0": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/0/checkpoints/best.pth.tar",
+    "valid_loss": 2.191079955894994,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.02248606737640783,
+    "batch_count": 8970,
+    "training_time_min": 3.483456631501516,
+    "sec_per_batch_sd": 6.2699686781418e-06,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 16,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "best_key": "30",
+  "1": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/1/checkpoints/best.pth.tar",
+    "valid_loss": 2.1928144918784485,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.022624774202455244,
+    "batch_count": 8970,
+    "training_time_min": 3.5043275038401287,
+    "sec_per_batch_sd": 1.7759974158034697e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "2": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/2/checkpoints/best.pth.tar",
+    "valid_loss": 2.1831790070131527,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.02265068660744595,
+    "batch_count": 8970,
+    "training_time_min": 3.5090964436531067,
+    "sec_per_batch_sd": 1.2079312144180617e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "3": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/3/checkpoints/best.pth.tar",
+    "valid_loss": 2.2024348975349346,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.022524822808162523,
+    "batch_count": 8970,
+    "training_time_min": 3.4902133027712505,
+    "sec_per_batch_sd": 1.9513967338141392e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "4": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/4/checkpoints/best.pth.tar",
+    "valid_loss": 2.1327533464739785,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.022453323362131364,
+    "batch_count": 8970,
+    "training_time_min": 3.478991731007894,
+    "sec_per_batch_sd": 3.2385777873177863e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 16,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "5": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/5/checkpoints/best.pth.tar",
+    "valid_loss": 2.1356369410610827,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.022528804584490494,
+    "batch_count": 8970,
+    "training_time_min": 3.4903528809547426,
+    "sec_per_batch_sd": 3.987440856563549e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "6": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/6/checkpoints/best.pth.tar",
+    "valid_loss": 2.1313197606781427,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.02259971016359706,
+    "batch_count": 8970,
+    "training_time_min": 3.501123265425364,
+    "sec_per_batch_sd": 1.3953736312983547e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "7": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/7/checkpoints/best.pth.tar",
+    "valid_loss": 2.120681346416025,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.022443828933613796,
+    "batch_count": 8970,
+    "training_time_min": 3.4776092886924745,
+    "sec_per_batch_sd": 3.6249525433024964e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "8": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/8/checkpoints/best.pth.tar",
+    "valid_loss": 2.1651627012613464,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.022054831399566738,
+    "batch_count": 8970,
+    "training_time_min": 3.419678068161011,
+    "sec_per_batch_sd": 3.326549006955712e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 16,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "9": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/9/checkpoints/best.pth.tar",
+    "valid_loss": 2.1022350073384057,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.021568330687158205,
+    "batch_count": 8970,
+    "training_time_min": 3.347677222887675,
+    "sec_per_batch_sd": 6.000203915033389e-08,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "10": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/10/checkpoints/best.pth.tar",
+    "valid_loss": 2.1192361353033573,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.02172441012085875,
+    "batch_count": 8970,
+    "training_time_min": 3.372232560316722,
+    "sec_per_batch_sd": 2.352780600140767e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "11": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/11/checkpoints/best.pth.tar",
+    "valid_loss": 2.1193890824292514,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.02248826845566688,
+    "batch_count": 8970,
+    "training_time_min": 3.484856347242991,
+    "sec_per_batch_sd": 3.496170625066292e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "12": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/12/checkpoints/best.pth.tar",
+    "valid_loss": 2.2531744353484866,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.02238673610963678,
+    "batch_count": 8970,
+    "training_time_min": 3.47332790295283,
+    "sec_per_batch_sd": 4.3251226273762715e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 16,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "13": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/13/checkpoints/best.pth.tar",
+    "valid_loss": 2.122626682776723,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.02235679666334178,
+    "batch_count": 8970,
+    "training_time_min": 3.4680209795633954,
+    "sec_per_batch_sd": 3.329823094052362e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "14": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/14/checkpoints/best.pth.tar",
+    "valid_loss": 2.165301329665664,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.022311679389298723,
+    "batch_count": 8970,
+    "training_time_min": 3.4607390403747558,
+    "sec_per_batch_sd": 2.4387390116443465e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "15": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/15/checkpoints/best.pth.tar",
+    "valid_loss": 2.18109784308703,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.02240855898479687,
+    "batch_count": 8970,
+    "training_time_min": 3.4773393750190733,
+    "sec_per_batch_sd": 2.774222061488345e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "16": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/16/checkpoints/best.pth.tar",
+    "valid_loss": 2.2032777641813146,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.022533556529909404,
+    "batch_count": 8970,
+    "training_time_min": 3.5116539796193442,
+    "sec_per_batch_sd": 1.8909523780638262e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 16,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "17": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/17/checkpoints/best.pth.tar",
+    "valid_loss": 2.3811653286134535,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.022021270489347097,
+    "batch_count": 8970,
+    "training_time_min": 3.432336072127024,
+    "sec_per_batch_sd": 3.544907707066023e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "18": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/18/checkpoints/best.pth.tar",
+    "valid_loss": 2.3613566390845273,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.022652860256607548,
+    "batch_count": 8970,
+    "training_time_min": 3.5333901246388755,
+    "sec_per_batch_sd": 4.937778677759604e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "19": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/19/checkpoints/best.pth.tar",
+    "valid_loss": 2.322916821350906,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.0226399361887903,
+    "batch_count": 8970,
+    "training_time_min": 3.524993109703064,
+    "sec_per_batch_sd": 3.0654692019392666e-07,
+    "config": {
+      "batches_between_stats": 640,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 16,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "20": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/20/checkpoints/best.pth.tar",
+    "valid_loss": 2.1642953726743674,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.023179734909414832,
+    "batch_count": 4485,
+    "training_time_min": 1.8454836050669352,
+    "sec_per_batch_sd": 6.091665181380644e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 32,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "21": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/21/checkpoints/best.pth.tar",
+    "valid_loss": 2.1692207720108487,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.022269121646349498,
+    "batch_count": 4485,
+    "training_time_min": 1.7762571096420288,
+    "sec_per_batch_sd": 9.815740182957092e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "22": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/22/checkpoints/best.pth.tar",
+    "valid_loss": 2.1596219152371012,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.022860383402676644,
+    "batch_count": 4485,
+    "training_time_min": 1.8206899960835774,
+    "sec_per_batch_sd": 8.196804387121773e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "23": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/23/checkpoints/best.pth.tar",
+    "valid_loss": 2.163995758871854,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.02308170872521375,
+    "batch_count": 4485,
+    "training_time_min": 1.8372177362442017,
+    "sec_per_batch_sd": 5.535106487028415e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "24": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/24/checkpoints/best.pth.tar",
+    "valid_loss": 2.103241540078049,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.023147287868470028,
+    "batch_count": 4485,
+    "training_time_min": 1.8412436167399089,
+    "sec_per_batch_sd": 5.706498711833488e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 32,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "25": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/25/checkpoints/best.pth.tar",
+    "valid_loss": 2.0571014524141646,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.02309036866212497,
+    "batch_count": 4485,
+    "training_time_min": 1.8367660760879516,
+    "sec_per_batch_sd": 5.899298272606826e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "26": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/26/checkpoints/best.pth.tar",
+    "valid_loss": 2.0675701439361953,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.022948435503769248,
+    "batch_count": 4485,
+    "training_time_min": 1.8264118274052938,
+    "sec_per_batch_sd": 6.59731205714032e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "27": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/27/checkpoints/best.pth.tar",
+    "valid_loss": 2.0730456535103703,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.021988051764276657,
+    "batch_count": 4485,
+    "training_time_min": 1.755394955476125,
+    "sec_per_batch_sd": 5.511409745701422e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "28": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/28/checkpoints/best.pth.tar",
+    "valid_loss": 2.0850790126378276,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.0225663931473442,
+    "batch_count": 4485,
+    "training_time_min": 1.7992355704307557,
+    "sec_per_batch_sd": 7.719081120075089e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 32,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "29": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/29/checkpoints/best.pth.tar",
+    "valid_loss": 2.162832630357237,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.02232044575073515,
+    "batch_count": 4485,
+    "training_time_min": 1.7810442964235942,
+    "sec_per_batch_sd": 8.936982481343724e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "30": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/30/checkpoints/best.pth.tar",
+    "valid_loss": 1.9974528070750674,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.023093117253570376,
+    "batch_count": 4485,
+    "training_time_min": 1.839505942662557,
+    "sec_per_batch_sd": 9.129903075428521e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "31": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/31/checkpoints/best.pth.tar",
+    "valid_loss": 2.0161805561471784,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.023042689943260423,
+    "batch_count": 4485,
+    "training_time_min": 1.8348565220832824,
+    "sec_per_batch_sd": 7.199031552002702e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "32": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/32/checkpoints/best.pth.tar",
+    "valid_loss": 2.7772723871101292,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.02242318608423274,
+    "batch_count": 4485,
+    "training_time_min": 1.7912174065907795,
+    "sec_per_batch_sd": 7.8083444039176e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 32,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "33": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/33/checkpoints/best.pth.tar",
+    "valid_loss": 3.694203297895262,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.023118509337256208,
+    "batch_count": 4485,
+    "training_time_min": 1.844102684656779,
+    "sec_per_batch_sd": 7.602997885938428e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "34": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/34/checkpoints/best.pth.tar",
+    "valid_loss": 2.8036382154971315,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.023168928407905097,
+    "batch_count": 4485,
+    "training_time_min": 1.8461607893308003,
+    "sec_per_batch_sd": 6.597576556666088e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "35": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/35/checkpoints/best.pth.tar",
+    "valid_loss": 2.261059895470883,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.023138187508386397,
+    "batch_count": 4485,
+    "training_time_min": 1.8473378777503968,
+    "sec_per_batch_sd": 6.80821939473234e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "36": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/36/checkpoints/best.pth.tar",
+    "valid_loss": 2.9926100990621975,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.02311102490760016,
+    "batch_count": 4485,
+    "training_time_min": 1.8888076225916544,
+    "sec_per_batch_sd": 6.766021210571073e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 32,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "37": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/37/checkpoints/best.pth.tar",
+    "valid_loss": 5.275552633302867,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.022558434325848642,
+    "batch_count": 4485,
+    "training_time_min": 1.8398560325304667,
+    "sec_per_batch_sd": 8.122495751586407e-07,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "38": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/38/checkpoints/best.pth.tar",
+    "valid_loss": 3.3160123345843675,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.023171256882955654,
+    "batch_count": 4485,
+    "training_time_min": 1.8873962839444478,
+    "sec_per_batch_sd": 1.9572318033145914e-06,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "39": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/39/checkpoints/best.pth.tar",
+    "valid_loss": 2.4762164137138396,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.022834030999786512,
+    "batch_count": 4485,
+    "training_time_min": 1.8620333949724832,
+    "sec_per_batch_sd": 2.0494940144660834e-06,
+    "config": {
+      "batches_between_stats": 320,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 32,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "40": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/40/checkpoints/best.pth.tar",
+    "valid_loss": 2.147727807886214,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.023079610455009558,
+    "batch_count": 2245,
+    "training_time_min": 0.9698165615399679,
+    "sec_per_batch_sd": 2.561986583344003e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "41": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/41/checkpoints/best.pth.tar",
+    "valid_loss": 2.1602969449229583,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.023989282684496085,
+    "batch_count": 2245,
+    "training_time_min": 1.0047062834103901,
+    "sec_per_batch_sd": 2.7658306689523748e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "42": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/42/checkpoints/best.pth.tar",
+    "valid_loss": 2.161597330168745,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.02477824353428356,
+    "batch_count": 2245,
+    "training_time_min": 1.0333604653676352,
+    "sec_per_batch_sd": 2.4759263735171925e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "43": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/43/checkpoints/best.pth.tar",
+    "valid_loss": 2.036635916073818,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.024409615807650088,
+    "batch_count": 2245,
+    "training_time_min": 1.018484361966451,
+    "sec_per_batch_sd": 3.2223891316506334e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "44": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/44/checkpoints/best.pth.tar",
+    "valid_loss": 2.059077424590361,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.023898490553178258,
+    "batch_count": 2245,
+    "training_time_min": 1.0001702030499777,
+    "sec_per_batch_sd": 2.340155871716525e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "45": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/45/checkpoints/best.pth.tar",
+    "valid_loss": 2.0475142843934875,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.023713568961434534,
+    "batch_count": 2245,
+    "training_time_min": 0.9924352288246154,
+    "sec_per_batch_sd": 1.9430821195852503e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "46": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/46/checkpoints/best.pth.tar",
+    "valid_loss": 2.1977409602482516,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.024189108039329194,
+    "batch_count": 2245,
+    "training_time_min": 1.0141109426816304,
+    "sec_per_batch_sd": 2.288076973358753e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "47": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/47/checkpoints/best.pth.tar",
+    "valid_loss": 3.038223599071748,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.024600472588316078,
+    "batch_count": 2245,
+    "training_time_min": 1.0278817017873128,
+    "sec_per_batch_sd": 2.609296037041545e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "48": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/48/checkpoints/best.pth.tar",
+    "valid_loss": 3.2034315311561077,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.02402946741915491,
+    "batch_count": 2245,
+    "training_time_min": 1.0049936493237814,
+    "sec_per_batch_sd": 2.2613395836204203e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "49": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/49/checkpoints/best.pth.tar",
+    "valid_loss": 3.5028067583871807,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.023957481044437904,
+    "batch_count": 2245,
+    "training_time_min": 1.0055372317632039,
+    "sec_per_batch_sd": 1.1663303045727884e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "50": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/50/checkpoints/best.pth.tar",
+    "valid_loss": 4.841225531827174,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.02397127608148453,
+    "batch_count": 2245,
+    "training_time_min": 1.0065139691034952,
+    "sec_per_batch_sd": 1.2520970847856104e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "51": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/51/checkpoints/best.pth.tar",
+    "valid_loss": 3.4438268997034482,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.024823101591692202,
+    "batch_count": 2245,
+    "training_time_min": 1.0381096442540487,
+    "sec_per_batch_sd": 2.2546867187715065e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "52": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/52/checkpoints/best.pth.tar",
+    "valid_loss": 5.990429671740001,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.025246229681512005,
+    "batch_count": 2245,
+    "training_time_min": 1.1176200787226358,
+    "sec_per_batch_sd": 4.598977843762341e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "53": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/53/checkpoints/best.pth.tar",
+    "valid_loss": 6.429599190326498,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.02502722156074369,
+    "batch_count": 2245,
+    "training_time_min": 1.1097768664360046,
+    "sec_per_batch_sd": 1.436665049820477e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "54": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/54/checkpoints/best.pth.tar",
+    "valid_loss": 6.649272203669723,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.023773731792424476,
+    "batch_count": 2245,
+    "training_time_min": 1.0639936963717143,
+    "sec_per_batch_sd": 1.303633958107557e-06,
+    "config": {
+      "batches_between_stats": 160,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 64,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "55": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/55/checkpoints/best.pth.tar",
+    "valid_loss": 2.131457449762602,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.027702383889092325,
+    "batch_count": 2250,
+    "training_time_min": 1.2459397912025452,
+    "sec_per_batch_sd": 1.1710877384991083e-05,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "56": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/56/checkpoints/best.pth.tar",
+    "valid_loss": 2.119527971232412,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.026589988178677037,
+    "batch_count": 2250,
+    "training_time_min": 1.203390113512675,
+    "sec_per_batch_sd": 3.6456702123623696e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "57": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/57/checkpoints/best.pth.tar",
+    "valid_loss": 2.1128154358694866,
+    "num_parameters": 8199,
+    "mean_sec_per_batch": 0.027032842636108417,
+    "batch_count": 2250,
+    "training_time_min": 1.2192868669827779,
+    "sec_per_batch_sd": 3.4224779454828234e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 16,
+      "network_type": "lstm"
+    }
+  },
+  "58": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/58/checkpoints/best.pth.tar",
+    "valid_loss": 2.81784709773119,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.02636880090501571,
+    "batch_count": 2250,
+    "training_time_min": 1.1920263330141703,
+    "sec_per_batch_sd": 4.150849238613235e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "59": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/59/checkpoints/best.pth.tar",
+    "valid_loss": 2.2412065033929105,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.026843550364176374,
+    "batch_count": 2250,
+    "training_time_min": 1.2122181177139282,
+    "sec_per_batch_sd": 4.383564427995313e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "60": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/60/checkpoints/best.pth.tar",
+    "valid_loss": 2.2121101327359622,
+    "num_parameters": 18359,
+    "mean_sec_per_batch": 0.02717441039615209,
+    "batch_count": 2250,
+    "training_time_min": 1.225871992111206,
+    "sec_per_batch_sd": 4.599056922310288e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 32,
+      "network_type": "lstm"
+    }
+  },
+  "61": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/61/checkpoints/best.pth.tar",
+    "valid_loss": 3.172798777942412,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.02673106013404002,
+    "batch_count": 2250,
+    "training_time_min": 1.207303806145986,
+    "sec_per_batch_sd": 2.99867138883781e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "62": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/62/checkpoints/best.pth.tar",
+    "valid_loss": 2.113056508677624,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.025525639533996537,
+    "batch_count": 2250,
+    "training_time_min": 1.1637537320454916,
+    "sec_per_batch_sd": 4.136569268851722e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "63": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/63/checkpoints/best.pth.tar",
+    "valid_loss": 3.0407913789811944,
+    "num_parameters": 44823,
+    "mean_sec_per_batch": 0.026038162549336746,
+    "batch_count": 2250,
+    "training_time_min": 1.1814765214920044,
+    "sec_per_batch_sd": 3.5471335050166702e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 64,
+      "network_type": "lstm"
+    }
+  },
+  "64": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/64/checkpoints/best.pth.tar",
+    "valid_loss": 3.317124065316632,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.0271802950965034,
+    "batch_count": 2250,
+    "training_time_min": 1.2336662530899047,
+    "sec_per_batch_sd": 3.2281790102689683e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "65": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/65/checkpoints/best.pth.tar",
+    "valid_loss": 4.006981275940659,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.026736629803975422,
+    "batch_count": 2250,
+    "training_time_min": 1.214606777826945,
+    "sec_per_batch_sd": 2.8994092626632247e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "66": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/66/checkpoints/best.pth.tar",
+    "valid_loss": 2.52190078848692,
+    "num_parameters": 122327,
+    "mean_sec_per_batch": 0.027033903439839635,
+    "batch_count": 2250,
+    "training_time_min": 1.2284765799840291,
+    "sec_per_batch_sd": 3.0775116223750757e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 128,
+      "network_type": "lstm"
+    }
+  },
+  "67": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/67/checkpoints/best.pth.tar",
+    "valid_loss": 7.3114972495853285,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.02833489333258735,
+    "batch_count": 2250,
+    "training_time_min": 1.4163363774617512,
+    "sec_per_batch_sd": 3.217574759590864e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 128,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "68": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/68/checkpoints/best.pth.tar",
+    "valid_loss": 5.109832154055979,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.028720232009887693,
+    "batch_count": 2250,
+    "training_time_min": 1.4148173967997233,
+    "sec_per_batch_sd": 3.0658452829615968e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 512,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "69": {
+    "path": "./../rnn-experiment-storage/rnn_dshr_gb_wide/out/69/checkpoints/best.pth.tar",
+    "valid_loss": 3.4871993644292094,
+    "num_parameters": 375639,
+    "mean_sec_per_batch": 0.028504370583428255,
+    "batch_count": 2250,
+    "training_time_min": 1.4156850973765056,
+    "sec_per_batch_sd": 3.525392115330568e-06,
+    "config": {
+      "batches_between_stats": 80,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 10,
+      "learning_rate": 0.1,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.1,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 1024,
+      "num_timesteps": 128,
+      "batch_size": 10,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "experiment_duration_min": 140.49637962182362
+}

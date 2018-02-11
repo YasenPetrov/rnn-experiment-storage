@@ -1,0 +1,21 @@
+{
+  "batches_between_stats": 320,
+  "linear_dropout": 0,
+  "recurrent_dropout": 0,
+  "l2_penalty": 0,
+  "num_epochs": 5,
+  "learning_rate": 0.1,
+  "optimizer": {
+    "name": "rmsprop",
+    "kwargs": {
+      "lr": 0.1,
+      "weight_decay": 0
+    }
+  },
+  "reset_state_every": 512,
+  "num_timesteps": 32,
+  "batch_size": 10,
+  "num_layers": 1,
+  "hidden_size": 256,
+  "network_type": "lstm"
+}
