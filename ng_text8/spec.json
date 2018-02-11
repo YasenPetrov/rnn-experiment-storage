@@ -1,0 +1,14 @@
+{
+  "data_folder" : "text8",
+  "model"       : "n-gram",
+  "alphabet_file": "",
+  "hyperparams" : {
+    "1": {
+      "n": [1, 2, 3, 4, 5],
+      "delta": [0.001, 0.01],
+      "adapt": [true, false]
+    }
+ },
+  "plot_deltas" : true,
+  "plot_ns": false
+}
