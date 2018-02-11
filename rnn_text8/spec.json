@@ -2,11 +2,11 @@
   "data_folder" : "text8",
   "model"       : "rnn",
   "alphabet_file": "",
-  "batches_between_stats": 50,
   "hyperparams" : {
     "1": {
+      "batches_between_stats": 500,
       "network_type"      : ["lstm"],
-      "hidden_size"       : [256],
+      "hidden_size"       : [256, 512],
       "num_layers"        : [1],
       "batch_size"        : [100],
       "num_timesteps"     : [100],
