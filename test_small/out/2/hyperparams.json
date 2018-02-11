@@ -1,11 +1,12 @@
 {
+  "batches_between_stats": 60,
   "linear_dropout": 0,
   "recurrent_dropout": 0,
   "l2_penalty": 0,
-  "num_epochs": 10,
-  "learning_rate": 0.1,
+  "num_epochs": 1,
+  "learning_rate": 0.01,
   "optimizer": {
-    "name": "SGD",
+    "name": "adam",
     "kwargs": {}
   },
   "reset_state_every": 120,
@@ -13,5 +14,5 @@
   "batch_size": 4,
   "num_layers": 1,
   "hidden_size": 0,
-  "network_type": "lstm"
+  "network_type": "vanilla"
 }

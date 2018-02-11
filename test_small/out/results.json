@@ -1,51 +1,24 @@
 {
-  "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
-  "best_key": "0",
+  "cwd": "/media/yasen/storage/studies/uoe/fyp/project/char-rnn-experiments",
   "0": {
     "path": "./../rnn-experiment-storage/test_small/out/0/checkpoints/best.pth.tar",
-    "valid_loss": 2.4084207308983023,
-    "mean_sec_per_batch": 0.003963524877250962,
-    "batch_count": 3080,
-    "training_time_min": 0.2977210362752279,
-    "sec_per_batch_sd": 1.619802776631983e-05,
-    "config": {
-      "linear_dropout": 0,
-      "recurrent_dropout": 0,
-      "l2_penalty": 0,
-      "num_epochs": 10,
-      "learning_rate": 0.23,
-      "optimizer": {
-        "name": "SGD",
-        "kwargs": {
-          "lr": 0.23,
-          "weight_decay": 0
-        }
-      },
-      "reset_state_every": 120,
-      "num_timesteps": 20,
-      "batch_size": 2,
-      "num_layers": 1,
-      "hidden_size": 84,
-      "network_type": "lstm"
-    }
-  },
-  "1": {
-    "path": "./../rnn-experiment-storage/test_small/out/1/checkpoints/best.pth.tar",
-    "valid_loss": 2.5354640021432258,
-    "mean_sec_per_batch": 0.00416646559261582,
+    "valid_loss": 2.221236348452436,
+    "num_parameters": 64260,
+    "mean_sec_per_batch": 170.11711710381383,
     "batch_count": 2060,
-    "training_time_min": 0.20085389216740926,
-    "sec_per_batch_sd": 8.499981354911602e-08,
+    "training_time_min": 0.20182174444198608,
+    "sec_per_batch_sd": 0,
     "config": {
+      "batches_between_stats": 50,
       "linear_dropout": 0,
       "recurrent_dropout": 0,
       "l2_penalty": 0,
       "num_epochs": 10,
-      "learning_rate": 0.23,
+      "learning_rate": 0.01,
       "optimizer": {
-        "name": "SGD",
+        "name": "rmsprop",
         "kwargs": {
-          "lr": 0.23,
+          "lr": 0.01,
           "weight_decay": 0
         }
       },
@@ -57,23 +30,56 @@
       "network_type": "lstm"
     }
   },
-  "2": {
-    "path": "./../rnn-experiment-storage/test_small/out/2/checkpoints/best.pth.tar",
-    "valid_loss": 2.7603955497069084,
-    "mean_sec_per_batch": 0.0036828538040062056,
-    "batch_count": 3080,
-    "training_time_min": 0.281735094388326,
-    "sec_per_batch_sd": 1.0617244184445579e-07,
+  "best_key": "0",
+  "1": {
+    "path": "./../rnn-experiment-storage/test_small/out/1/checkpoints/best.pth.tar",
+    "valid_loss": 2.184768072303657,
+    "num_parameters": 64260,
+    "mean_sec_per_batch": 0.004675169361447824,
+    "batch_count": 515,
+    "training_time_min": 0.057755327224731444,
+    "sec_per_batch_sd": 8.22937433277602e-07,
     "config": {
+      "batches_between_stats": 50,
       "linear_dropout": 0,
       "recurrent_dropout": 0,
       "l2_penalty": 0,
-      "num_epochs": 10,
-      "learning_rate": 0.1,
+      "num_epochs": 5,
+      "learning_rate": 0.01,
       "optimizer": {
-        "name": "SGD",
+        "name": "rmsprop",
         "kwargs": {
-          "lr": 0.1,
+          "lr": 0.01,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 120,
+      "num_timesteps": 30,
+      "batch_size": 4,
+      "num_layers": 1,
+      "hidden_size": 84,
+      "network_type": "lstm"
+    }
+  },
+  "2": {
+    "path": "./../rnn-experiment-storage/test_small/out/2/checkpoints/best.pth.tar",
+    "valid_loss": 2.4821764702160354,
+    "num_parameters": 21420,
+    "mean_sec_per_batch": 196.0618079281369,
+    "batch_count": 1848,
+    "training_time_min": 0.1570933183034261,
+    "sec_per_batch_sd": 0,
+    "config": {
+      "batches_between_stats": 60,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 6,
+      "learning_rate": 0.01,
+      "optimizer": {
+        "name": "adam",
+        "kwargs": {
+          "lr": 0.01,
           "weight_decay": 0
         }
       },
@@ -82,8 +88,8 @@
       "batch_size": 4,
       "num_layers": 1,
       "hidden_size": 84,
-      "network_type": "lstm"
+      "network_type": "vanilla"
     }
   },
-  "experiment_duration_min": 0.8553406000137329
+  "experiment_duration_min": 0.5072126984596252
 }
