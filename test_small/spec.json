@@ -2,32 +2,33 @@
   "data_folder" : "test_small",
   "model"       : "rnn",
   "alphabet_file": "",
-  "batches_between_stats": 50,
   "hyperparams" : {
     "1": {
+      "batches_between_stats": [50],
       "network_type"      : ["lstm"],
       "hidden_size"       : [0],
       "num_layers"        : [1],
-      "batch_size"        : [2],
-      "num_timesteps"     : [20, 30],
+      "batch_size"        : [2, 4],
+      "num_timesteps"     : [30],
       "reset_state_every" : [120],
       "optimizer"         : [
         {
-          "name": "SGD",
+          "name": "rmsprop",
           "kwargs":
           {
 
           }
         }
       ],
-      "learning_rate"     : [0.23],
-      "num_epochs"        : [10],
+      "learning_rate"     : [0.01],
+      "num_epochs"        : [5],
       "l2_penalty"        : [0],
       "recurrent_dropout" : [0],
       "linear_dropout"    : [0]
     },
     "2": {
-      "network_type"      : ["lstm"],
+      "batches_between_stats": [60],
+      "network_type"      : ["vanilla"],
       "hidden_size"       : [0],
       "num_layers"        : [1],
       "batch_size"        : [4],
@@ -35,15 +36,15 @@
       "reset_state_every" : [120],
       "optimizer"         : [
         {
-          "name": "SGD",
+          "name": "adam",
           "kwargs":
           {
 
           }
         }
       ],
-      "learning_rate"     : [0.1],
-      "num_epochs"        : [10],
+      "learning_rate"     : [0.01],
+      "num_epochs"        : [1],
       "l2_penalty"        : [0],
       "recurrent_dropout" : [0],
       "linear_dropout"    : [0]
