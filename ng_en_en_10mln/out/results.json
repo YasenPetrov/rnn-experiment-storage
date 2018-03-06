@@ -1,5 +1,5 @@
 {
-  "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
+  "cwd": "/media/yasen/storage/studies/uoe/fyp/project/char-rnn-experiments",
   "0": {
     "train_loss": 4.395280761865415,
     "valid_loss": 4.374420008824401
@@ -73,5 +73,5 @@
     "train_loss": 1.0881923776396702,
     "valid_loss": 2.675654394452841
   },
-  "experiment_duration_min": 0.9244280775388082
+  "experiment_duration_min": 1.050955053170522
 }
