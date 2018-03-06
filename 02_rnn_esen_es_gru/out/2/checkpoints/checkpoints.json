@@ -1,0 +1,10 @@
+{
+  "best": {
+    "filename": "./../rnn-experiment-storage/02_rnn_esen_es_gru/out/2/checkpoints/best.pth.tar",
+    "valid_loss": 3.005903465798931
+  },
+  "last": {
+    "filename": "./../rnn-experiment-storage/02_rnn_esen_es_gru/out/2/checkpoints/epoch.5.pth.tar",
+    "valid_loss": 3.016796125953309
+  }
+}
