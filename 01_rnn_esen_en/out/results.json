@@ -1,0 +1,65 @@
+{
+  "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
+  "0": {
+    "path": "./../rnn-experiment-storage/01_rnn_esen_en/out/0/checkpoints/best.pth.tar",
+    "valid_loss": 1.3691200103318535,
+    "num_parameters": 538326,
+    "mean_sec_per_batch": 1.5785618070708403,
+    "batch_count": 45000,
+    "training_time_min": 1544.0995205044746,
+    "sec_per_batch_sd": 3.031878570097664,
+    "config": {
+      "batches_between_stats": 500,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.01,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.01,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 10000,
+      "num_timesteps": 100,
+      "batch_size": 100,
+      "num_layers": 1,
+      "hidden_size": 256,
+      "network_type": "lstm"
+    }
+  },
+  "best_key": "0",
+  "1": {
+    "path": "./../rnn-experiment-storage/01_rnn_esen_en/out/1/checkpoints/best.pth.tar",
+    "valid_loss": 1.538175503234313,
+    "num_parameters": 1600726,
+    "mean_sec_per_batch": 1.5095885269853857,
+    "batch_count": 45000,
+    "training_time_min": 1713.6533674875895,
+    "sec_per_batch_sd": 0.8300179838917539,
+    "config": {
+      "batches_between_stats": 500,
+      "linear_dropout": 0,
+      "recurrent_dropout": 0,
+      "l2_penalty": 0,
+      "num_epochs": 5,
+      "learning_rate": 0.01,
+      "optimizer": {
+        "name": "rmsprop",
+        "kwargs": {
+          "lr": 0.01,
+          "weight_decay": 0
+        }
+      },
+      "reset_state_every": 10000,
+      "num_timesteps": 100,
+      "batch_size": 100,
+      "num_layers": 1,
+      "hidden_size": 512,
+      "network_type": "lstm"
+    }
+  },
+  "experiment_duration_min": 3258.369640580813
+}
