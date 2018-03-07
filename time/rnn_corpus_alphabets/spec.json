@@ -1,0 +1,10 @@
+{
+    "network_type": ["lstm", "vanilla", "gru"],
+    "hidden_dim": [32, 64, 128, 256, 512, 1024, 2014],
+    "alphabet_size": [29, 87, 218, 214],
+    "seq_length": [1],
+    "batch_size": [1, 5, 10, 15, 20, 40, 60],
+    "num_layers": [1, 2],
+    "use_gpu": [true, false],
+    "num_trials": [50]
+}
