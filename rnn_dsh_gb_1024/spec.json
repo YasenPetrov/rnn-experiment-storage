@@ -1,0 +1,30 @@
+{
+  "data_folder" : "dasher/train_GB",
+  "model"       : "rnn",
+  "alphabet_file": "",
+  "hyperparams" : {
+    "1": {
+      "batches_between_stats": [20],
+      "network_type"      : ["lstm"],
+      "hidden_size"       : [1024],
+      "num_layers"        : [1],
+      "batch_size"        : [50, 200],
+      "num_timesteps"     : [50, 200],
+      "reset_state_every" : [10000, 1000, 100],
+      "optimizer"         : [
+        {
+          "name": "rmsprop",
+          "kwargs":
+          {
+
+          }
+        }
+      ],
+      "learning_rate"     : [0.01],
+      "num_epochs"        : [20],
+      "l2_penalty"        : [0],
+      "recurrent_dropout" : [0],
+      "linear_dropout"    : [0]
+    }
+  }
+}
