@@ -2,7 +2,7 @@
   "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
   "0": {
     "path": "./../rnn-experiment-storage/rnn_text8_1024/out/0/checkpoints/best.pth.tar",
-    "valid_loss": 3.280499977713431,
+    "valid_loss": 1.5549955784713465,
     "num_parameters": 4351005,
     "mean_sec_per_batch": 0.5300502305037438,
     "batch_count": 45000,
