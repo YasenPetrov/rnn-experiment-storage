@@ -4,9 +4,9 @@
     "path": "./../rnn-experiment-storage/01_rnn_esen_es/out/0/checkpoints/best.pth.tar",
     "valid_loss": 1.235736827288807,
     "num_parameters": 543450,
-    "mean_sec_per_batch": 0.5907519460928216,
+    "mean_sec_per_batch": 0.5836239635600556,
     "batch_count": 90000,
-    "training_time_min": 2539.136789850394,
+    "training_time_min": 2570.148063917955,
     "sec_per_batch_sd": 0,
     "config": {
       "batches_between_stats": 500,
@@ -27,7 +27,8 @@
       "batch_size": 100,
       "num_layers": 1,
       "hidden_size": 256,
-      "network_type": "lstm"
+      "network_type": "lstm",
+      "max_grad_l2_norm": 5
     }
   },
   "best_key": "1",
@@ -35,9 +36,9 @@
     "path": "./../rnn-experiment-storage/01_rnn_esen_es/out/1/checkpoints/best.pth.tar",
     "valid_loss": 1.2254377016203013,
     "num_parameters": 1610970,
-    "mean_sec_per_batch": 0.5734329092098857,
+    "mean_sec_per_batch": 0.5654650707790081,
     "batch_count": 90000,
-    "training_time_min": 2615.8247563203176,
+    "training_time_min": 2652.6837421337764,
     "sec_per_batch_sd": 0,
     "config": {
       "batches_between_stats": 500,
@@ -58,8 +59,9 @@
       "batch_size": 100,
       "num_layers": 1,
       "hidden_size": 512,
-      "network_type": "lstm"
+      "network_type": "lstm",
+      "max_grad_l2_norm": 5
     }
   },
-  "experiment_duration_min": 5155.354034264883
+  "experiment_duration_min": 5223.2466136892635
 }

@@ -5,6 +5,6 @@
   },
   "last": {
     "filename": "./../rnn-experiment-storage/01_rnn_esen_en/out/0/checkpoints/epoch.10.pth.tar",
-    "valid_loss": 3.535554435688629
+    "valid_loss": 14.58479029622756
   }
 }
