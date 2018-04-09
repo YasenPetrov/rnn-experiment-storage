@@ -1,0 +1,10 @@
+{
+  "file": "datasets/es-en/es/valid.txt",
+  "dynamic": true,
+  "learning_rate": 0.1,
+  "decay_coef": 0,
+  "num_timesteps": 10,
+  "stats_interval": 10000,
+  "time_min": 25.06007552544276,
+  "final_loss": 1.2075541065097026
+}
