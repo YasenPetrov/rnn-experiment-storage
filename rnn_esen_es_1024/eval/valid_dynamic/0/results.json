@@ -1,0 +1,134 @@
+{
+  "0": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 57.43743400971095,
+    "final_loss": 1.0865805896061596
+  },
+  "1": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 31.7866273800532,
+    "final_loss": 1.0891167561163912
+  },
+  "2": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 26.772689191500344,
+    "final_loss": 1.0930501136644952
+  },
+  "3": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 56.90660238663356,
+    "final_loss": 1.1235668182727405
+  },
+  "4": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 31.628680801391603,
+    "final_loss": 1.1231435576806212
+  },
+  "5": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 26.64040757815043,
+    "final_loss": 1.1232142527682398
+  },
+  "6": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 56.81738578875859,
+    "final_loss": 1.1104647309372981
+  },
+  "7": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 31.569182014465333,
+    "final_loss": 1.086145171721073
+  },
+  "8": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 26.614584557215373,
+    "final_loss": 1.086179848131129
+  },
+  "9": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 56.92870394786199,
+    "final_loss": 1.1240292473641145
+  },
+  "10": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 31.630925254027048,
+    "final_loss": 1.1212538337861933
+  },
+  "11": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 26.610868378480276,
+    "final_loss": 1.1210624936208449
+  },
+  "12": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 9.69314908583959,
+    "final_loss": 1.1247585045370252
+  },
+  "best_key": 7,
+  "total_time_min": 471.0372403740883
+}
