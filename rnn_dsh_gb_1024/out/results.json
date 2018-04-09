@@ -2,18 +2,18 @@
   "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
   "0": {
     "path": "./../rnn-experiment-storage/rnn_dsh_gb_1024/out/0/checkpoints/best.pth.tar",
-    "valid_loss": 2.6225525472669666,
+    "valid_loss": 2.4947117429704266,
     "num_parameters": 4648023,
-    "mean_sec_per_batch": 0.09396595322567487,
-    "batch_count": 2300,
-    "training_time_min": 8.73994430700938,
-    "sec_per_batch_sd": 0.00017305853272608609,
+    "mean_sec_per_batch": 4.53392728201436,
+    "batch_count": 2875,
+    "training_time_min": 10.56846828063329,
+    "sec_per_batch_sd": 0,
     "config": {
       "batches_between_stats": 20,
       "linear_dropout": 0,
       "recurrent_dropout": 0,
       "l2_penalty": 0,
-      "num_epochs": 20,
+      "num_epochs": 25,
       "learning_rate": 0.01,
       "optimizer": {
         "name": "rmsprop",
@@ -27,7 +27,8 @@
       "batch_size": 50,
       "num_layers": 1,
       "hidden_size": 1024,
-      "network_type": "lstm"
+      "network_type": "lstm",
+      "max_grad_l2_norm": Infinity
     }
   },
   "best_key": "7",
@@ -213,18 +214,18 @@
   },
   "7": {
     "path": "./../rnn-experiment-storage/rnn_dsh_gb_1024/out/7/checkpoints/best.pth.tar",
-    "valid_loss": 2.5092741523340183,
+    "valid_loss": 2.4661590743356583,
     "num_parameters": 4648023,
-    "mean_sec_per_batch": 0.12345490414520782,
-    "batch_count": 580,
-    "training_time_min": 3.4796552459398904,
-    "sec_per_batch_sd": 2.5487192910912046e-05,
+    "mean_sec_per_batch": 2.813445421211649,
+    "batch_count": 725,
+    "training_time_min": 4.294852582613627,
+    "sec_per_batch_sd": 0,
     "config": {
       "batches_between_stats": 20,
       "linear_dropout": 0,
       "recurrent_dropout": 0,
       "l2_penalty": 0,
-      "num_epochs": 20,
+      "num_epochs": 25,
       "learning_rate": 0.01,
       "optimizer": {
         "name": "rmsprop",
@@ -238,7 +239,8 @@
       "batch_size": 200,
       "num_layers": 1,
       "hidden_size": 1024,
-      "network_type": "lstm"
+      "network_type": "lstm",
+      "max_grad_l2_norm": Infinity
     }
   },
   "8": {
@@ -361,5 +363,5 @@
       "network_type": "lstm"
     }
   },
-  "experiment_duration_min": 54.365558882554375
+  "experiment_duration_min": 57.09455862840017
 }
