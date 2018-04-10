@@ -1,0 +1,10 @@
+{
+  "file": "datasets/dasher/train_GB/valid.txt",
+  "dynamic": true,
+  "learning_rate": 0.1,
+  "decay_coef": 0,
+  "num_timesteps": 50,
+  "stats_interval": 10000,
+  "time_min": 0.0868052323659261,
+  "final_loss": 2.1538523164920726
+}

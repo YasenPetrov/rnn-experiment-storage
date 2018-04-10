@@ -1,0 +1,134 @@
+{
+  "0": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 0.18073636690775555,
+    "final_loss": 2.1245674974551396
+  },
+  "1": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 0.1030806303024292,
+    "final_loss": 2.144211730548811
+  },
+  "2": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 0.0868052323659261,
+    "final_loss": 2.1538523164920726
+  },
+  "3": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 0.18300466140111288,
+    "final_loss": 2.199784096900504
+  },
+  "4": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 0.10235036611557007,
+    "final_loss": 2.199170566967948
+  },
+  "5": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 0.08674658139546712,
+    "final_loss": 2.1992073778616534
+  },
+  "6": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 0.1836124340693156,
+    "final_loss": 2.1235737681822573
+  },
+  "7": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 0.1022316296895345,
+    "final_loss": 2.1217825269834227
+  },
+  "8": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 0.08673461278279622,
+    "final_loss": 2.1306362655766904
+  },
+  "9": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 0.18035515546798705,
+    "final_loss": 2.182487974127434
+  },
+  "10": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 0.10247900485992431,
+    "final_loss": 2.180282816963251
+  },
+  "11": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 0.08681853612263997,
+    "final_loss": 2.180522275785666
+  },
+  "12": {
+    "file": "datasets/dasher/train_GB/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 0.032293800512949625,
+    "final_loss": 2.2146487144046976
+  },
+  "best_key": 7,
+  "total_time_min": 1.5172490119934081
+}
