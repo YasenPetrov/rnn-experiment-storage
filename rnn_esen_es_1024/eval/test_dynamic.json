@@ -1,5 +1,5 @@
 {
-  "file": ["datasets/es-en/en/test.txt"],
+  "file": ["datasets/es-en/es/test.txt"],
   "models": [0],
   "dynamic": [true, false],
   "learning_rate"     : [0.3],
