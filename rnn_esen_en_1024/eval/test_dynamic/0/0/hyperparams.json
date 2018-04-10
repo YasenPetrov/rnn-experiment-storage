@@ -1,0 +1,10 @@
+{
+  "file": "datasets/es-en/en/test.txt",
+  "dynamic": true,
+  "learning_rate": 0.3,
+  "decay_coef": 0,
+  "num_timesteps": 30,
+  "stats_interval": 10000,
+  "time_min": 31.400832724571227,
+  "final_loss": 1.1573494853511863
+}

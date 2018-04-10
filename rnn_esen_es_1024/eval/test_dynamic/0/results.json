@@ -1,0 +1,24 @@
+{
+  "0": {
+    "file": "datasets/es-en/en/test.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 31.422275392214456,
+    "final_loss": 1.9242280995353302
+  },
+  "1": {
+    "file": "datasets/es-en/en/test.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 9.657351549466451,
+    "final_loss": 3.590898698327506
+  },
+  "best_key": 0,
+  "total_time_min": 41.07962694168091
+}
