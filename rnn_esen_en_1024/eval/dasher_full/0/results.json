@@ -1,0 +1,134 @@
+{
+  "0": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 3.6447189410527545,
+    "final_loss": 1.9873919177526707
+  },
+  "1": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 2.066250952084859,
+    "final_loss": 2.017205578282767
+  },
+  "2": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 1.7429532249768576,
+    "final_loss": 2.03199795568659
+  },
+  "3": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 3.671578526496887,
+    "final_loss": 2.158806056454103
+  },
+  "4": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 2.054427440961202,
+    "final_loss": 2.1582175228349136
+  },
+  "5": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.1,
+    "decay_coef": 0.1,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 1.7515721321105957,
+    "final_loss": 2.158336527777004
+  },
+  "6": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 3.6129202206929523,
+    "final_loss": 1.9789385723886124
+  },
+  "7": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 2.0498011112213135,
+    "final_loss": 1.9853028238945825
+  },
+  "8": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 1.745474354426066,
+    "final_loss": 1.9993515247158051
+  },
+  "9": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 3.579072419802348,
+    "final_loss": 2.142899080180765
+  },
+  "10": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 2.046189781030019,
+    "final_loss": 2.1405946440561556
+  },
+  "11": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0.1,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 1.7438904166221618,
+    "final_loss": 2.141124226499897
+  },
+  "12": {
+    "file": "datasets/dasher_full.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 0.6500147064526876,
+    "final_loss": 2.17250417676619
+  },
+  "best_key": 6,
+  "total_time_min": 30.358864227930706
+}

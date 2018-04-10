@@ -1,0 +1,10 @@
+{
+  "file": "datasets/dasher_full.txt",
+  "dynamic": true,
+  "learning_rate": 0.3,
+  "decay_coef": 0.1,
+  "num_timesteps": 50,
+  "stats_interval": 10000,
+  "time_min": 1.7438904166221618,
+  "final_loss": 2.141124226499897
+}
