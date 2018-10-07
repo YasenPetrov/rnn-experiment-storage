@@ -1,0 +1,5 @@
+{
+  "ids": [0],
+  "num_epochs": 10,
+  "max_grad_l2_norm": 5
+}
