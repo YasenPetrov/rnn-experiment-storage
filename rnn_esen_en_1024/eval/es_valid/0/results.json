@@ -1,0 +1,34 @@
+{
+  "0": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 57.326664698123935,
+    "final_loss": 1.7158629850297438
+  },
+  "1": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 32.47808179855347,
+    "final_loss": 1.8341983703349651
+  },
+  "2": {
+    "file": "datasets/es-en/es/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 10.317769853274028,
+    "final_loss": 4.985434842249649
+  },
+  "best_key": 0,
+  "total_time_min": 100.12251634995143
+}
