@@ -1,9 +1,0 @@
-{
-  "file": ["datasets/text8/valid.txt"],
-  "models": [0],
-  "dynamic": [true, false],
-  "learning_rate"     : [0.1, 0.3],
-  "decay_coef"        : [0, 0.1],
-  "num_timesteps"     : [10, 30, 50],
-  "stats_interval"       : [10000]
-}
