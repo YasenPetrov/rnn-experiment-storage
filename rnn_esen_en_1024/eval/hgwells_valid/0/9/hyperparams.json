@@ -1,0 +1,10 @@
+{
+  "file": "datasets/hg_wells/valid.txt",
+  "dynamic": false,
+  "num_timesteps": 5000,
+  "stats_interval": 5000,
+  "learning_rate": null,
+  "decay_coef": null,
+  "time_min": 7.4635698636372885,
+  "final_loss": 2.672201170289451
+}

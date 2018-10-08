@@ -1,0 +1,10 @@
+{
+  "file": "datasets/ac_doyle/valid.txt",
+  "dynamic": true,
+  "learning_rate": 0.3,
+  "decay_coef": 0,
+  "num_timesteps": 50,
+  "stats_interval": 10000,
+  "time_min": 20.682240668932597,
+  "final_loss": 2.0141868638157905
+}
