@@ -5,6 +5,6 @@
   "decay_coef": 0,
   "num_timesteps": 50,
   "stats_interval": 5000,
-  "time_min": 31.465176153182984,
-  "final_loss": 1.8838739786723293
+  "time_min": 10.623550673325857,
+  "final_loss": 1.883873971745728
 }
