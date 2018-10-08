@@ -1,0 +1,44 @@
+{
+  "0": {
+    "file": "datasets/hg_wells/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 5000,
+    "time_min": 21.37061896721522,
+    "final_loss": 1.6575987630218636
+  },
+  "1": {
+    "file": "datasets/hg_wells/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 5000,
+    "time_min": 12.423336652914683,
+    "final_loss": 1.6433857501191245
+  },
+  "2": {
+    "file": "datasets/hg_wells/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 5000,
+    "time_min": 10.660246082146962,
+    "final_loss": 1.6494072705606524
+  },
+  "3": {
+    "file": "datasets/hg_wells/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 5000,
+    "stats_interval": 5000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 4.067607092857361,
+    "final_loss": 1.7471437268321846
+  },
+  "best_key": 1,
+  "total_time_min": 48.52180879513423
+}
