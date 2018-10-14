@@ -1,0 +1,44 @@
+{
+  "0": {
+    "file": "datasets/ac_doyle/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 10000,
+    "time_min": 28.32254810730616,
+    "final_loss": 1.7163359881750786
+  },
+  "1": {
+    "file": "datasets/ac_doyle/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 18.217418738206227,
+    "final_loss": 1.7030348489695772
+  },
+  "2": {
+    "file": "datasets/ac_doyle/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 10000,
+    "time_min": 16.195956158638,
+    "final_loss": 1.7160471983799184
+  },
+  "3": {
+    "file": "datasets/ac_doyle/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 4.515583833058675,
+    "final_loss": 1.8770054982835553
+  },
+  "best_key": 1,
+  "total_time_min": 67.25150683720906
+}
