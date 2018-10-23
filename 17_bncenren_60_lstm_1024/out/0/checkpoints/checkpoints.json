@@ -1,10 +1,10 @@
 {
   "best": {
     "filename": "./../rnn-experiment-storage/17_bncenren_60_lstm_1024/out/0/checkpoints/best.pth.tar",
-    "valid_loss": 1.870657748057154
+    "valid_loss": 1.8338183247169417
   },
   "last": {
-    "filename": "./../rnn-experiment-storage/17_bncenren_60_lstm_1024/out/0/checkpoints/epoch.2.pth.tar",
-    "valid_loss": 2.0853385888339036
+    "filename": "./../rnn-experiment-storage/17_bncenren_60_lstm_1024/out/0/checkpoints/epoch.3.pth.tar",
+    "valid_loss": 1.967975789390585
   }
 }
