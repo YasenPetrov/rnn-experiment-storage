@@ -1,0 +1,24 @@
+{
+  "0": {
+    "file": "datasets/enron/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 63.34581505854924,
+    "final_loss": 2.06486566182189
+  },
+  "1": {
+    "file": "datasets/enron/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 20.878286814689638,
+    "final_loss": 3.4175056251402256
+  },
+  "best_key": 0,
+  "total_time_min": 84.22410187323888
+}
