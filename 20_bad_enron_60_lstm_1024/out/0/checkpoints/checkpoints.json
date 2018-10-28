@@ -1,0 +1,10 @@
+{
+  "best": {
+    "filename": "./../rnn-experiment-storage/18_enron_60_lstm_1024/out/0/checkpoints/best.pth.tar",
+    "valid_loss": 1.8401260306748988
+  },
+  "last": {
+    "filename": "./../rnn-experiment-storage/18_enron_60_lstm_1024/out/0/checkpoints/epoch.2.pth.tar",
+    "valid_loss": 1.8401260306748988
+  }
+}
