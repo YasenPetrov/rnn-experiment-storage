@@ -1,0 +1,9 @@
+{
+  "file": ["datasets/bncenren/valid.txt"],
+  "models": [0],
+  "dynamic": [true, false],
+  "learning_rate"     : [0.3],
+  "decay_coef"        : [0],
+  "num_timesteps"     : [30],
+  "stats_interval"       : [10000]
+}
