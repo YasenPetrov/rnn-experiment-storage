@@ -1,10 +1,10 @@
 {
   "best": {
-    "filename": "./../rnn-experiment-storage/18_enron_60_lstm_1024/out/0/checkpoints/best.pth.tar",
-    "valid_loss": 1.8401260306748988
+    "filename": "./../rnn-experiment-storage/21_enron_60_b250_lstm_1024/out/0/checkpoints/best.pth.tar",
+    "valid_loss": 24.698785196184453
   },
   "last": {
-    "filename": "./../rnn-experiment-storage/18_enron_60_lstm_1024/out/0/checkpoints/epoch.2.pth.tar",
-    "valid_loss": 1.8401260306748988
+    "filename": "./../rnn-experiment-storage/21_enron_60_b250_lstm_1024/out/0/checkpoints/epoch.3.pth.tar",
+    "valid_loss": 24.698785196184453
   }
 }
