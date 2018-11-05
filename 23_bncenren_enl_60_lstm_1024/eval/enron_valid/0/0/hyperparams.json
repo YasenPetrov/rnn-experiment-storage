@@ -1,0 +1,10 @@
+{
+  "file": "datasets/enron/valid.txt",
+  "dynamic": true,
+  "learning_rate": 0.3,
+  "decay_coef": 0,
+  "num_timesteps": 30,
+  "stats_interval": 10000,
+  "time_min": 63.250636518001556,
+  "final_loss": 1.8503074735150986
+}

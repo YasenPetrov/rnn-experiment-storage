@@ -1,0 +1,24 @@
+{
+  "0": {
+    "file": "datasets/en60/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 63.18610099554062,
+    "final_loss": 1.2735809143363301
+  },
+  "1": {
+    "file": "datasets/en60/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 20.379902637004854,
+    "final_loss": 1.542239833441851
+  },
+  "best_key": 0,
+  "total_time_min": 83.56600363254547
+}

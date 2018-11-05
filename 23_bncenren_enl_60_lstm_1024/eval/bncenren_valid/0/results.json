@@ -1,0 +1,24 @@
+{
+  "0": {
+    "file": "datasets/bncenren/valid.txt",
+    "dynamic": true,
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 10000,
+    "time_min": 90.6050464351972,
+    "final_loss": 1.6518810652059956
+  },
+  "1": {
+    "file": "datasets/bncenren/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 10000,
+    "stats_interval": 10000,
+    "learning_rate": null,
+    "decay_coef": null,
+    "time_min": 22.441518024603525,
+    "final_loss": 1.8741905082680124
+  },
+  "best_key": 0,
+  "total_time_min": 113.04656445980072
+}
