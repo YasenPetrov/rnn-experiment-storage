@@ -1,0 +1,56 @@
+{
+  "0": {
+    "file": "datasets/en60/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 5000,
+    "rms_global_prior": false,
+    "time_min": 106.89390826622645,
+    "final_loss": 1.1893521571501304
+  },
+  "1": {
+    "file": "datasets/en60/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 30,
+    "stats_interval": 5000,
+    "rms_global_prior": false,
+    "time_min": 60.8755208214124,
+    "final_loss": 1.1732861362585414
+  },
+  "2": {
+    "file": "datasets/en60/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "stats_interval": 5000,
+    "rms_global_prior": false,
+    "time_min": 108.45822669665019,
+    "final_loss": 1.2137714324014903
+  },
+  "3": {
+    "file": "datasets/en60/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.0001,
+    "num_timesteps": 30,
+    "stats_interval": 5000,
+    "rms_global_prior": false,
+    "time_min": 61.3112053155899,
+    "final_loss": 1.2110168994568378
+  },
+  "best_key": 1,
+  "total_time_min": 337.53886109987894
+}
