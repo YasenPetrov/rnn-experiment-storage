@@ -1,0 +1,11 @@
+{
+  "file": "datasets/en60/valid.txt",
+  "eval_char_count": 100000,
+  "learning_rate": 1,
+  "num_timesteps": 20,
+  "adapt_rule": "lhuc",
+  "use_in_recurrent": true,
+  "stats_interval": 100,
+  "time_min": 1.4591376185417175,
+  "final_loss": 6.029273842502091
+}
