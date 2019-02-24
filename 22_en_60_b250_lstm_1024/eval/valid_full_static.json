@@ -1,0 +1,11 @@
+{
+  "file": ["datasets/en60/valid.txt"],
+  "eval_char_count": [-1],
+  "models": [0],
+  "dynamic": [false],
+  "dynamic_type": ["sgd"],
+  "learning_rate"     : [0.3],
+  "decay_coef"        : [0],
+  "num_timesteps"     : [1000],
+  "stats_interval"       : [5000]
+}
