@@ -1,0 +1,13 @@
+{
+  "file": "datasets/en60/valid.txt",
+  "eval_char_count": 100000,
+  "dynamic": true,
+  "dynamic_type": "sgd",
+  "learning_rate": 0.01,
+  "decay_coef": 0.001,
+  "num_timesteps": 1,
+  "stats_interval": 100,
+  "rms_global_prior": false,
+  "time_min": 7.269553776582082,
+  "final_loss": 1.2640814475317033
+}
