@@ -8,7 +8,7 @@
   "decay_coef"        : [0, 0.001],
   "num_timesteps"     : [50],
   "stats_interval"       : [5000],
-  "rms_est_train_size": [60000000],
+  "rms_est_train_size": [90000000],
   "rms_est_batch_size": [250],
-  "rms_global_prior":  [true]
+  "rms_global_prior":  [true, false]
 }
