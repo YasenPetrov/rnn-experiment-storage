@@ -1,0 +1,21 @@
+{
+  "model_id": 0,
+  "train_files_list": [
+    "datasets/es-en/en/train.txt"
+  ],
+  "max_train_chars": 1000000,
+  "valid_files_list": [
+    "datasets/es-en/en/valid.txt"
+  ],
+  "max_valid_chars": 100000,
+  "batch_sizes": [
+    10
+  ],
+  "num_timesteps_vals": [
+    10
+  ],
+  "lrs": [
+    0.1
+  ],
+  "epochs": 15
+}
