@@ -9,13 +9,13 @@
   ],
   "max_valid_chars": 100000,
   "batch_sizes": [
-    10
+    10, 50, 100
   ],
   "num_timesteps_vals": [
-    10
+    5, 10
   ],
   "lrs": [
-    0.1
+    0.1, 0.05
   ],
-  "epochs": 15
+  "epochs": 10
 }
