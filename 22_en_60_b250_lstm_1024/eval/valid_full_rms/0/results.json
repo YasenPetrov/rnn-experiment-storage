@@ -12,7 +12,7 @@
     "rms_est_batch_size": 250,
     "rms_prior": true,
     "rms_global_prior": false,
-    "time_min": 83.00400827725728,
+    "time_min": 83.78077356417974,
     "final_loss": 1.161538297708676
   },
   "1": {
@@ -28,9 +28,9 @@
     "rms_est_batch_size": 250,
     "rms_prior": true,
     "rms_global_prior": false,
-    "time_min": 83.16999938090642,
+    "time_min": 83.90375411907831,
     "final_loss": 1.2240576715861817
   },
   "best_key": 0,
-  "total_time_min": 166.1740076581637
+  "total_time_min": 167.68452768325807
 }

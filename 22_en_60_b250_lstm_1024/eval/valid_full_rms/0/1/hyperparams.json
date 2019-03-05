@@ -11,6 +11,6 @@
   "rms_est_batch_size": 250,
   "rms_prior": true,
   "rms_global_prior": false,
-  "time_min": 83.16999938090642,
+  "time_min": 83.90375411907831,
   "final_loss": 1.2240576715861817
 }

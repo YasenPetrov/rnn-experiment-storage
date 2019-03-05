@@ -9,7 +9,7 @@
     "num_timesteps": 10,
     "stats_interval": 5000,
     "rms_global_prior": false,
-    "time_min": 106.89390826622645,
+    "time_min": 108.87123728990555,
     "final_loss": 1.1893521571501304
   },
   "1": {
@@ -22,7 +22,7 @@
     "num_timesteps": 30,
     "stats_interval": 5000,
     "rms_global_prior": false,
-    "time_min": 60.8755208214124,
+    "time_min": 62.23746011257172,
     "final_loss": 1.1732861362585414
   },
   "2": {
@@ -35,7 +35,7 @@
     "num_timesteps": 10,
     "stats_interval": 5000,
     "rms_global_prior": false,
-    "time_min": 108.45822669665019,
+    "time_min": 108.48018616437912,
     "final_loss": 1.2137714324014903
   },
   "3": {
@@ -48,9 +48,9 @@
     "num_timesteps": 30,
     "stats_interval": 5000,
     "rms_global_prior": false,
-    "time_min": 61.3112053155899,
+    "time_min": 62.75608463684718,
     "final_loss": 1.2110168994568378
   },
   "best_key": 1,
-  "total_time_min": 337.53886109987894
+  "total_time_min": 342.34496820370356
 }
