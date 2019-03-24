@@ -1,0 +1,13 @@
+{
+  "file": "datasets/enron/valid.txt",
+  "eval_char_count": 100000,
+  "dynamic": true,
+  "dynamic_type": "sgd",
+  "learning_rate": 1,
+  "decay_coef": 0,
+  "num_timesteps": 1,
+  "stats_interval": 100,
+  "rms_global_prior": false,
+  "time_min": 7.302358309427897,
+  "final_loss": 5.440427976598128
+}
