@@ -2,18 +2,18 @@
   "cwd": "/afs/inf.ed.ac.uk/user/s14/s1449692/studies/fyp/project/char-rnn-experiments",
   "0": {
     "path": "./../rnn-experiment-storage/31_en_90_lstm_1024/out/0/checkpoints/best.pth.tar",
-    "valid_loss": 1.1925640960512907,
+    "valid_loss": 1.1725354471263532,
     "num_parameters": 4740201,
-    "mean_sec_per_batch": 0.47721471029936097,
-    "batch_count": 7200,
-    "training_time_min": 251.4591386437416,
+    "mean_sec_per_batch": 0.47838213577562216,
+    "batch_count": 10800,
+    "training_time_min": 376.26823106209434,
     "sec_per_batch_sd": 0,
     "config": {
       "batches_between_stats": 500,
       "linear_dropout": 0,
       "recurrent_dropout": 0,
       "l2_penalty": 0,
-      "num_epochs": 2,
+      "num_epochs": 3,
       "learning_rate": 0.01,
       "optimizer": {
         "name": "rmsprop",
@@ -32,5 +32,5 @@
     }
   },
   "best_key": "0",
-  "experiment_duration_min": 251.6777221997579
+  "experiment_duration_min": 376.6028558174769
 }
