@@ -1,0 +1,30 @@
+{
+  "0": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 5000,
+    "rms_global_prior": false,
+    "time_min": 38.21294963359833,
+    "final_loss": 1.144992858759838
+  },
+  "1": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 5000,
+    "rms_global_prior": false,
+    "time_min": 37.08900847832362,
+    "final_loss": 1.1375370266564762
+  },
+  "best_key": 1,
+  "total_time_min": 75.30195811192195
+}
