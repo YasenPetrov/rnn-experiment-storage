@@ -1,0 +1,12 @@
+{
+  "file": ["datasets/es-en/en/valid.txt"],
+  "eval_char_count": [100000],
+  "models": [0],
+  "learning_rate"     : [0.0001, 0.0005, 0.001, 0.01],
+  "num_timesteps"     : [1, 5, 10, 20, 30, 50],
+  "m_size"	      : [200, 500, -1],
+  "adapt_rule"        : ["sparse"],
+  "use_in_recurrent"  : [true, false],
+  "stats_interval"       : [100]
+}
+
