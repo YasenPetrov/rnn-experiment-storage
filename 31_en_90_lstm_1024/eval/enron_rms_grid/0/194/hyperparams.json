@@ -1,0 +1,15 @@
+{
+  "file": "datasets/enron/valid.txt",
+  "eval_char_count": 100000,
+  "dynamic": true,
+  "dynamic_type": "rms",
+  "learning_rate": 5e-05,
+  "decay_coef": 0.01,
+  "num_timesteps": 5,
+  "stats_interval": 100,
+  "rms_est_train_size": 1000000,
+  "rms_est_batch_size": 250,
+  "rms_global_prior": true,
+  "time_min": 2.0445354262987774,
+  "final_loss": NaN
+}
