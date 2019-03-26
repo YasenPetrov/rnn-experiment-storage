@@ -8,6 +8,6 @@
   "num_timesteps": 1,
   "stats_interval": 100,
   "rms_global_prior": false,
-  "time_min": 6.711403059959411,
+  "time_min": 6.83134306271871,
   "final_loss": 2.3987571069881963
 }
