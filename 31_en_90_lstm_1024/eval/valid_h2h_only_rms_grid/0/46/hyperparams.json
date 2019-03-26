@@ -1,0 +1,19 @@
+{
+  "file": "datasets/es-en/en/valid.txt",
+  "eval_char_count": 100000,
+  "dynamic": true,
+  "dynamic_type": "rms",
+  "learning_rate": 0.001,
+  "decay_coef": 0.001,
+  "num_timesteps": 50,
+  "stats_interval": 100,
+  "rms_est_train_size": 1000000,
+  "params_to_adapt": [
+    "rnn.weight_hh_l0",
+    "rnn.bias_hh_l0"
+  ],
+  "rms_est_batch_size": 500,
+  "rms_global_prior": true,
+  "time_min": 0.5440289179484049,
+  "final_loss": 18.825651832610134
+}

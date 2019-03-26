@@ -1,0 +1,4108 @@
+{
+  "0": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9963733355204265,
+    "final_loss": 1.258904272994792
+  },
+  "1": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.9614922682444254,
+    "final_loss": 1.258904272994792
+  },
+  "2": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 2.023095695177714,
+    "final_loss": 1.31645474627512
+  },
+  "3": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 2.0373233795166015,
+    "final_loss": 1.31645474627512
+  },
+  "4": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 2.07318293650945,
+    "final_loss": 1.4448707084498327
+  },
+  "5": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.9304459929466247,
+    "final_loss": 1.4448707084498327
+  },
+  "6": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.2430278182029724,
+    "final_loss": 1.2515313752224488
+  },
+  "7": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.245085632801056,
+    "final_loss": 1.2515313752224488
+  },
+  "8": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1712935288747153,
+    "final_loss": 1.274851801423209
+  },
+  "9": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.2105387806892396,
+    "final_loss": 1.274851801423209
+  },
+  "10": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.1312177260716756,
+    "final_loss": 1.369239923701041
+  },
+  "11": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.1519704500834147,
+    "final_loss": 1.369239923701041
+  },
+  "12": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7662261366844177,
+    "final_loss": 1.2510586495892044
+  },
+  "13": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7719238758087158,
+    "final_loss": 1.2510586495892044
+  },
+  "14": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7721158782641093,
+    "final_loss": 1.2675296955275372
+  },
+  "15": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7516379872957866,
+    "final_loss": 1.2675296955275372
+  },
+  "16": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7783400654792786,
+    "final_loss": 7.867115426179984
+  },
+  "17": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7662095268567403,
+    "final_loss": 7.867115426179984
+  },
+  "18": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.5452078421910603,
+    "final_loss": 1.2514525017501308
+  },
+  "19": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5401138226191203,
+    "final_loss": 1.2514525017501308
+  },
+  "20": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5368128061294556,
+    "final_loss": 1.2602959291726001
+  },
+  "21": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5353022694587708,
+    "final_loss": 1.2602959291726001
+  },
+  "22": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5448273301124573,
+    "final_loss": 20.800092135075406
+  },
+  "23": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5309377829233806,
+    "final_loss": 20.800092135075406
+  },
+  "24": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9278762936592102,
+    "final_loss": 1.2652544437533193
+  },
+  "25": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.9098036567370096,
+    "final_loss": 1.2657204081626938
+  },
+  "26": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.9888988931973774,
+    "final_loss": 1.2684774185200156
+  },
+  "27": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.9526127815246581,
+    "final_loss": 1.260892497708497
+  },
+  "28": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.975434943040212,
+    "final_loss": 1.2906657162592095
+  },
+  "29": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.9480916102727255,
+    "final_loss": 1.2766378501107811
+  },
+  "30": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.1702425678571065,
+    "final_loss": 1.2611612817253537
+  },
+  "31": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.1385146935780843,
+    "final_loss": 1.2590197949426953
+  },
+  "32": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1487871011098225,
+    "final_loss": 1.2561042647560126
+  },
+  "33": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.1486388921737671,
+    "final_loss": 1.2504334661989307
+  },
+  "34": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.1673378944396973,
+    "final_loss": 1.2648713031272003
+  },
+  "35": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.1386537233988443,
+    "final_loss": 1.261171048032756
+  },
+  "36": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7643429199854533,
+    "final_loss": 1.2605782279129634
+  },
+  "37": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7622369011243184,
+    "final_loss": 1.254920796200663
+  },
+  "38": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7647232214609782,
+    "final_loss": 1.2518685099051057
+  },
+  "39": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.755897029240926,
+    "final_loss": 1.2480180996268897
+  },
+  "40": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7754261096318563,
+    "final_loss": 7.220114134366854
+  },
+  "41": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7606220523516337,
+    "final_loss": 7.759047888762861
+  },
+  "42": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.5375582814216614,
+    "final_loss": 1.256064812735061
+  },
+  "43": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5348441123962402,
+    "final_loss": 1.2516630468776668
+  },
+  "44": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.535795787970225,
+    "final_loss": 1.2485338272102475
+  },
+  "45": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5387687484423319,
+    "final_loss": 1.2512710517364969
+  },
+  "46": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5440289179484049,
+    "final_loss": 18.825651832610134
+  },
+  "47": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5321841478347779,
+    "final_loss": 8.811703165390227
+  },
+  "48": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9630473216374715,
+    "final_loss": 1.28505212636524
+  },
+  "49": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.898330028851827,
+    "final_loss": 1.2953969825456304
+  },
+  "50": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.9645089507102966,
+    "final_loss": 1.2787884201790758
+  },
+  "51": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.9284065643946329,
+    "final_loss": 1.286475416693293
+  },
+  "52": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.9323175112406412,
+    "final_loss": 1.278064020423772
+  },
+  "53": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.9301906943321228,
+    "final_loss": 1.2827412013298891
+  },
+  "54": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.1763551910718282,
+    "final_loss": 1.2841812912940513
+  },
+  "55": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.1641490856806438,
+    "final_loss": 1.2890480126690707
+  },
+  "56": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1777639945348104,
+    "final_loss": 1.2741184912566907
+  },
+  "57": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.1694535891215005,
+    "final_loss": 1.2772314550105663
+  },
+  "58": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.1741512099901834,
+    "final_loss": 1.2718454884079644
+  },
+  "59": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.163371706008911,
+    "final_loss": 1.2745286336086132
+  },
+  "60": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7692993998527526,
+    "final_loss": 1.2832845365018586
+  },
+  "61": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7554970383644104,
+    "final_loss": 1.282495693177068
+  },
+  "62": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7691028833389282,
+    "final_loss": 1.2736517881910911
+  },
+  "63": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7632845083872477,
+    "final_loss": 1.269938766623313
+  },
+  "64": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7715957959493002,
+    "final_loss": 1.7708539123880818
+  },
+  "65": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7608140707015991,
+    "final_loss": 1.8318100733362876
+  },
+  "66": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.5395564595858257,
+    "final_loss": 1.2769980359280322
+  },
+  "67": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.536463979880015,
+    "final_loss": 1.27124323120873
+  },
+  "68": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5368223587671915,
+    "final_loss": 1.266738220973595
+  },
+  "69": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5349884231885275,
+    "final_loss": 1.2612016617948447
+  },
+  "70": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5390614191691081,
+    "final_loss": 1.2628932675601163
+  },
+  "71": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5325848619143169,
+    "final_loss": 1.2605701519730075
+  },
+  "72": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9762354969978333,
+    "final_loss": 1.282021133656744
+  },
+  "73": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.9467212955156963,
+    "final_loss": 1.282021133656744
+  },
+  "74": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.9172301570574442,
+    "final_loss": 1.2668276359057367
+  },
+  "75": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.923513662815094,
+    "final_loss": 1.2668276359057367
+  },
+  "76": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.9889651576677958,
+    "final_loss": 1.2565170645054224
+  },
+  "77": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.9141732056935628,
+    "final_loss": 1.2565170645054224
+  },
+  "78": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.1661767919858297,
+    "final_loss": 1.2850011472081648
+  },
+  "79": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.1582050363222758,
+    "final_loss": 1.2850011472081648
+  },
+  "80": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1722155928611755,
+    "final_loss": 1.270074024772196
+  },
+  "81": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.1549799958864848,
+    "final_loss": 1.270074024772196
+  },
+  "82": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.171811858812968,
+    "final_loss": 1.2590261704286445
+  },
+  "83": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.1588346083958945,
+    "final_loss": 1.2590261704286445
+  },
+  "84": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7810298879941304,
+    "final_loss": 1.2863457049702054
+  },
+  "85": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7695069988568624,
+    "final_loss": 1.2863457049702054
+  },
+  "86": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7758883039156595,
+    "final_loss": 1.2720839126088537
+  },
+  "87": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7654341061909994,
+    "final_loss": 1.2720839126088537
+  },
+  "88": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7765257477760314,
+    "final_loss": 1.2616626308302723
+  },
+  "89": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7711826841036479,
+    "final_loss": 1.2616626308302723
+  },
+  "90": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.5405126531918844,
+    "final_loss": 1.2874847262679046
+  },
+  "91": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5372701525688172,
+    "final_loss": 1.2874847262679046
+  },
+  "92": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5407608032226563,
+    "final_loss": 1.2746359938629697
+  },
+  "93": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5364502112070719,
+    "final_loss": 1.2746359938629697
+  },
+  "94": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.532424779733022,
+    "final_loss": 1.2654041499949464
+  },
+  "95": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5316439747810364,
+    "final_loss": 1.2654041499949464
+  },
+  "96": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9548355301221212,
+    "final_loss": 1.297771685946342
+  },
+  "97": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.917384131749471,
+    "final_loss": 1.302059201688386
+  },
+  "98": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.936490249633789,
+    "final_loss": 1.2855819293482447
+  },
+  "99": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.9017356355985007,
+    "final_loss": 1.2905310981249614
+  },
+  "100": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.921699825922648,
+    "final_loss": 1.276478059699903
+  },
+  "101": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.9136342763900758,
+    "final_loss": 1.2797787780468655
+  },
+  "102": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.1504565199216208,
+    "final_loss": 1.298710767433834
+  },
+  "103": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.110740598042806,
+    "final_loss": 1.2989136923356182
+  },
+  "104": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1508257269859314,
+    "final_loss": 1.286941174073541
+  },
+  "105": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.147272789478302,
+    "final_loss": 1.2860361260720232
+  },
+  "106": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.1619783083597819,
+    "final_loss": 1.2773577498489528
+  },
+  "107": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.126190984249115,
+    "final_loss": 1.2751202154799317
+  },
+  "108": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7680467247962952,
+    "final_loss": 1.297859214897469
+  },
+  "109": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7602147698402405,
+    "final_loss": 1.295039707994413
+  },
+  "110": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7667031526565552,
+    "final_loss": 1.2860668161596218
+  },
+  "111": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7580660104751586,
+    "final_loss": 1.281552479007115
+  },
+  "112": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7639404813448588,
+    "final_loss": 1.2767153532663638
+  },
+  "113": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7534388581911723,
+    "final_loss": 1.270875128969824
+  },
+  "114": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.5354529062906901,
+    "final_loss": 1.2956603437510803
+  },
+  "115": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5326375126838684,
+    "final_loss": 1.2916497855934783
+  },
+  "116": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5324411948521932,
+    "final_loss": 1.284189789790854
+  },
+  "117": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5327693780263265,
+    "final_loss": 1.278855922323871
+  },
+  "118": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5376773556073506,
+    "final_loss": 1.2753983393520891
+  },
+  "119": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5334960579872131,
+    "final_loss": 1.2692433423201501
+  },
+  "120": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9247468908627827,
+    "final_loss": 1.3086791822118014
+  },
+  "121": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.9008794148763022,
+    "final_loss": 1.311400284469334
+  },
+  "122": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.9441586216290792,
+    "final_loss": 1.303302288942771
+  },
+  "123": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.8927995642026265,
+    "final_loss": 1.307829718516251
+  },
+  "124": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.8989713509877524,
+    "final_loss": 1.2981016185409804
+  },
+  "125": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.9148383696873983,
+    "final_loss": 1.303773311275582
+  },
+  "126": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.1570639173189798,
+    "final_loss": 1.3092646615772836
+  },
+  "127": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.13286452293396,
+    "final_loss": 1.3104244652670534
+  },
+  "128": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1512328465779622,
+    "final_loss": 1.3042445817268336
+  },
+  "129": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.1312143127123515,
+    "final_loss": 1.3058054190767237
+  },
+  "130": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.1300863345464072,
+    "final_loss": 1.2987474470834444
+  },
+  "131": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.1280985593795776,
+    "final_loss": 1.300234259062069
+  },
+  "132": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7558350523312887,
+    "final_loss": 1.3086767757698858
+  },
+  "133": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7527663230895996,
+    "final_loss": 1.3086370584463054
+  },
+  "134": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7706870277722676,
+    "final_loss": 1.303115575678615
+  },
+  "135": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7509253263473511,
+    "final_loss": 1.3024122154377382
+  },
+  "136": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7543757239977519,
+    "final_loss": 1.2973988796313443
+  },
+  "137": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7526326855023702,
+    "final_loss": 1.2956756357485735
+  },
+  "138": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.5332052151362101,
+    "final_loss": 1.30677600473406
+  },
+  "139": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5348534266153971,
+    "final_loss": 1.3052578178951386
+  },
+  "140": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5370855569839478,
+    "final_loss": 1.300512217910411
+  },
+  "141": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5333974202473958,
+    "final_loss": 1.2970014271100265
+  },
+  "142": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5368742227554322,
+    "final_loss": 1.2947986544211818
+  },
+  "143": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 0.0001,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5280977328618367,
+    "final_loss": 1.289123683752815
+  },
+  "144": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9544699430465697,
+    "final_loss": 1.2932896936506184
+  },
+  "145": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.899029258886973,
+    "final_loss": 1.2932896936506184
+  },
+  "146": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.8985579093297322,
+    "final_loss": 1.2793000895940543
+  },
+  "147": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.8570837736129762,
+    "final_loss": 1.2793000895940543
+  },
+  "148": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.8965308348337808,
+    "final_loss": 1.2682101860090382
+  },
+  "149": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.8889084299405416,
+    "final_loss": 1.2682101860090382
+  },
+  "150": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.163636334737142,
+    "final_loss": 1.295676665235823
+  },
+  "151": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.1578642805417378,
+    "final_loss": 1.295676665235823
+  },
+  "152": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1392029841740927,
+    "final_loss": 1.2824549042821172
+  },
+  "153": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.136441743373871,
+    "final_loss": 1.2824549042821172
+  },
+  "154": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.1483085711797079,
+    "final_loss": 1.2717005922265747
+  },
+  "155": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.136613094806671,
+    "final_loss": 1.2717005922265747
+  },
+  "156": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7622202555338542,
+    "final_loss": 1.296713946797958
+  },
+  "157": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7598631183306376,
+    "final_loss": 1.296713946797958
+  },
+  "158": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7640255928039551,
+    "final_loss": 1.2840439971532536
+  },
+  "159": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7572121739387512,
+    "final_loss": 1.2840439971532536
+  },
+  "160": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7679720242818197,
+    "final_loss": 1.274034119726335
+  },
+  "161": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7634296298027039,
+    "final_loss": 1.274034119726335
+  },
+  "162": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.535766339302063,
+    "final_loss": 1.2973086677282497
+  },
+  "163": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5301063577334086,
+    "final_loss": 1.2973086677282497
+  },
+  "164": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5316124041875203,
+    "final_loss": 1.2861192302618891
+  },
+  "165": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5314966400464376,
+    "final_loss": 1.2861192302618891
+  },
+  "166": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5381954352060954,
+    "final_loss": 1.2776468783065338
+  },
+  "167": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5308621287345886,
+    "final_loss": 1.2776468783065338
+  },
+  "168": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9520603140195212,
+    "final_loss": 1.3052274843653984
+  },
+  "169": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.886829380194346,
+    "final_loss": 1.3079830972918531
+  },
+  "170": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.9327357808748882,
+    "final_loss": 1.2963359663680658
+  },
+  "171": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.9061190128326415,
+    "final_loss": 1.3004354977488755
+  },
+  "172": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.9380250334739686,
+    "final_loss": 1.2878375721706916
+  },
+  "173": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.9071586370468139,
+    "final_loss": 1.2920959094067919
+  },
+  "174": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.145534344514211,
+    "final_loss": 1.305899093960317
+  },
+  "175": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.1361697872479757,
+    "final_loss": 1.306141383851047
+  },
+  "176": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.1638493339220684,
+    "final_loss": 1.2972892086169068
+  },
+  "177": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.1176729559898377,
+    "final_loss": 1.2969710461618054
+  },
+  "178": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.160615042845408,
+    "final_loss": 1.289030173902883
+  },
+  "179": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.1572399973869323,
+    "final_loss": 1.2877046372783452
+  },
+  "180": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7515755931536356,
+    "final_loss": 1.3053403988183754
+  },
+  "181": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7563941359519959,
+    "final_loss": 1.3036049615033116
+  },
+  "182": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7541638890902201,
+    "final_loss": 1.2964063024585908
+  },
+  "183": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7518444299697876,
+    "final_loss": 1.293001678684259
+  },
+  "184": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7692805846532186,
+    "final_loss": 1.2883750695125855
+  },
+  "185": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.764926262696584,
+    "final_loss": 1.2835473443187406
+  },
+  "186": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.5376751144727071,
+    "final_loss": 1.3034992326212007
+  },
+  "187": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5333807190259298,
+    "final_loss": 1.3007454039600557
+  },
+  "188": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5400700608889262,
+    "final_loss": 1.2948601489140363
+  },
+  "189": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5366323788960775,
+    "final_loss": 1.2903611315621681
+  },
+  "190": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5363663951555888,
+    "final_loss": 1.287591251819337
+  },
+  "191": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5343969146410624,
+    "final_loss": 1.2819611410061937
+  },
+  "192": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.9494714260101318,
+    "final_loss": 1.311750718881932
+  },
+  "193": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.8920618096987407,
+    "final_loss": 1.3132213388056235
+  },
+  "194": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.9717196345329284,
+    "final_loss": 1.3083576084781319
+  },
+  "195": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.9077122449874877,
+    "final_loss": 1.3109499213027982
+  },
+  "196": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.9257988174756369,
+    "final_loss": 1.3047927200720024
+  },
+  "197": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 5,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.8980044960975646,
+    "final_loss": 1.3083648977452065
+  },
+  "198": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 1.146953010559082,
+    "final_loss": 1.3120831869430623
+  },
+  "199": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 1.1319428086280823,
+    "final_loss": 1.3127179937945603
+  },
+  "200": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 1.15610058705012,
+    "final_loss": 1.3089081328406549
+  },
+  "201": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 1.157722008228302,
+    "final_loss": 1.3099654583567066
+  },
+  "202": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 1.1408749063809713,
+    "final_loss": 1.3054885401678076
+  },
+  "203": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 10,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 1.134170138835907,
+    "final_loss": 1.306509476517019
+  },
+  "204": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.7616297284762065,
+    "final_loss": 1.311724888819421
+  },
+  "205": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7595537821451823,
+    "final_loss": 1.311739019750819
+  },
+  "206": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.7697183648745219,
+    "final_loss": 1.3082240934186624
+  },
+  "207": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.7646593650182089,
+    "final_loss": 1.307872976662868
+  },
+  "208": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.7661494255065918,
+    "final_loss": 1.3047285621015101
+  },
+  "209": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 20,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.7554516990979513,
+    "final_loss": 1.303574113941957
+  },
+  "210": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": true,
+    "time_min": 0.531888735294342,
+    "final_loss": 1.310338122719324
+  },
+  "211": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 100,
+    "rms_global_prior": false,
+    "time_min": 0.532494862874349,
+    "final_loss": 1.3095350938688552
+  },
+  "212": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": true,
+    "time_min": 0.5339265624682109,
+    "final_loss": 1.3066710726798172
+  },
+  "213": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 250,
+    "rms_global_prior": false,
+    "time_min": 0.5290269374847412,
+    "final_loss": 1.3046087512512605
+  },
+  "214": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": true,
+    "time_min": 0.5296438018480937,
+    "final_loss": 1.3030228778131272
+  },
+  "215": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "rms",
+    "learning_rate": 5e-05,
+    "decay_coef": 0.01,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_est_train_size": 1000000,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "rms_est_batch_size": 500,
+    "rms_global_prior": false,
+    "time_min": 0.5254376689592998,
+    "final_loss": 1.2993848522510232
+  },
+  "best_key": 39,
+  "total_time_min": 237.00289193789163
+}
