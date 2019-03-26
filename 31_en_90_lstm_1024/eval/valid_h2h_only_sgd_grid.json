@@ -1,0 +1,12 @@
+{
+  "file": ["datasets/es-en/en/valid.txt"],
+  "eval_char_count": [100000],
+  "models": [0],
+  "dynamic": [true, false],
+  "dynamic_type": ["sgd"],
+  "learning_rate"     : [0.001, 0.01, 0.1, 0.3, 0.5, 0.7, 1],
+  "decay_coef"        : [0, 0.0001, 0.001],
+  "num_timesteps"     : [1, 5, 10, 20, 50],
+  "params_to_adapt"   : [["rnn.weight_hh_l0", "rnn.bias_hh_l0"]],
+  "stats_interval"       : [100]
+}

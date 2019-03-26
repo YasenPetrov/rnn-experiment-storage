@@ -1,0 +1,1802 @@
+{
+  "0": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.266772405306498,
+    "final_loss": 1.3115189624105537
+  },
+  "1": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.617593228816986,
+    "final_loss": 1.3131800467271053
+  },
+  "2": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0245624979337056,
+    "final_loss": 1.313765332296383
+  },
+  "3": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7005698839823405,
+    "final_loss": 1.3141960409502131
+  },
+  "4": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5038460771242778,
+    "final_loss": 1.3145779220449572
+  },
+  "5": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.0001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.530701303482056,
+    "final_loss": 1.3134763862663144
+  },
+  "6": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.0001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6584283630053203,
+    "final_loss": 1.313637173884581
+  },
+  "7": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0157416979471843,
+    "final_loss": 1.3139504365971808
+  },
+  "8": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.0001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6952800949414571,
+    "final_loss": 1.3142656386931293
+  },
+  "9": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.0001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5054227153460185,
+    "final_loss": 1.3145950692043238
+  },
+  "10": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.314880537986755,
+    "final_loss": 1.3146314681555875
+  },
+  "11": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6637144009272258,
+    "final_loss": 1.3145916198067082
+  },
+  "12": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0174800793329875,
+    "final_loss": 1.3145905726250902
+  },
+  "13": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7017004251480102,
+    "final_loss": 1.3146165457670036
+  },
+  "14": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.001,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5046833594640096,
+    "final_loss": 1.3147124197603224
+  },
+  "15": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.353349483013153,
+    "final_loss": 1.2932783506426515
+  },
+  "16": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6645291884740194,
+    "final_loss": 1.301095514492546
+  },
+  "17": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0209730625152589,
+    "final_loss": 1.3051816894396702
+  },
+  "18": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6859797080357869,
+    "final_loss": 1.3083011434827683
+  },
+  "19": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.506960415840149,
+    "final_loss": 1.3111285124196708
+  },
+  "20": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.0001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.065328005949656,
+    "final_loss": 1.303035690560925
+  },
+  "21": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.0001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.5998433152834575,
+    "final_loss": 1.3041027889789587
+  },
+  "22": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0081456263860067,
+    "final_loss": 1.3064580923793794
+  },
+  "23": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.0001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6971571922302247,
+    "final_loss": 1.3087971591478273
+  },
+  "24": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.0001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5080646753311158,
+    "final_loss": 1.3112695175473985
+  },
+  "25": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.193480571111043,
+    "final_loss": 1.311642190993033
+  },
+  "26": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6315109093983968,
+    "final_loss": 1.31123520699209
+  },
+  "27": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.9780667940775554,
+    "final_loss": 1.3112326433666668
+  },
+  "28": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6985467195510864,
+    "final_loss": 1.3114509619742833
+  },
+  "29": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.01,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5079436143239339,
+    "final_loss": 1.312244435455234
+  },
+  "30": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.4899080991744995,
+    "final_loss": 1.2744329692083765
+  },
+  "31": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6619206508000692,
+    "final_loss": 1.2664885761378732
+  },
+  "32": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0116524577140809,
+    "final_loss": 1.2751103099176144
+  },
+  "33": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6856707851092021,
+    "final_loss": 1.2842236819855977
+  },
+  "34": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5064196228981018,
+    "final_loss": 1.29480216600863
+  },
+  "35": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.358021354675293,
+    "final_loss": 1.267302454457824
+  },
+  "36": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6272050062815349,
+    "final_loss": 1.2686331824396944
+  },
+  "37": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0131543477376301,
+    "final_loss": 1.2766455745767509
+  },
+  "38": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6915317495663961,
+    "final_loss": 1.2850605074557517
+  },
+  "39": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5080629587173462,
+    "final_loss": 1.2951339840144915
+  },
+  "40": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.4310857852300005,
+    "final_loss": 1.2919415177368914
+  },
+  "41": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6617611090342204,
+    "final_loss": 1.2888301803719697
+  },
+  "42": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0107531309127809,
+    "final_loss": 1.2900811642444552
+  },
+  "43": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.677637537320455,
+    "final_loss": 1.2925445134917726
+  },
+  "44": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.500108524163564,
+    "final_loss": 1.297992589201131
+  },
+  "45": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.241693433125814,
+    "final_loss": 1.3917370709490928
+  },
+  "46": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.631877557436625,
+    "final_loss": 1.2609173291675615
+  },
+  "47": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.9777849117914835,
+    "final_loss": 1.26095232909354
+  },
+  "48": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6782627542813618,
+    "final_loss": 1.267841089025812
+  },
+  "49": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.4973896622657776,
+    "final_loss": 1.2801320037838426
+  },
+  "50": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.0001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 5.893736247221629,
+    "final_loss": 1.2825946904454224
+  },
+  "51": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.0001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6518648227055868,
+    "final_loss": 1.2548924735953568
+  },
+  "52": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.024229613939921,
+    "final_loss": 1.2596701322504353
+  },
+  "53": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.0001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6940861860911052,
+    "final_loss": 1.268021589974349
+  },
+  "54": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.0001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5093515038490295,
+    "final_loss": 1.280425885638911
+  },
+  "55": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.351025315125783,
+    "final_loss": 1.2778452320912992
+  },
+  "56": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6620118737220764,
+    "final_loss": 1.2682273240794346
+  },
+  "57": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0025253176689148,
+    "final_loss": 1.2700376673814893
+  },
+  "58": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6947490175565084,
+    "final_loss": 1.2743472715447322
+  },
+  "59": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.3,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5084818323453267,
+    "final_loss": 1.2834135082922482
+  },
+  "60": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.285159703095754,
+    "final_loss": 1.6376725448600828
+  },
+  "61": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6003865520159404,
+    "final_loss": 1.2760347416228055
+  },
+  "62": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0158931493759156,
+    "final_loss": 1.2611116616957998
+  },
+  "63": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6949434757232666,
+    "final_loss": 1.2622423945156784
+  },
+  "64": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5081627209981282,
+    "final_loss": 1.2727346995378164
+  },
+  "65": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.0001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.264336665471395,
+    "final_loss": 1.3560217748524732
+  },
+  "66": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.0001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6667759537696838,
+    "final_loss": 1.2609720017838617
+  },
+  "67": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.002305511633555,
+    "final_loss": 1.2570797408168974
+  },
+  "68": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.0001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7007438659667968,
+    "final_loss": 1.2615855617043081
+  },
+  "69": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.0001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5075049797693888,
+    "final_loss": 1.272919762348001
+  },
+  "70": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.304053314526876,
+    "final_loss": 1.2836328219242819
+  },
+  "71": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6239452640215555,
+    "final_loss": 1.2615759681213357
+  },
+  "72": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.01049485206604,
+    "final_loss": 1.2618184091131053
+  },
+  "73": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6963476300239563,
+    "final_loss": 1.2656790991438585
+  },
+  "74": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5087117870648702,
+    "final_loss": 1.2754954032994825
+  },
+  "75": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.261206686496735,
+    "final_loss": 1.893253156768293
+  },
+  "76": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6589763879776,
+    "final_loss": 1.3027898967439318
+  },
+  "77": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0065622409184773,
+    "final_loss": 1.2673370345030028
+  },
+  "78": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6953569809595744,
+    "final_loss": 1.2610918777915845
+  },
+  "79": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5061022043228149,
+    "final_loss": 1.268047675578288
+  },
+  "80": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.0001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.4246108094851175,
+    "final_loss": 1.4920057216023745
+  },
+  "81": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.0001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6392873207728067,
+    "final_loss": 1.2775876909642379
+  },
+  "82": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.9786214113235474,
+    "final_loss": 1.260043155895656
+  },
+  "83": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.0001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6846441388130188,
+    "final_loss": 1.2593317675286708
+  },
+  "84": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.0001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5079272389411926,
+    "final_loss": 1.2680916504537858
+  },
+  "85": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.339082316557566,
+    "final_loss": 1.3040822687165867
+  },
+  "86": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6603830814361573,
+    "final_loss": 1.2612225645550443
+  },
+  "87": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0151065905888876,
+    "final_loss": 1.2584566426566295
+  },
+  "88": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6989070574442545,
+    "final_loss": 1.2607887871313874
+  },
+  "89": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5084515651067097,
+    "final_loss": 1.2701804534565166
+  },
+  "90": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.472228268782298,
+    "final_loss": 2.2493734655220594
+  },
+  "91": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.6300127943356832,
+    "final_loss": 1.3622551080333976
+  },
+  "92": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0195211172103882,
+    "final_loss": 1.2854366574332716
+  },
+  "93": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6980661193529765,
+    "final_loss": 1.264587220234971
+  },
+  "94": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.504972227414449,
+    "final_loss": 1.2638292899522496
+  },
+  "95": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.316242829958598,
+    "final_loss": 1.8540318369406876
+  },
+  "96": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.654021692276001,
+    "final_loss": 1.3092193914450379
+  },
+  "97": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0139106353123983,
+    "final_loss": 1.2721504336571492
+  },
+  "98": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.7005151112874349,
+    "final_loss": 1.261695187606739
+  },
+  "99": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.0001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5080920775731405,
+    "final_loss": 1.2636921066471745
+  },
+  "100": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.001,
+    "num_timesteps": 1,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 6.122758305072784,
+    "final_loss": 1.359041699430041
+  },
+  "101": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.001,
+    "num_timesteps": 5,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.603116265932719,
+    "final_loss": 1.2698797317495871
+  },
+  "102": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.001,
+    "num_timesteps": 10,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 1.0202947775522868,
+    "final_loss": 1.2592736689872188
+  },
+  "103": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.001,
+    "num_timesteps": 20,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.6922232826550802,
+    "final_loss": 1.2574025082752847
+  },
+  "104": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": 100000,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 1,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "params_to_adapt": [
+      "rnn.weight_hh_l0",
+      "rnn.bias_hh_l0"
+    ],
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 0.5045978307724,
+    "final_loss": 1.264871070737642
+  },
+  "105": {
+    "file": "datasets/es-en/en/valid.txt",
+    "dynamic": false,
+    "num_timesteps": 100,
+    "stats_interval": 100,
+    "learning_rate": null,
+    "decay_coef": null,
+    "eval_char_count": 100000,
+    "rms_global_prior": false,
+    "dynamic_type": "sgd",
+    "time_min": 0.20483133395512898,
+    "final_loss": 1.3150143931545761
+  },
+  "best_key": 51,
+  "total_time_min": 213.33561564683913
+}
