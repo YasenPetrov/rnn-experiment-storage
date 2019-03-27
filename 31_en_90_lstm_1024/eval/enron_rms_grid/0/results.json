@@ -11,7 +11,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.080436182022095,
+    "time_min": 2.0629576126734417,
     "final_loss": 38.62954628269156
   },
   "1": {
@@ -26,7 +26,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.057764506340027,
+    "time_min": 2.1065876960754393,
     "final_loss": 38.62954628269156
   },
   "2": {
@@ -41,7 +41,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.082951041062673,
+    "time_min": 2.0508289972941083,
     "final_loss": 64.43048369928384
   },
   "3": {
@@ -56,7 +56,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.0667675534884133,
+    "time_min": 2.0866243203481036,
     "final_loss": 64.43048369928384
   },
   "4": {
@@ -71,7 +71,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.0951706727345782,
+    "time_min": 2.152633313337962,
     "final_loss": 139.65897174396997
   },
   "5": {
@@ -86,7 +86,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.019592595100403,
+    "time_min": 2.1024535934130353,
     "final_loss": 139.65897174396997
   },
   "6": {
@@ -101,7 +101,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.209486484527588,
+    "time_min": 1.3056453744570413,
     "final_loss": 40.73644870830108
   },
   "7": {
@@ -116,7 +116,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.2094202160835266,
+    "time_min": 1.2525426546732585,
     "final_loss": 40.73644870830108
   },
   "8": {
@@ -131,7 +131,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.236013917128245,
+    "time_min": 1.2742680549621581,
     "final_loss": 73.09223167826613
   },
   "9": {
@@ -146,7 +146,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.2011056701342264,
+    "time_min": 1.253881831963857,
     "final_loss": 73.09223167826613
   },
   "10": {
@@ -161,7 +161,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.19749356508255,
+    "time_min": 1.2881719986597697,
     "final_loss": 147.46858965612748
   },
   "11": {
@@ -176,7 +176,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1900920907656352,
+    "time_min": 1.1944578289985657,
     "final_loss": 147.46858965612748
   },
   "12": {
@@ -191,7 +191,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8014098048210144,
+    "time_min": 0.8505083640416463,
     "final_loss": 2.499519005467038
   },
   "13": {
@@ -206,7 +206,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7903897881507873,
+    "time_min": 0.8007056593894959,
     "final_loss": 2.499519005467038
   },
   "14": {
@@ -221,7 +221,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8063140630722045,
+    "time_min": 0.8952648361523946,
     "final_loss": 2.4252736426980683
   },
   "15": {
@@ -236,7 +236,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8022909681002299,
+    "time_min": 0.8387972315152487,
     "final_loss": 2.4252736426980683
   },
   "16": {
@@ -251,7 +251,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7951700250307719,
+    "time_min": 0.8099408825238545,
     "final_loss": 2.4062790853628067
   },
   "17": {
@@ -266,7 +266,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7887552777926127,
+    "time_min": 0.8095290899276734,
     "final_loss": 2.4062790853628067
   },
   "18": {
@@ -281,7 +281,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.55006978114446,
+    "time_min": 0.5877045313517253,
     "final_loss": 2.4602196981288134
   },
   "19": {
@@ -296,7 +296,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5458893577257792,
+    "time_min": 0.5871673027674357,
     "final_loss": 2.4602196981288134
   },
   "20": {
@@ -311,7 +311,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5496902306874593,
+    "time_min": 0.5550931851069133,
     "final_loss": 2.318678577526589
   },
   "21": {
@@ -326,7 +326,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5488716880480449,
+    "time_min": 0.5627937277158102,
     "final_loss": 2.318678577526589
   },
   "22": {
@@ -341,7 +341,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5510707060496013,
+    "time_min": 0.5607051531473796,
     "final_loss": 2.340154779099393
   },
   "23": {
@@ -356,7 +356,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5459764679272969,
+    "time_min": 0.5511077841122946,
     "final_loss": 2.340154779099393
   },
   "24": {
@@ -371,7 +371,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.0870513558387755,
+    "time_min": 2.083024966716766,
     "final_loss": 36.99404958907927
   },
   "25": {
@@ -386,7 +386,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.007151210308075,
+    "time_min": 2.0470234990119933,
     "final_loss": 9.135207380160173
   },
   "26": {
@@ -401,7 +401,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.084331524372101,
+    "time_min": 2.1162136077880858,
     "final_loss": 78.75317586742895
   },
   "27": {
@@ -416,7 +416,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.038159481684367,
+    "time_min": 2.0520266612370808,
     "final_loss": 29.94258312835714
   },
   "28": {
@@ -431,7 +431,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.086334733168284,
+    "time_min": 2.114864881833394,
     "final_loss": 86.8761507811348
   },
   "29": {
@@ -446,7 +446,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.0646719177563986,
+    "time_min": 2.0618736108144122,
     "final_loss": 51.82177561065726
   },
   "30": {
@@ -461,7 +461,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.2400721112887065,
+    "time_min": 1.2386868913968405,
     "final_loss": 35.96789263314267
   },
   "31": {
@@ -476,7 +476,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.2161940813064576,
+    "time_min": 1.1932384451230367,
     "final_loss": 2.9129307275564185
   },
   "32": {
@@ -491,7 +491,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.2218236684799195,
+    "time_min": 1.226660176118215,
     "final_loss": 103.63885980165315
   },
   "33": {
@@ -506,7 +506,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.2086264173189798,
+    "time_min": 1.1957558949788412,
     "final_loss": 41.22562069928361
   },
   "34": {
@@ -521,7 +521,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2295919060707092,
+    "time_min": 1.2423076232274373,
     "final_loss": 105.22475632365334
   },
   "35": {
@@ -536,7 +536,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1977487762769063,
+    "time_min": 1.2296959360440571,
     "final_loss": 116.98276475552755
   },
   "36": {
@@ -551,7 +551,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7934021592140198,
+    "time_min": 0.8150331735610962,
     "final_loss": 2.6750595504276546
   },
   "37": {
@@ -566,7 +566,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7851863225301107,
+    "time_min": 0.7973939935366313,
     "final_loss": 2.6308044195481775
   },
   "38": {
@@ -581,7 +581,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7951868454615275,
+    "time_min": 0.814396079381307,
     "final_loss": 2.5166816553710114
   },
   "39": {
@@ -596,7 +596,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.786383847395579,
+    "time_min": 0.7999805490175883,
     "final_loss": 2.470729801753861
   },
   "40": {
@@ -611,7 +611,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.802706531683604,
+    "time_min": 0.8087872703870137,
     "final_loss": 327.473252303049
   },
   "41": {
@@ -626,7 +626,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7930836955706279,
+    "time_min": 0.8003354628880819,
     "final_loss": 176.08865131261263
   },
   "42": {
@@ -641,7 +641,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5491350253423055,
+    "time_min": 0.5542601625124614,
     "final_loss": 2.5578883528608283
   },
   "43": {
@@ -656,7 +656,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5442320466041565,
+    "time_min": 0.5470389525095621,
     "final_loss": 2.5198495484828793
   },
   "44": {
@@ -671,7 +671,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5495295047760009,
+    "time_min": 0.5515609701474508,
     "final_loss": 2.3925954084033214
   },
   "45": {
@@ -686,7 +686,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5465981602668762,
+    "time_min": 0.5509807546933492,
     "final_loss": 2.3749356674724558
   },
   "46": {
@@ -701,7 +701,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5502434174219767,
+    "time_min": 0.554449204603831,
     "final_loss": 2.3251001450285065
   },
   "47": {
@@ -716,7 +716,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5471836209297181,
+    "time_min": 0.5471546570460002,
     "final_loss": 2.3148665537683195
   },
   "48": {
@@ -731,8 +731,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.0764652848243714,
-    "final_loss": NaN
+    "time_min": 2.1192118763923644,
+    "final_loss": 35.79672210412623
   },
   "49": {
     "file": "datasets/enron/valid.txt",
@@ -746,7 +746,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.0400055408477784,
+    "time_min": 2.0447381734848022,
     "final_loss": 3.7276447090960927
   },
   "50": {
@@ -761,8 +761,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.0779748797416686,
-    "final_loss": NaN
+    "time_min": 2.1108601888020835,
+    "final_loss": 55.99939149220123
   },
   "51": {
     "file": "datasets/enron/valid.txt",
@@ -776,7 +776,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.0176296830177307,
+    "time_min": 2.051146368185679,
     "final_loss": 7.3303979001004596
   },
   "52": {
@@ -791,8 +791,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.052109869321187,
-    "final_loss": NaN
+    "time_min": 2.054123667875926,
+    "final_loss": 99.76427209608269
   },
   "53": {
     "file": "datasets/enron/valid.txt",
@@ -806,7 +806,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.0252707878748577,
+    "time_min": 2.0080348094304403,
     "final_loss": 18.660167884644594
   },
   "54": {
@@ -821,8 +821,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.2133493065834045,
-    "final_loss": 23.79723820080561
+    "time_min": 1.236126466592153,
+    "final_loss": 10.09932878575859
   },
   "55": {
     "file": "datasets/enron/valid.txt",
@@ -836,7 +836,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.2031134208043417,
+    "time_min": 1.193449115753174,
     "final_loss": 3.26399002578666
   },
   "56": {
@@ -851,8 +851,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.2333454449971517,
-    "final_loss": NaN
+    "time_min": 1.2193145394325255,
+    "final_loss": 72.73779571658476
   },
   "57": {
     "file": "datasets/enron/valid.txt",
@@ -866,7 +866,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.2052515308062235,
+    "time_min": 1.1945064345995584,
     "final_loss": 5.313084736603317
   },
   "58": {
@@ -881,8 +881,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2199818690617878,
-    "final_loss": NaN
+    "time_min": 1.2564846714337667,
+    "final_loss": 144.96282308864738
   },
   "59": {
     "file": "datasets/enron/valid.txt",
@@ -896,7 +896,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.203049635887146,
+    "time_min": 1.2258527636528016,
     "final_loss": 22.38744168304635
   },
   "60": {
@@ -911,8 +911,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8021470745404561,
-    "final_loss": 2.974352351823603
+    "time_min": 0.8098907947540284,
+    "final_loss": 2.9430020569989654
   },
   "61": {
     "file": "datasets/enron/valid.txt",
@@ -926,7 +926,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8004979372024537,
+    "time_min": 0.8009557207425435,
     "final_loss": 3.048078859720695
   },
   "62": {
@@ -941,8 +941,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8023372928301493,
-    "final_loss": NaN
+    "time_min": 0.8091031869252523,
+    "final_loss": 58.29567489508855
   },
   "63": {
     "file": "datasets/enron/valid.txt",
@@ -956,7 +956,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7970075011253357,
+    "time_min": 0.8014639616012573,
     "final_loss": 5.9678015749714195
   },
   "64": {
@@ -971,8 +971,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8036765972773234,
-    "final_loss": NaN
+    "time_min": 0.8152460773785909,
+    "final_loss": 217.8122533988369
   },
   "65": {
     "file": "datasets/enron/valid.txt",
@@ -986,7 +986,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8009864171346028,
+    "time_min": 0.8001386602719625,
     "final_loss": 2.7228880740573915
   },
   "66": {
@@ -1001,8 +1001,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5416885614395142,
-    "final_loss": NaN
+    "time_min": 0.5525625268618266,
+    "final_loss": 2.823164124351508
   },
   "67": {
     "file": "datasets/enron/valid.txt",
@@ -1016,7 +1016,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.54325932264328,
+    "time_min": 0.5503171205520629,
     "final_loss": 126.59584806823452
   },
   "68": {
@@ -1031,8 +1031,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5508577505747477,
-    "final_loss": NaN
+    "time_min": 0.5530389189720154,
+    "final_loss": 246.83297572275688
   },
   "69": {
     "file": "datasets/enron/valid.txt",
@@ -1046,7 +1046,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.547201399008433,
+    "time_min": 0.551327915986379,
     "final_loss": 2.6762096302560248
   },
   "70": {
@@ -1061,8 +1061,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5508236606915792,
-    "final_loss": NaN
+    "time_min": 0.5564952890078226,
+    "final_loss": 233.40428279293258
   },
   "71": {
     "file": "datasets/enron/valid.txt",
@@ -1076,7 +1076,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5455448389053345,
+    "time_min": 0.5524914344151814,
     "final_loss": 2.57348056645367
   },
   "72": {
@@ -1091,7 +1091,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.096959332625071,
+    "time_min": 2.1304506063461304,
     "final_loss": 2.761030140304112
   },
   "73": {
@@ -1106,7 +1106,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.047820870081584,
+    "time_min": 2.079584284623464,
     "final_loss": 2.761030140304112
   },
   "74": {
@@ -1121,7 +1121,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.0722740332285565,
+    "time_min": 2.114468542734782,
     "final_loss": 2.570783448031551
   },
   "75": {
@@ -1136,7 +1136,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.050645923614502,
+    "time_min": 2.065273137887319,
     "final_loss": 2.570783448031551
   },
   "76": {
@@ -1151,7 +1151,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.077117955684662,
+    "time_min": 2.0541064778963727,
     "final_loss": 2.435886512070175
   },
   "77": {
@@ -1166,7 +1166,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.039726710319519,
+    "time_min": 2.0077950716018678,
     "final_loss": 2.435886512070175
   },
   "78": {
@@ -1181,7 +1181,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.2233819564183552,
+    "time_min": 1.2144355257352193,
     "final_loss": 2.8057865232131616
   },
   "79": {
@@ -1196,7 +1196,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.2045507351557414,
+    "time_min": 1.2210860172907512,
     "final_loss": 2.8057865232131616
   },
   "80": {
@@ -1211,7 +1211,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.2295425216356912,
+    "time_min": 1.249321973323822,
     "final_loss": 2.611099638714942
   },
   "81": {
@@ -1226,7 +1226,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.2194501280784606,
+    "time_min": 1.2146963000297546,
     "final_loss": 2.611099638714942
   },
   "82": {
@@ -1241,7 +1241,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2357620199521382,
+    "time_min": 1.2192301670710246,
     "final_loss": 2.4724617578685946
   },
   "83": {
@@ -1256,7 +1256,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.2081777731577554,
+    "time_min": 1.2310940742492675,
     "final_loss": 2.4724617578685946
   },
   "84": {
@@ -1271,7 +1271,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8023569226264954,
+    "time_min": 0.81229647397995,
     "final_loss": 2.862453040530214
   },
   "85": {
@@ -1286,7 +1286,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7796177506446839,
+    "time_min": 0.80415780544281,
     "final_loss": 2.862453040530214
   },
   "86": {
@@ -1301,7 +1301,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.799577796459198,
+    "time_min": 0.8043239871660869,
     "final_loss": 2.6693394517019575
   },
   "87": {
@@ -1316,7 +1316,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7934400796890259,
+    "time_min": 0.7840962409973145,
     "final_loss": 2.6693394517019575
   },
   "88": {
@@ -1331,7 +1331,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8020770629247029,
+    "time_min": 0.7893818974494934,
     "final_loss": 2.533942128889096
   },
   "89": {
@@ -1346,7 +1346,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7918532252311706,
+    "time_min": 0.7793148835500081,
     "final_loss": 2.533942128889096
   },
   "90": {
@@ -1361,7 +1361,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5460670391718546,
+    "time_min": 0.5427680810292562,
     "final_loss": 2.957505310050879
   },
   "91": {
@@ -1376,7 +1376,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.545714509487152,
+    "time_min": 0.5389153599739075,
     "final_loss": 2.957505310050879
   },
   "92": {
@@ -1391,7 +1391,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5480095187822978,
+    "time_min": 0.5429207921028137,
     "final_loss": 2.774198856328184
   },
   "93": {
@@ -1406,7 +1406,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.545643134911855,
+    "time_min": 0.5389587004979451,
     "final_loss": 2.774198856328184
   },
   "94": {
@@ -1421,7 +1421,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5491638501485189,
+    "time_min": 0.5428804874420166,
     "final_loss": 2.651481934059063
   },
   "95": {
@@ -1436,7 +1436,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5455223043759664,
+    "time_min": 0.5385659654935201,
     "final_loss": 2.651481934059063
   },
   "96": {
@@ -1451,7 +1451,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.0799785892168683,
+    "time_min": 2.021528693040212,
     "final_loss": 2.966796603974024
   },
   "97": {
@@ -1466,7 +1466,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.016146703561147,
+    "time_min": 2.0032318313916524,
     "final_loss": 3.1638063638099383
   },
   "98": {
@@ -1481,7 +1481,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.0727635939915974,
+    "time_min": 2.120641573270162,
     "final_loss": 2.766738673655938
   },
   "99": {
@@ -1496,7 +1496,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.025470189253489,
+    "time_min": 2.022363340854645,
     "final_loss": 2.957500348294649
   },
   "100": {
@@ -1511,7 +1511,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.0538206060727435,
+    "time_min": 2.1215330243110655,
     "final_loss": 2.6328430653314534
   },
   "101": {
@@ -1526,7 +1526,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.053768821557363,
+    "time_min": 2.062580486138662,
     "final_loss": 2.7709981018186784
   },
   "102": {
@@ -1541,7 +1541,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.2226738651593527,
+    "time_min": 1.2229115923245748,
     "final_loss": 2.9801622087470467
   },
   "103": {
@@ -1556,7 +1556,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.208872624238332,
+    "time_min": 1.1875334620475768,
     "final_loss": 3.1185440421449884
   },
   "104": {
@@ -1571,7 +1571,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.2380651553471884,
+    "time_min": 1.2352651437123616,
     "final_loss": 2.780086691177385
   },
   "105": {
@@ -1586,7 +1586,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.2045039733250935,
+    "time_min": 1.2302290439605712,
     "final_loss": 2.888895611388783
   },
   "106": {
@@ -1601,7 +1601,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2236173590024313,
+    "time_min": 1.2469494581222533,
     "final_loss": 2.641794882049667
   },
   "107": {
@@ -1616,7 +1616,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.2038057446479797,
+    "time_min": 1.2229672153790792,
     "final_loss": 2.729312331396185
   },
   "108": {
@@ -1631,7 +1631,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8009867668151855,
+    "time_min": 0.8071972449620565,
     "final_loss": 3.0382986980645263
   },
   "109": {
@@ -1646,7 +1646,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7775223930676778,
+    "time_min": 0.8024036924044291,
     "final_loss": 3.0853559313197536
   },
   "110": {
@@ -1661,7 +1661,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8027569095293681,
+    "time_min": 0.8142398953437805,
     "final_loss": 2.8372361028183914
   },
   "111": {
@@ -1676,7 +1676,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7925196290016174,
+    "time_min": 0.8015590866406759,
     "final_loss": 2.86633565248439
   },
   "112": {
@@ -1691,7 +1691,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8067144791285197,
+    "time_min": 0.8093270540237427,
     "final_loss": 2.6969681558757075
   },
   "113": {
@@ -1706,7 +1706,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7811795592308044,
+    "time_min": 0.7986857970555623,
     "final_loss": 2.7158925693249847
   },
   "114": {
@@ -1721,7 +1721,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5394050637880962,
+    "time_min": 0.5536815007527669,
     "final_loss": 3.108077425928619
   },
   "115": {
@@ -1736,7 +1736,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5351499120394388,
+    "time_min": 0.5503395716349284,
     "final_loss": 3.0732253901602093
   },
   "116": {
@@ -1751,7 +1751,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5390392581621806,
+    "time_min": 0.5541579365730286,
     "final_loss": 2.918007663653904
   },
   "117": {
@@ -1766,7 +1766,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.534949254989624,
+    "time_min": 0.5415067950884501,
     "final_loss": 2.8803608476372458
   },
   "118": {
@@ -1781,7 +1781,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5453678290049235,
+    "time_min": 0.5510624130566915,
     "final_loss": 2.790908563934801
   },
   "119": {
@@ -1796,7 +1796,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5458565711975097,
+    "time_min": 0.5507666428883871,
     "final_loss": 2.74815697100001
   },
   "120": {
@@ -1811,8 +1811,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.0927868127822875,
-    "final_loss": NaN
+    "time_min": 2.0643049041430155,
+    "final_loss": 3.1783762126539408
   },
   "121": {
     "file": "datasets/enron/valid.txt",
@@ -1826,7 +1826,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.0413534601529437,
+    "time_min": 2.083006036281586,
     "final_loss": 3.374480158771351
   },
   "122": {
@@ -1841,8 +1841,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.059986174106598,
-    "final_loss": NaN
+    "time_min": 2.129342838128408,
+    "final_loss": 3.0424460788369823
   },
   "123": {
     "file": "datasets/enron/valid.txt",
@@ -1856,7 +1856,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.053246792157491,
+    "time_min": 2.058902601401011,
     "final_loss": 3.306322058054801
   },
   "124": {
@@ -1871,8 +1871,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.095151495933533,
-    "final_loss": NaN
+    "time_min": 2.120586315790812,
+    "final_loss": 2.9067495477820606
   },
   "125": {
     "file": "datasets/enron/valid.txt",
@@ -1886,7 +1886,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.0133381287256875,
+    "time_min": 2.069454717636108,
     "final_loss": 3.2177029543476303
   },
   "126": {
@@ -1901,8 +1901,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.229787294069926,
-    "final_loss": 3.190873663482889
+    "time_min": 1.2386934995651244,
+    "final_loss": 3.190873815755387
   },
   "127": {
     "file": "datasets/enron/valid.txt",
@@ -1916,7 +1916,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.2066842754681906,
+    "time_min": 1.2106480677922566,
     "final_loss": 3.377455523582446
   },
   "128": {
@@ -1931,8 +1931,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.2300693313280742,
-    "final_loss": NaN
+    "time_min": 1.2474283615748087,
+    "final_loss": 3.0560144238681666
   },
   "129": {
     "file": "datasets/enron/valid.txt",
@@ -1946,7 +1946,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.2077473123868308,
+    "time_min": 1.211935579776764,
     "final_loss": 3.2903503248915094
   },
   "130": {
@@ -1961,8 +1961,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.208193318049113,
-    "final_loss": NaN
+    "time_min": 1.2103128552436828,
+    "final_loss": 2.912621678977162
   },
   "131": {
     "file": "datasets/enron/valid.txt",
@@ -1976,7 +1976,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.189541757106781,
+    "time_min": 1.1844809095064799,
     "final_loss": 3.182119027721445
   },
   "132": {
@@ -1991,8 +1991,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8028285185496012,
-    "final_loss": 3.2261348569698103
+    "time_min": 0.8079384446144104,
+    "final_loss": 3.226132700625536
   },
   "133": {
     "file": "datasets/enron/valid.txt",
@@ -2006,7 +2006,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7859095613161723,
+    "time_min": 0.8025280237197876,
     "final_loss": 3.394614290878918
   },
   "134": {
@@ -2021,8 +2021,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7967346429824829,
-    "final_loss": NaN
+    "time_min": 0.8141701857248942,
+    "final_loss": 3.114480536278243
   },
   "135": {
     "file": "datasets/enron/valid.txt",
@@ -2036,7 +2036,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7912603855133057,
+    "time_min": 0.8017511526743571,
     "final_loss": 3.287214188262723
   },
   "136": {
@@ -2051,8 +2051,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.809909443060557,
-    "final_loss": NaN
+    "time_min": 0.8123541116714478,
+    "final_loss": 2.998265221927182
   },
   "137": {
     "file": "datasets/enron/valid.txt",
@@ -2066,7 +2066,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7903730710347493,
+    "time_min": 0.7979792316754659,
     "final_loss": 3.1649362401096988
   },
   "138": {
@@ -2081,8 +2081,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5471863428751628,
-    "final_loss": NaN
+    "time_min": 0.5529786030451457,
+    "final_loss": 3.2770024881345687
   },
   "139": {
     "file": "datasets/enron/valid.txt",
@@ -2096,7 +2096,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5444204052289326,
+    "time_min": 0.5498916149139405,
     "final_loss": 3.434459529235972
   },
   "140": {
@@ -2111,8 +2111,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.548232106367747,
-    "final_loss": NaN
+    "time_min": 0.5516305128733318,
+    "final_loss": 3.16439169423699
   },
   "141": {
     "file": "datasets/enron/valid.txt",
@@ -2126,7 +2126,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5459776600201924,
+    "time_min": 0.5502601027488708,
     "final_loss": 3.3017753020021843
   },
   "142": {
@@ -2141,8 +2141,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5472759246826172,
-    "final_loss": NaN
+    "time_min": 0.5574345111846923,
+    "final_loss": 3.0701540882087106
   },
   "143": {
     "file": "datasets/enron/valid.txt",
@@ -2156,7 +2156,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5461641033490499,
+    "time_min": 0.5527602791786194,
     "final_loss": 3.1756833914616043
   },
   "144": {
@@ -2171,7 +2171,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.0724746863047283,
+    "time_min": 2.0939773003260296,
     "final_loss": 2.944351534070909
   },
   "145": {
@@ -2186,7 +2186,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.0370750188827516,
+    "time_min": 2.034928035736084,
     "final_loss": 2.944351534070909
   },
   "146": {
@@ -2201,7 +2201,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.100816337267558,
+    "time_min": 2.0912209590276083,
     "final_loss": 2.747713611795472
   },
   "147": {
@@ -2216,7 +2216,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.0297066728274027,
+    "time_min": 2.0830156207084656,
     "final_loss": 2.747713611795472
   },
   "148": {
@@ -2231,7 +2231,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.0637686689694723,
+    "time_min": 2.0975116729736327,
     "final_loss": 2.604533377455322
   },
   "149": {
@@ -2246,7 +2246,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.023792616526286,
+    "time_min": 2.069396456082662,
     "final_loss": 2.604533377455322
   },
   "150": {
@@ -2261,7 +2261,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.228182359536489,
+    "time_min": 1.241774038473765,
     "final_loss": 3.0009627122122002
   },
   "151": {
@@ -2276,7 +2276,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.2139747540156047,
+    "time_min": 1.2343573013941447,
     "final_loss": 3.0009627122122002
   },
   "152": {
@@ -2291,7 +2291,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.219406787554423,
+    "time_min": 1.2468606988588968,
     "final_loss": 2.8047453349174067
   },
   "153": {
@@ -2306,7 +2306,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.2166186531384786,
+    "time_min": 1.2274575432141621,
     "final_loss": 2.8047453349174067
   },
   "154": {
@@ -2321,7 +2321,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2337398568789164,
+    "time_min": 1.2437147895495098,
     "final_loss": 2.664646795669627
   },
   "155": {
@@ -2336,7 +2336,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1944470326105754,
+    "time_min": 1.2334105332692464,
     "final_loss": 2.664646795669627
   },
   "156": {
@@ -2351,7 +2351,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7949013630549113,
+    "time_min": 0.8158978939056396,
     "final_loss": 3.0680409897548757
   },
   "157": {
@@ -2366,7 +2366,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7995870629946391,
+    "time_min": 0.8000653028488159,
     "final_loss": 3.0680409897548757
   },
   "158": {
@@ -2381,7 +2381,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7882093191146851,
+    "time_min": 0.8120859344800313,
     "final_loss": 2.8753946973434403
   },
   "159": {
@@ -2396,7 +2396,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7951987822850545,
+    "time_min": 0.8032702048619588,
     "final_loss": 2.8753946973434403
   },
   "160": {
@@ -2411,7 +2411,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7961914459864299,
+    "time_min": 0.8079255938529968,
     "final_loss": 2.7382717455809846
   },
   "161": {
@@ -2426,7 +2426,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7933419624964396,
+    "time_min": 0.7979981064796448,
     "final_loss": 2.7382717455809846
   },
   "162": {
@@ -2441,7 +2441,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5496699810028076,
+    "time_min": 0.5486110846201578,
     "final_loss": 3.17014727539078
   },
   "163": {
@@ -2456,7 +2456,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5458383123079936,
+    "time_min": 0.5423003872235616,
     "final_loss": 3.17014727539078
   },
   "164": {
@@ -2471,7 +2471,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5503676335016886,
+    "time_min": 0.552365223566691,
     "final_loss": 3.0002302639479432
   },
   "165": {
@@ -2486,7 +2486,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.545117449760437,
+    "time_min": 0.5500883857409159,
     "final_loss": 3.0002302639479432
   },
   "166": {
@@ -2501,7 +2501,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5508573253949484,
+    "time_min": 0.5574684182802836,
     "final_loss": 2.876052800600192
   },
   "167": {
@@ -2516,7 +2516,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5440519730250041,
+    "time_min": 0.5524319211641947,
     "final_loss": 2.876052800600192
   },
   "168": {
@@ -2531,7 +2531,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.0876450181007384,
+    "time_min": 2.1135239879290264,
     "final_loss": 3.1543318066286004
   },
   "169": {
@@ -2546,7 +2546,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.031035363674164,
+    "time_min": 2.0522236863772076,
     "final_loss": 3.29426480188895
   },
   "170": {
@@ -2561,7 +2561,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.097445046901703,
+    "time_min": 2.088645100593567,
     "final_loss": 2.953690204610942
   },
   "171": {
@@ -2576,7 +2576,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.0539087295532226,
+    "time_min": 2.085363260904948,
     "final_loss": 3.1795434682900763
   },
   "172": {
@@ -2591,7 +2591,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.065640898545583,
+    "time_min": 2.1221381783485413,
     "final_loss": 2.8119112766339738
   },
   "173": {
@@ -2606,7 +2606,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.054767457644145,
+    "time_min": 2.0754396398862203,
     "final_loss": 3.0299397580825795
   },
   "174": {
@@ -2621,7 +2621,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.2250205397605896,
+    "time_min": 1.2107891162236533,
     "final_loss": 3.181865277362003
   },
   "175": {
@@ -2636,7 +2636,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.184560509522756,
+    "time_min": 1.1997752467791238,
     "final_loss": 3.2984732967268675
   },
   "176": {
@@ -2651,7 +2651,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.224034317334493,
+    "time_min": 1.2434388160705567,
     "final_loss": 2.988632763565929
   },
   "177": {
@@ -2666,7 +2666,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1896007259686787,
+    "time_min": 1.2084068338076273,
     "final_loss": 3.1426020363222213
   },
   "178": {
@@ -2681,7 +2681,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.224897829691569,
+    "time_min": 1.2275604128837585,
     "final_loss": 2.8530301307704367
   },
   "179": {
@@ -2696,7 +2696,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.201063883304596,
+    "time_min": 1.208998409907023,
     "final_loss": 2.97602807942701
   },
   "180": {
@@ -2711,7 +2711,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.799754269917806,
+    "time_min": 0.7976291179656982,
     "final_loss": 3.235047374029182
   },
   "181": {
@@ -2726,7 +2726,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8008553187052408,
+    "time_min": 0.7822282751401265,
     "final_loss": 3.2885104830892624
   },
   "182": {
@@ -2741,7 +2741,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8098538994789124,
+    "time_min": 0.8144441922505696,
     "final_loss": 3.05938421562686
   },
   "183": {
@@ -2756,7 +2756,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7893564939498902,
+    "time_min": 0.7852877577145895,
     "final_loss": 3.1183089238138293
   },
   "184": {
@@ -2771,7 +2771,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8101181308428447,
+    "time_min": 0.8054747462272644,
     "final_loss": 2.919164934352616
   },
   "185": {
@@ -2786,7 +2786,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7866071224212646,
+    "time_min": 0.7815132101376852,
     "final_loss": 2.962779103710268
   },
   "186": {
@@ -2801,7 +2801,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5455195824305217,
+    "time_min": 0.5440030455589294,
     "final_loss": 3.3055864703939903
   },
   "187": {
@@ -2816,7 +2816,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5425531069437662,
+    "time_min": 0.5486297369003296,
     "final_loss": 3.2960966584911358
   },
   "188": {
@@ -2831,7 +2831,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5490760763486227,
+    "time_min": 0.5563997149467468,
     "final_loss": 3.160507393404583
   },
   "189": {
@@ -2846,7 +2846,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5463638464609782,
+    "time_min": 0.5423418045043945,
     "final_loss": 3.1304197202643653
   },
   "190": {
@@ -2861,7 +2861,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5468314965565999,
+    "time_min": 0.545330301920573,
     "final_loss": 3.041894470431291
   },
   "191": {
@@ -2876,7 +2876,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5464297294616699,
+    "time_min": 0.5418014208475749,
     "final_loss": 3.0027170074890885
   },
   "192": {
@@ -2891,8 +2891,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.066005794207255,
-    "final_loss": NaN
+    "time_min": 2.0544669151306154,
+    "final_loss": 3.2614879199823643
   },
   "193": {
     "file": "datasets/enron/valid.txt",
@@ -2906,7 +2906,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.015278665224711,
+    "time_min": 2.036181883017222,
     "final_loss": 3.4804335286231467
   },
   "194": {
@@ -2921,8 +2921,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.0445354262987774,
-    "final_loss": NaN
+    "time_min": 2.12826399008433,
+    "final_loss": 3.203572909260202
   },
   "195": {
     "file": "datasets/enron/valid.txt",
@@ -2936,7 +2936,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.041461964448293,
+    "time_min": 2.0625877420107526,
     "final_loss": 3.4411166830304225
   },
   "196": {
@@ -2951,8 +2951,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.0999369382858277,
-    "final_loss": NaN
+    "time_min": 2.1140104293823243,
+    "final_loss": 3.1171701308008624
   },
   "197": {
     "file": "datasets/enron/valid.txt",
@@ -2966,7 +2966,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.039819876352946,
+    "time_min": 2.096883503595988,
     "final_loss": 3.3896037411760545
   },
   "198": {
@@ -2981,8 +2981,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.2316975633303324,
-    "final_loss": 3.2941774272962765
+    "time_min": 1.2451626618703207,
+    "final_loss": 3.2941771269882336
   },
   "199": {
     "file": "datasets/enron/valid.txt",
@@ -2996,7 +2996,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.2160056710243226,
+    "time_min": 1.2185329437255858,
     "final_loss": 3.5117109277949714
   },
   "200": {
@@ -3011,8 +3011,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.244377322991689,
-    "final_loss": NaN
+    "time_min": 1.2312119801839192,
+    "final_loss": 3.234275094784259
   },
   "201": {
     "file": "datasets/enron/valid.txt",
@@ -3026,7 +3026,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.202366590499878,
+    "time_min": 1.210784105459849,
     "final_loss": 3.4611465259641867
   },
   "202": {
@@ -3041,8 +3041,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2388187607129415,
-    "final_loss": NaN
+    "time_min": 1.2475834925969442,
+    "final_loss": 3.141561105615229
   },
   "203": {
     "file": "datasets/enron/valid.txt",
@@ -3056,7 +3056,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.211862333615621,
+    "time_min": 1.2276763876279195,
     "final_loss": 3.396439932371159
   },
   "204": {
@@ -3071,8 +3071,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8001523693402608,
-    "final_loss": 3.3369351095728197
+    "time_min": 0.8124657710393269,
+    "final_loss": 3.3369333140567456
   },
   "205": {
     "file": "datasets/enron/valid.txt",
@@ -3086,7 +3086,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.791100017229716,
+    "time_min": 0.7957443992296854,
     "final_loss": 3.553433351765509
   },
   "206": {
@@ -3101,8 +3101,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8010105331738789,
-    "final_loss": NaN
+    "time_min": 0.8149595459302267,
+    "final_loss": 3.2756383901970194
   },
   "207": {
     "file": "datasets/enron/valid.txt",
@@ -3116,7 +3116,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7942151665687561,
+    "time_min": 0.7979515790939331,
     "final_loss": 3.4892685878331617
   },
   "208": {
@@ -3131,8 +3131,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7911839127540589,
-    "final_loss": NaN
+    "time_min": 0.8123390197753906,
+    "final_loss": 3.203089628762901
   },
   "209": {
     "file": "datasets/enron/valid.txt",
@@ -3146,7 +3146,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7854479034741719,
+    "time_min": 0.8005223671595255,
     "final_loss": 3.412893208874503
   },
   "210": {
@@ -3161,8 +3161,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5485988219579061,
-    "final_loss": NaN
+    "time_min": 0.5546126365661621,
+    "final_loss": 3.412010183310296
   },
   "211": {
     "file": "datasets/enron/valid.txt",
@@ -3176,7 +3176,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5448009014129639,
+    "time_min": 0.5504546403884888,
     "final_loss": 3.6143542222597107
   },
   "212": {
@@ -3191,8 +3191,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5482056220372518,
-    "final_loss": NaN
+    "time_min": 0.5556681871414184,
+    "final_loss": 3.3470234810022332
   },
   "213": {
     "file": "datasets/enron/valid.txt",
@@ -3206,7 +3206,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5448180198669433,
+    "time_min": 0.5483746965726216,
     "final_loss": 3.5335249885126827
   },
   "214": {
@@ -3221,8 +3221,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5481540958086649,
-    "final_loss": NaN
+    "time_min": 0.5537498792012533,
+    "final_loss": 3.2844379331343103
   },
   "215": {
     "file": "datasets/enron/valid.txt",
@@ -3236,9 +3236,9 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5464219768842061,
+    "time_min": 0.5473614851633708,
     "final_loss": 3.450502531306011
   },
   "best_key": 47,
-  "total_time_min": 249.24049464066823
+  "total_time_min": 251.92062360445658
 }
