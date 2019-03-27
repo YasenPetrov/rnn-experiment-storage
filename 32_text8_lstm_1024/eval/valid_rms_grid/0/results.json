@@ -11,8 +11,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.280780192216237,
-    "final_loss": 1.453009384325713
+    "time_min": 2.3373012502988177,
+    "final_loss": 1.4570069007335336
   },
   "1": {
     "file": "datasets/text8/valid.txt",
@@ -26,8 +26,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.3248799085617065,
-    "final_loss": 1.453009384325713
+    "time_min": 2.341754404703776,
+    "final_loss": 1.4570069007335336
   },
   "2": {
     "file": "datasets/text8/valid.txt",
@@ -41,8 +41,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.3076550245285032,
-    "final_loss": 1.5099043902535727
+    "time_min": 2.325322898228963,
+    "final_loss": 1.5118070170060502
   },
   "3": {
     "file": "datasets/text8/valid.txt",
@@ -56,8 +56,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.250799059867859,
-    "final_loss": 1.5099043902535727
+    "time_min": 2.335373862584432,
+    "final_loss": 1.5118070170060502
   },
   "4": {
     "file": "datasets/text8/valid.txt",
@@ -71,8 +71,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.2777578910191854,
-    "final_loss": 1.6351754152540503
+    "time_min": 2.357743736108144,
+    "final_loss": 1.6219618150076451
   },
   "5": {
     "file": "datasets/text8/valid.txt",
@@ -86,8 +86,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.2777907609939576,
-    "final_loss": 1.6351754152540503
+    "time_min": 2.337420626481374,
+    "final_loss": 1.6219618150076451
   },
   "6": {
     "file": "datasets/text8/valid.txt",
@@ -101,8 +101,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.489062742392222,
-    "final_loss": 1.430142705311865
+    "time_min": 1.401390532652537,
+    "final_loss": 1.430133503885632
   },
   "7": {
     "file": "datasets/text8/valid.txt",
@@ -116,8 +116,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.440889573097229,
-    "final_loss": 1.430142705311865
+    "time_min": 1.3845205346743266,
+    "final_loss": 1.430133503885632
   },
   "8": {
     "file": "datasets/text8/valid.txt",
@@ -131,8 +131,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.4852292696634928,
-    "final_loss": 1.4522559770864931
+    "time_min": 1.8610535144805909,
+    "final_loss": 1.450788464508446
   },
   "9": {
     "file": "datasets/text8/valid.txt",
@@ -146,8 +146,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.4891891916592916,
-    "final_loss": 1.4522559770864931
+    "time_min": 1.7997021993001303,
+    "final_loss": 1.450788464508446
   },
   "10": {
     "file": "datasets/text8/valid.txt",
@@ -161,8 +161,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.45176020860672,
-    "final_loss": 1.5514705193744929
+    "time_min": 1.8383840401967366,
+    "final_loss": 1.5456487403581112
   },
   "11": {
     "file": "datasets/text8/valid.txt",
@@ -176,8 +176,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4833001097043355,
-    "final_loss": 1.5514705193744929
+    "time_min": 1.8347251733144125,
+    "final_loss": 1.5456487403581112
   },
   "12": {
     "file": "datasets/text8/valid.txt",
@@ -191,8 +191,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.060284705956777,
-    "final_loss": 1.4268761092124687
+    "time_min": 1.2255768458048502,
+    "final_loss": 1.426875666920386
   },
   "13": {
     "file": "datasets/text8/valid.txt",
@@ -206,8 +206,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.0540259639422098,
-    "final_loss": 1.4268761092124687
+    "time_min": 1.199949073791504,
+    "final_loss": 1.426875666920386
   },
   "14": {
     "file": "datasets/text8/valid.txt",
@@ -221,8 +221,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0620561440785725,
-    "final_loss": 1.443324558150442
+    "time_min": 1.171791954835256,
+    "final_loss": 1.4429702425780733
   },
   "15": {
     "file": "datasets/text8/valid.txt",
@@ -236,8 +236,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.0746232986450195,
-    "final_loss": 1.443324558150442
+    "time_min": 1.1850011507670084,
+    "final_loss": 1.4429702425780733
   },
   "16": {
     "file": "datasets/text8/valid.txt",
@@ -251,8 +251,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0629945675532022,
-    "final_loss": 1.5197827356110154
+    "time_min": 1.1980407595634461,
+    "final_loss": 1.519693847003504
   },
   "17": {
     "file": "datasets/text8/valid.txt",
@@ -266,8 +266,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0533110936482748,
-    "final_loss": 1.5197827356110154
+    "time_min": 1.2052727937698364,
+    "final_loss": 1.519693847003504
   },
   "18": {
     "file": "datasets/text8/valid.txt",
@@ -281,8 +281,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7956258376439412,
-    "final_loss": 1.4300635110384818
+    "time_min": 0.90886975924174,
+    "final_loss": 1.429553720215279
   },
   "19": {
     "file": "datasets/text8/valid.txt",
@@ -296,8 +296,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.791250201066335,
-    "final_loss": 1.4300635110384818
+    "time_min": 0.9293972889582316,
+    "final_loss": 1.429553720215279
   },
   "20": {
     "file": "datasets/text8/valid.txt",
@@ -311,8 +311,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7978112618128459,
-    "final_loss": 1.4365990432309548
+    "time_min": 0.9175423383712769,
+    "final_loss": 1.4376476627505992
   },
   "21": {
     "file": "datasets/text8/valid.txt",
@@ -326,8 +326,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7911014437675477,
-    "final_loss": 1.4365990432309548
+    "time_min": 0.9255664149920145,
+    "final_loss": 1.4376476627505992
   },
   "22": {
     "file": "datasets/text8/valid.txt",
@@ -341,8 +341,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7975513855616252,
-    "final_loss": 1.4977356841306309
+    "time_min": 0.9323832074801127,
+    "final_loss": 1.4967095188593635
   },
   "23": {
     "file": "datasets/text8/valid.txt",
@@ -356,8 +356,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7999178250630696,
-    "final_loss": 1.4977356841306309
+    "time_min": 0.9117520054181417,
+    "final_loss": 1.4967095188593635
   },
   "24": {
     "file": "datasets/text8/valid.txt",
@@ -371,8 +371,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3452308932940165,
-    "final_loss": 1.4517801411396676
+    "time_min": 3.221050182978312,
+    "final_loss": 1.4486148868949176
   },
   "25": {
     "file": "datasets/text8/valid.txt",
@@ -386,8 +386,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.34057480096817,
-    "final_loss": 1.4404658080937556
+    "time_min": 3.194197432200114,
+    "final_loss": 1.4405733992285057
   },
   "26": {
     "file": "datasets/text8/valid.txt",
@@ -401,8 +401,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.3651259342829385,
-    "final_loss": 1.457493943402317
+    "time_min": 3.266769369443258,
+    "final_loss": 1.4556505018893924
   },
   "27": {
     "file": "datasets/text8/valid.txt",
@@ -416,8 +416,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.310663942495982,
-    "final_loss": 1.4354575933002502
+    "time_min": 3.398779571056366,
+    "final_loss": 1.437373336006749
   },
   "28": {
     "file": "datasets/text8/valid.txt",
@@ -431,8 +431,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.348144805431366,
-    "final_loss": 1.4854742704870005
+    "time_min": 3.8000813047091166,
+    "final_loss": 1.4889301169513622
   },
   "29": {
     "file": "datasets/text8/valid.txt",
@@ -446,8 +446,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.2975035389264424,
-    "final_loss": 1.4596368960290802
+    "time_min": 3.6620578209559125,
+    "final_loss": 1.46301957490988
   },
   "30": {
     "file": "datasets/text8/valid.txt",
@@ -461,8 +461,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.50779949426651,
-    "final_loss": 1.4392742489786814
+    "time_min": 2.3414101521174113,
+    "final_loss": 1.4392764124410553
   },
   "31": {
     "file": "datasets/text8/valid.txt",
@@ -476,8 +476,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.4935944239298502,
-    "final_loss": 1.4325604409952442
+    "time_min": 2.4005785544713336,
+    "final_loss": 1.4325605493145197
   },
   "32": {
     "file": "datasets/text8/valid.txt",
@@ -491,8 +491,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.5151162981986999,
-    "final_loss": 1.422091190457243
+    "time_min": 2.4206661303838093,
+    "final_loss": 1.4231970042704771
   },
   "33": {
     "file": "datasets/text8/valid.txt",
@@ -506,8 +506,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.4961294611295064,
-    "final_loss": 1.4179672876607572
+    "time_min": 2.476085952917735,
+    "final_loss": 1.4174289507570694
   },
   "34": {
     "file": "datasets/text8/valid.txt",
@@ -521,8 +521,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.5114079435666403,
-    "final_loss": 1.430746823188319
+    "time_min": 2.2616568485895794,
+    "final_loss": 1.4276559254058698
   },
   "35": {
     "file": "datasets/text8/valid.txt",
@@ -536,8 +536,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4985829790433247,
-    "final_loss": 1.435142178027376
+    "time_min": 2.2284585277239484,
+    "final_loss": 1.4392136492695966
   },
   "36": {
     "file": "datasets/text8/valid.txt",
@@ -551,8 +551,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0898227294286091,
-    "final_loss": 1.4339198839672285
+    "time_min": 1.4946385900179544,
+    "final_loss": 1.433923073342493
   },
   "37": {
     "file": "datasets/text8/valid.txt",
@@ -566,8 +566,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.0832799553871155,
-    "final_loss": 1.4260825543461029
+    "time_min": 1.4917669574419656,
+    "final_loss": 1.4260883645563849
   },
   "38": {
     "file": "datasets/text8/valid.txt",
@@ -581,8 +581,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0901427268981934,
-    "final_loss": 1.4117148969446476
+    "time_min": 1.608698590596517,
+    "final_loss": 1.4141419376716489
   },
   "39": {
     "file": "datasets/text8/valid.txt",
@@ -596,8 +596,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.080666983127594,
-    "final_loss": 1.4124149561451493
+    "time_min": 1.604423717657725,
+    "final_loss": 1.412676426571731
   },
   "40": {
     "file": "datasets/text8/valid.txt",
@@ -611,8 +611,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0867687861124675,
-    "final_loss": 1.415516393244998
+    "time_min": 1.2582748134930928,
+    "final_loss": 39.53049154502668
   },
   "41": {
     "file": "datasets/text8/valid.txt",
@@ -626,8 +626,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0789265632629395,
-    "final_loss": 1.4361482601690612
+    "time_min": 0.9212690711021423,
+    "final_loss": 1.4368274689776432
   },
   "42": {
     "file": "datasets/text8/valid.txt",
@@ -641,8 +641,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8019879460334778,
-    "final_loss": 1.430964966788103
+    "time_min": 0.6456006407737732,
+    "final_loss": 1.4309639656340967
   },
   "43": {
     "file": "datasets/text8/valid.txt",
@@ -656,8 +656,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7989315668741862,
-    "final_loss": 1.4260792085289695
+    "time_min": 0.6430316845575968,
+    "final_loss": 1.426118250719001
   },
   "44": {
     "file": "datasets/text8/valid.txt",
@@ -671,8 +671,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8016083876291911,
-    "final_loss": 1.409737870927699
+    "time_min": 0.6468258817990621,
+    "final_loss": 1.4100906105048
   },
   "45": {
     "file": "datasets/text8/valid.txt",
@@ -686,8 +686,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7980640769004822,
-    "final_loss": 1.4172534852316818
+    "time_min": 0.6501230676968892,
+    "final_loss": 1.4184632283101246
   },
   "46": {
     "file": "datasets/text8/valid.txt",
@@ -701,8 +701,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7998188495635986,
-    "final_loss": 1.4149333626747693
+    "time_min": 0.640724511941274,
+    "final_loss": 1.4155113669337882
   },
   "47": {
     "file": "datasets/text8/valid.txt",
@@ -716,8 +716,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.796879231929779,
-    "final_loss": 1.4445444166400199
+    "time_min": 0.6332254648208618,
+    "final_loss": 1.4451794947820822
   },
   "48": {
     "file": "datasets/text8/valid.txt",
@@ -731,8 +731,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.354401787122091,
-    "final_loss": 1.478252771405167
+    "time_min": 2.3477384368578593,
+    "final_loss": 1.4799960647461126
   },
   "49": {
     "file": "datasets/text8/valid.txt",
@@ -746,8 +746,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.3221617579460143,
-    "final_loss": 1.4887716355040688
+    "time_min": 2.2764400482177733,
+    "final_loss": 1.4887716297148117
   },
   "50": {
     "file": "datasets/text8/valid.txt",
@@ -761,8 +761,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.332279324531555,
-    "final_loss": 1.4698302218281518
+    "time_min": 2.305009603500366,
+    "final_loss": 1.4684211297071101
   },
   "51": {
     "file": "datasets/text8/valid.txt",
@@ -776,8 +776,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.311940022309621,
-    "final_loss": 1.4722182396245553
+    "time_min": 2.335436765352885,
+    "final_loss": 1.4724470676281494
   },
   "52": {
     "file": "datasets/text8/valid.txt",
@@ -791,8 +791,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.339117618401845,
-    "final_loss": 1.4812787473217106
+    "time_min": 2.336614425977071,
+    "final_loss": 14.17610704797169
   },
   "53": {
     "file": "datasets/text8/valid.txt",
@@ -806,8 +806,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.3172930121421813,
-    "final_loss": 1.4707251430842523
+    "time_min": 2.3216971198717755,
+    "final_loss": 1.4707817059172203
   },
   "54": {
     "file": "datasets/text8/valid.txt",
@@ -821,8 +821,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.4858774860699973,
-    "final_loss": 1.4765926143012849
+    "time_min": 1.416158930460612,
+    "final_loss": 1.4765929522601597
   },
   "55": {
     "file": "datasets/text8/valid.txt",
@@ -836,8 +836,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.492732310295105,
-    "final_loss": 1.4781670981342674
+    "time_min": 1.401699217160543,
+    "final_loss": 1.4781671023059215
   },
   "56": {
     "file": "datasets/text8/valid.txt",
@@ -851,8 +851,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.4844745715459189,
-    "final_loss": 1.456934360213975
+    "time_min": 1.4236335277557373,
+    "final_loss": 1.458913276433775
   },
   "57": {
     "file": "datasets/text8/valid.txt",
@@ -866,8 +866,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.42883593638738,
-    "final_loss": 1.4563517668512902
+    "time_min": 1.3844484408696494,
+    "final_loss": 1.4562974491342708
   },
   "58": {
     "file": "datasets/text8/valid.txt",
@@ -881,8 +881,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.4451449076334635,
-    "final_loss": 1.448688079653915
+    "time_min": 1.406155780951182,
+    "final_loss": 1.4499032075035718
   },
   "59": {
     "file": "datasets/text8/valid.txt",
@@ -896,8 +896,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4299914677937826,
-    "final_loss": 1.4490375466179455
+    "time_min": 1.3951298316319785,
+    "final_loss": 1.449837973474617
   },
   "60": {
     "file": "datasets/text8/valid.txt",
@@ -911,8 +911,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0633492827415467,
-    "final_loss": 1.4714306866165912
+    "time_min": 0.9477282643318177,
+    "final_loss": 1.471430780366484
   },
   "61": {
     "file": "datasets/text8/valid.txt",
@@ -926,8 +926,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.067017424106598,
-    "final_loss": 1.464593486225977
+    "time_min": 0.9448560833930969,
+    "final_loss": 1.4645935161595576
   },
   "62": {
     "file": "datasets/text8/valid.txt",
@@ -941,8 +941,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.085302976767222,
-    "final_loss": 1.447117359420723
+    "time_min": 0.9480256358782451,
+    "final_loss": 1.4467413966264167
   },
   "63": {
     "file": "datasets/text8/valid.txt",
@@ -956,8 +956,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.0779216011365256,
-    "final_loss": 1.4393665202982235
+    "time_min": 0.9425303141276041,
+    "final_loss": 1.4394409346072126
   },
   "64": {
     "file": "datasets/text8/valid.txt",
@@ -971,8 +971,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0823695222536722,
-    "final_loss": 1.4359415851628177
+    "time_min": 0.958285411198934,
+    "final_loss": 1.4347655869980809
   },
   "65": {
     "file": "datasets/text8/valid.txt",
@@ -986,8 +986,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0587689995765686,
-    "final_loss": 1.434004103791814
+    "time_min": 0.9271955808003743,
+    "final_loss": 1.4340832984230774
   },
   "66": {
     "file": "datasets/text8/valid.txt",
@@ -1001,8 +1001,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7974073767662049,
-    "final_loss": 1.4615869425358423
+    "time_min": 0.6483190178871154,
+    "final_loss": 1.461680966869926
   },
   "67": {
     "file": "datasets/text8/valid.txt",
@@ -1016,8 +1016,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7978828191757202,
-    "final_loss": 1.4488670861365003
+    "time_min": 0.642747179667155,
+    "final_loss": 1.448872915767923
   },
   "68": {
     "file": "datasets/text8/valid.txt",
@@ -1031,8 +1031,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7999150355656942,
-    "final_loss": 1.4363213994698942
+    "time_min": 0.6482184608777364,
+    "final_loss": 1.4362605068410754
   },
   "69": {
     "file": "datasets/text8/valid.txt",
@@ -1046,8 +1046,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7954047838846843,
-    "final_loss": 1.4248801866555012
+    "time_min": 0.644755216439565,
+    "final_loss": 1.4250016766404254
   },
   "70": {
     "file": "datasets/text8/valid.txt",
@@ -1061,8 +1061,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7965633630752563,
-    "final_loss": NaN
+    "time_min": 0.64436803261439,
+    "final_loss": 1.4221234327817562
   },
   "71": {
     "file": "datasets/text8/valid.txt",
@@ -1076,8 +1076,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7892898003260295,
-    "final_loss": 1.4219200796354627
+    "time_min": 0.6424056212107341,
+    "final_loss": 1.4219191035909233
   },
   "72": {
     "file": "datasets/text8/valid.txt",
@@ -1091,8 +1091,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3053882837295534,
-    "final_loss": 1.479650969331617
+    "time_min": 2.3872583826382954,
+    "final_loss": 1.479650972919118
   },
   "73": {
     "file": "datasets/text8/valid.txt",
@@ -1106,8 +1106,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.3038324395815533,
-    "final_loss": 1.479650969331617
+    "time_min": 2.366622010866801,
+    "final_loss": 1.479650972919118
   },
   "74": {
     "file": "datasets/text8/valid.txt",
@@ -1121,8 +1121,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.338770337899526,
-    "final_loss": 1.4564934887923542
+    "time_min": 2.928754921754201,
+    "final_loss": 1.4564934907774352
   },
   "75": {
     "file": "datasets/text8/valid.txt",
@@ -1136,8 +1136,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.3120872378349304,
-    "final_loss": 1.4564934887923542
+    "time_min": 3.1462554693222047,
+    "final_loss": 1.4564934907774352
   },
   "76": {
     "file": "datasets/text8/valid.txt",
@@ -1151,8 +1151,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.296960945924123,
-    "final_loss": 1.441593992478817
+    "time_min": 3.1750898162523904,
+    "final_loss": 1.4415939988937363
   },
   "77": {
     "file": "datasets/text8/valid.txt",
@@ -1166,8 +1166,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.311618411540985,
-    "final_loss": 1.441593992478817
+    "time_min": 3.1500580231348674,
+    "final_loss": 1.4415939988937363
   },
   "78": {
     "file": "datasets/text8/valid.txt",
@@ -1181,8 +1181,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.4729896267255147,
-    "final_loss": 1.4858217831038616
+    "time_min": 1.7996259053548178,
+    "final_loss": 1.4858217725658598
   },
   "79": {
     "file": "datasets/text8/valid.txt",
@@ -1196,8 +1196,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.4770504673322042,
-    "final_loss": 1.4858217831038616
+    "time_min": 1.7811763644218446,
+    "final_loss": 1.4858217725658598
   },
   "80": {
     "file": "datasets/text8/valid.txt",
@@ -1211,8 +1211,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.5037881970405578,
-    "final_loss": 1.4625712406493365
+    "time_min": 1.8182209809621175,
+    "final_loss": 1.4625712470155832
   },
   "81": {
     "file": "datasets/text8/valid.txt",
@@ -1226,8 +1226,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.4704188704490662,
-    "final_loss": 1.4625712406493365
+    "time_min": 1.7873074014981587,
+    "final_loss": 1.4625712470155832
   },
   "82": {
     "file": "datasets/text8/valid.txt",
@@ -1241,8 +1241,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.4789510210355123,
-    "final_loss": 1.4446714374184226
+    "time_min": 2.0036290844281512,
+    "final_loss": 1.4446714431261305
   },
   "83": {
     "file": "datasets/text8/valid.txt",
@@ -1256,8 +1256,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4810057799021403,
-    "final_loss": 1.4446714374184226
+    "time_min": 2.0930888772010805,
+    "final_loss": 1.4446714431261305
   },
   "84": {
     "file": "datasets/text8/valid.txt",
@@ -1271,8 +1271,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0767800688743592,
-    "final_loss": 1.4881128516079813
+    "time_min": 1.4266217867533366,
+    "final_loss": 1.4881128561848695
   },
   "85": {
     "file": "datasets/text8/valid.txt",
@@ -1286,8 +1286,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.072229834397634,
-    "final_loss": 1.4881128516079813
+    "time_min": 1.4237741112709046,
+    "final_loss": 1.4881128561848695
   },
   "86": {
     "file": "datasets/text8/valid.txt",
@@ -1301,8 +1301,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0794819633165995,
-    "final_loss": 1.4652022723461566
+    "time_min": 1.42915833791097,
+    "final_loss": 1.4652022628656125
   },
   "87": {
     "file": "datasets/text8/valid.txt",
@@ -1316,8 +1316,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.080686910947164,
-    "final_loss": 1.4652022723461566
+    "time_min": 1.4218215823173523,
+    "final_loss": 1.4652022628656125
   },
   "88": {
     "file": "datasets/text8/valid.txt",
@@ -1331,8 +1331,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0710572838783263,
-    "final_loss": 1.4473578560406348
+    "time_min": 1.4346387187639873,
+    "final_loss": 1.4473578572122667
   },
   "89": {
     "file": "datasets/text8/valid.txt",
@@ -1346,8 +1346,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0624701499938964,
-    "final_loss": 1.4473578560406348
+    "time_min": 1.422178284327189,
+    "final_loss": 1.4473578572122667
   },
   "90": {
     "file": "datasets/text8/valid.txt",
@@ -1361,8 +1361,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7986921230951946,
-    "final_loss": 1.4903979804400143
+    "time_min": 0.9060798088709513,
+    "final_loss": 1.4903979819448627
   },
   "91": {
     "file": "datasets/text8/valid.txt",
@@ -1376,8 +1376,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7957507888476054,
-    "final_loss": 1.4903979804400143
+    "time_min": 0.8976893862088521,
+    "final_loss": 1.4903979819448627
   },
   "92": {
     "file": "datasets/text8/valid.txt",
@@ -1391,8 +1391,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7994641304016114,
-    "final_loss": 1.4699740827496863
+    "time_min": 0.9054559946060181,
+    "final_loss": 1.4699740716138097
   },
   "93": {
     "file": "datasets/text8/valid.txt",
@@ -1406,8 +1406,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7992091615994771,
-    "final_loss": 1.4699740827496863
+    "time_min": 0.8992169300715128,
+    "final_loss": 1.4699740716138097
   },
   "94": {
     "file": "datasets/text8/valid.txt",
@@ -1421,8 +1421,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8012567639350892,
-    "final_loss": 1.4540090624505604
+    "time_min": 0.9065288702646891,
+    "final_loss": 1.4540090605802491
   },
   "95": {
     "file": "datasets/text8/valid.txt",
@@ -1436,8 +1436,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7984856883684794,
-    "final_loss": 1.4540090624505604
+    "time_min": 0.895592474937439,
+    "final_loss": 1.4540090605802491
   },
   "96": {
     "file": "datasets/text8/valid.txt",
@@ -1451,8 +1451,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3114590287208556,
-    "final_loss": 1.4998192124034764
+    "time_min": 3.71512576341629,
+    "final_loss": 1.4998192099569054
   },
   "97": {
     "file": "datasets/text8/valid.txt",
@@ -1466,8 +1466,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.3205880403518675,
-    "final_loss": 1.5020719751893472
+    "time_min": 3.691017230351766,
+    "final_loss": 1.5020719777995786
   },
   "98": {
     "file": "datasets/text8/valid.txt",
@@ -1481,8 +1481,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.337597115834554,
-    "final_loss": 1.4799094724282154
+    "time_min": 3.6639323234558105,
+    "final_loss": 1.479909475512793
   },
   "99": {
     "file": "datasets/text8/valid.txt",
@@ -1496,8 +1496,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.267765128612518,
-    "final_loss": 1.481118769472721
+    "time_min": 3.5726221521695454,
+    "final_loss": 1.4811187722488721
   },
   "100": {
     "file": "datasets/text8/valid.txt",
@@ -1511,8 +1511,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.3361039042472838,
-    "final_loss": 1.4624025089429316
+    "time_min": 3.840191662311554,
+    "final_loss": 1.4624025146292592
   },
   "101": {
     "file": "datasets/text8/valid.txt",
@@ -1526,8 +1526,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.3205888668696084,
-    "final_loss": 1.4623610502506474
+    "time_min": 3.49802534977595,
+    "final_loss": 1.4623610454183464
   },
   "102": {
     "file": "datasets/text8/valid.txt",
@@ -1541,8 +1541,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.492197322845459,
-    "final_loss": 1.5036629170207025
+    "time_min": 1.7971510330835978,
+    "final_loss": 1.5036629232680734
   },
   "103": {
     "file": "datasets/text8/valid.txt",
@@ -1556,8 +1556,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.4916006326675415,
-    "final_loss": 1.5000858397484604
+    "time_min": 1.5832199970881145,
+    "final_loss": 1.5000858410338629
   },
   "104": {
     "file": "datasets/text8/valid.txt",
@@ -1571,8 +1571,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.4987658818562826,
-    "final_loss": 1.4844166355349562
+    "time_min": 1.1713569362958272,
+    "final_loss": 1.4844166440984827
   },
   "105": {
     "file": "datasets/text8/valid.txt",
@@ -1586,8 +1586,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.486725930372874,
-    "final_loss": 1.478711407413769
+    "time_min": 1.1533658901850383,
+    "final_loss": 1.4787114138295951
   },
   "106": {
     "file": "datasets/text8/valid.txt",
@@ -1601,8 +1601,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.4664807597796121,
-    "final_loss": 1.466763738288193
+    "time_min": 1.1825293024381003,
+    "final_loss": 1.4667637412194225
   },
   "107": {
     "file": "datasets/text8/valid.txt",
@@ -1616,8 +1616,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4627394318580627,
-    "final_loss": 1.4592983043719034
+    "time_min": 1.1480456550916036,
+    "final_loss": 1.4592983262708035
   },
   "108": {
     "file": "datasets/text8/valid.txt",
@@ -1631,8 +1631,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0801631689071656,
-    "final_loss": 1.5026670294397684
+    "time_min": 0.7830979188283285,
+    "final_loss": 1.5026670186801034
   },
   "109": {
     "file": "datasets/text8/valid.txt",
@@ -1646,8 +1646,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.0798375844955443,
-    "final_loss": 1.4968082709685722
+    "time_min": 0.7751298785209656,
+    "final_loss": 1.4968082587406057
   },
   "110": {
     "file": "datasets/text8/valid.txt",
@@ -1661,8 +1661,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0860539197921752,
-    "final_loss": 1.483270630277512
+    "time_min": 0.7844006975491842,
+    "final_loss": 1.4832706228586106
   },
   "111": {
     "file": "datasets/text8/valid.txt",
@@ -1676,8 +1676,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.0812758564949037,
-    "final_loss": 1.4749138605143803
+    "time_min": 0.7590372443199158,
+    "final_loss": 1.474913860955086
   },
   "112": {
     "file": "datasets/text8/valid.txt",
@@ -1691,8 +1691,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.085173197587331,
-    "final_loss": 1.4655049541154512
+    "time_min": 0.7608535329500834,
+    "final_loss": 1.4655049678912615
   },
   "113": {
     "file": "datasets/text8/valid.txt",
@@ -1706,8 +1706,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0795716683069865,
-    "final_loss": 1.4555236782583802
+    "time_min": 0.7639096776644388,
+    "final_loss": 1.4555236748445244
   },
   "114": {
     "file": "datasets/text8/valid.txt",
@@ -1721,8 +1721,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8008004864056905,
-    "final_loss": 1.500315006943134
+    "time_min": 0.5350058714548747,
+    "final_loss": 1.5003150118446396
   },
   "115": {
     "file": "datasets/text8/valid.txt",
@@ -1736,8 +1736,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7987712144851684,
-    "final_loss": 1.4943314205423865
+    "time_min": 0.5251850406328837,
+    "final_loss": 1.494331413577089
   },
   "116": {
     "file": "datasets/text8/valid.txt",
@@ -1751,8 +1751,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8022843956947326,
-    "final_loss": 1.481527018052322
+    "time_min": 0.5281783779462178,
+    "final_loss": 1.4815270258775324
   },
   "117": {
     "file": "datasets/text8/valid.txt",
@@ -1766,8 +1766,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7994865576426188,
-    "final_loss": 1.47376960224661
+    "time_min": 0.5328487316767375,
+    "final_loss": 1.4737696018811468
   },
   "118": {
     "file": "datasets/text8/valid.txt",
@@ -1781,8 +1781,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.800859530766805,
-    "final_loss": 1.4649306406062697
+    "time_min": 0.5397916793823242,
+    "final_loss": 1.4649306325015876
   },
   "119": {
     "file": "datasets/text8/valid.txt",
@@ -1796,8 +1796,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7988266030947367,
-    "final_loss": 1.4565758445891321
+    "time_min": 0.5276818990707397,
+    "final_loss": 1.456575844868604
   },
   "120": {
     "file": "datasets/text8/valid.txt",
@@ -1811,8 +1811,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3443959911664325,
-    "final_loss": 1.5193629723709605
+    "time_min": 1.9746591687202453,
+    "final_loss": 1.5193629734102125
   },
   "121": {
     "file": "datasets/text8/valid.txt",
@@ -1826,8 +1826,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.321044333775838,
-    "final_loss": 1.5251803096124503
+    "time_min": 1.9577206134796143,
+    "final_loss": 1.5251803092035296
   },
   "122": {
     "file": "datasets/text8/valid.txt",
@@ -1841,8 +1841,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.3549327492713927,
-    "final_loss": 1.5077033816086274
+    "time_min": 1.9822355230649313,
+    "final_loss": 1.5077033837041536
   },
   "123": {
     "file": "datasets/text8/valid.txt",
@@ -1856,8 +1856,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.3220223665237425,
-    "final_loss": 1.516669064442297
+    "time_min": 1.9217348615328471,
+    "final_loss": 1.5166690646318643
   },
   "124": {
     "file": "datasets/text8/valid.txt",
@@ -1871,8 +1871,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.35421621799469,
-    "final_loss": 1.4970615777429155
+    "time_min": 1.9253594835599264,
+    "final_loss": 1.4970615807084409
   },
   "125": {
     "file": "datasets/text8/valid.txt",
@@ -1886,8 +1886,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.277470338344574,
-    "final_loss": 1.5067268714442454
+    "time_min": 1.9336798429489135,
+    "final_loss": 1.5067268671491802
   },
   "126": {
     "file": "datasets/text8/valid.txt",
@@ -1901,8 +1901,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.4980730533599853,
-    "final_loss": 1.5217311442244765
+    "time_min": 1.1629501501719157,
+    "final_loss": 1.5217311415578385
   },
   "127": {
     "file": "datasets/text8/valid.txt",
@@ -1916,8 +1916,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.4617270549138388,
-    "final_loss": 1.5230483802017671
+    "time_min": 1.1320637782414755,
+    "final_loss": 1.5230483833244615
   },
   "128": {
     "file": "datasets/text8/valid.txt",
@@ -1931,8 +1931,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.4887638131777445,
-    "final_loss": 1.512129330954946
+    "time_min": 1.1770910422007244,
+    "final_loss": 1.5121293346682931
   },
   "129": {
     "file": "datasets/text8/valid.txt",
@@ -1946,8 +1946,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.485769017537435,
-    "final_loss": 1.5121804435470119
+    "time_min": 1.1679034153620402,
+    "final_loss": 1.5121804466663806
   },
   "130": {
     "file": "datasets/text8/valid.txt",
@@ -1961,8 +1961,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.4834957639376323,
-    "final_loss": 1.5008684941041328
+    "time_min": 1.159651263554891,
+    "final_loss": 1.500868496480248
   },
   "131": {
     "file": "datasets/text8/valid.txt",
@@ -1976,8 +1976,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4449613412221274,
-    "final_loss": 1.499602326094071
+    "time_min": 1.1627087672551473,
+    "final_loss": 1.499602320581439
   },
   "132": {
     "file": "datasets/text8/valid.txt",
@@ -1991,8 +1991,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0849463105201722,
-    "final_loss": 1.5206561230460411
+    "time_min": 0.7570098042488098,
+    "final_loss": 1.5206561140040533
   },
   "133": {
     "file": "datasets/text8/valid.txt",
@@ -2006,8 +2006,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.07973823149999,
-    "final_loss": 1.518807809842498
+    "time_min": 0.7603856404622396,
+    "final_loss": 1.5188078037091666
   },
   "134": {
     "file": "datasets/text8/valid.txt",
@@ -2021,8 +2021,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0852079470952352,
-    "final_loss": 1.509339381219807
+    "time_min": 0.7759125351905822,
+    "final_loss": 1.509339377580224
   },
   "135": {
     "file": "datasets/text8/valid.txt",
@@ -2036,8 +2036,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.079272166887919,
-    "final_loss": 1.5043460651419605
+    "time_min": 0.7727352778116862,
+    "final_loss": 1.504346062353692
   },
   "136": {
     "file": "datasets/text8/valid.txt",
@@ -2051,8 +2051,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0840797742207846,
-    "final_loss": 1.4982640148190332
+    "time_min": 0.7817550659179687,
+    "final_loss": 1.4982640011356634
   },
   "137": {
     "file": "datasets/text8/valid.txt",
@@ -2066,8 +2066,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.076777442296346,
-    "final_loss": 1.4904777050143188
+    "time_min": 0.7531680385271708,
+    "final_loss": 1.4904777000504694
   },
   "138": {
     "file": "datasets/text8/valid.txt",
@@ -2081,8 +2081,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8023338119188944,
-    "final_loss": 1.517135125347813
+    "time_min": 0.5355739831924439,
+    "final_loss": 1.5171350351644102
   },
   "139": {
     "file": "datasets/text8/valid.txt",
@@ -2096,8 +2096,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.798132065931956,
-    "final_loss": 1.5107077377810072
+    "time_min": 0.5353765527407328,
+    "final_loss": 1.5107077336319261
   },
   "140": {
     "file": "datasets/text8/valid.txt",
@@ -2111,8 +2111,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.798440945148468,
-    "final_loss": 1.504647157241217
+    "time_min": 0.5304493586222331,
+    "final_loss": 1.5046469485832659
   },
   "141": {
     "file": "datasets/text8/valid.txt",
@@ -2126,8 +2126,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7973143935203553,
-    "final_loss": 1.4948268600798076
+    "time_min": 0.5251213510831197,
+    "final_loss": 1.4948268509432294
   },
   "142": {
     "file": "datasets/text8/valid.txt",
@@ -2141,8 +2141,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7990573525428772,
-    "final_loss": NaN
+    "time_min": 0.528147566318512,
+    "final_loss": 1.492269684010702
   },
   "143": {
     "file": "datasets/text8/valid.txt",
@@ -2156,8 +2156,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7917713602383931,
-    "final_loss": 1.4802195746181224
+    "time_min": 0.5247926394144694,
+    "final_loss": 1.4802195582797706
   },
   "144": {
     "file": "datasets/text8/valid.txt",
@@ -2171,8 +2171,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.290040918191274,
-    "final_loss": 1.496359620836631
+    "time_min": 1.949319064617157,
+    "final_loss": 1.4963596232389382
   },
   "145": {
     "file": "datasets/text8/valid.txt",
@@ -2186,8 +2186,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.2659020105997723,
-    "final_loss": 1.496359620836631
+    "time_min": 1.9209261973698935,
+    "final_loss": 1.4963596232389382
   },
   "146": {
     "file": "datasets/text8/valid.txt",
@@ -2201,8 +2201,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.3341936151186626,
-    "final_loss": 1.475736372899803
+    "time_min": 1.9331654151280722,
+    "final_loss": 1.47573636999684
   },
   "147": {
     "file": "datasets/text8/valid.txt",
@@ -2216,8 +2216,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.2853495677312217,
-    "final_loss": 1.475736372899803
+    "time_min": 1.962236479918162,
+    "final_loss": 1.47573636999684
   },
   "148": {
     "file": "datasets/text8/valid.txt",
@@ -2231,8 +2231,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.327176582813263,
-    "final_loss": 1.4588286440969278
+    "time_min": 1.9710689226786295,
+    "final_loss": 1.4588286429164785
   },
   "149": {
     "file": "datasets/text8/valid.txt",
@@ -2246,8 +2246,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.3203765034675596,
-    "final_loss": 1.4588286440969278
+    "time_min": 1.9277158896128337,
+    "final_loss": 1.4588286429164785
   },
   "150": {
     "file": "datasets/text8/valid.txt",
@@ -2261,8 +2261,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.4999699989954631,
-    "final_loss": 1.5012751689030939
+    "time_min": 1.152270460128784,
+    "final_loss": 1.5012751674168212
   },
   "151": {
     "file": "datasets/text8/valid.txt",
@@ -2276,8 +2276,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.482816791534424,
-    "final_loss": 1.5012751689030939
+    "time_min": 1.1590066035588582,
+    "final_loss": 1.5012751674168212
   },
   "152": {
     "file": "datasets/text8/valid.txt",
@@ -2291,8 +2291,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.4906874895095825,
-    "final_loss": 1.4818930406187596
+    "time_min": 1.1689024408658346,
+    "final_loss": 1.4818930372864278
   },
   "153": {
     "file": "datasets/text8/valid.txt",
@@ -2306,8 +2306,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.4858205397923787,
-    "final_loss": 1.4818930406187596
+    "time_min": 1.1536464770634969,
+    "final_loss": 1.4818930372864278
   },
   "154": {
     "file": "datasets/text8/valid.txt",
@@ -2321,8 +2321,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.5021034638086954,
-    "final_loss": 1.4650017618217586
+    "time_min": 1.1502130468686422,
+    "final_loss": 1.4650017537932591
   },
   "155": {
     "file": "datasets/text8/valid.txt",
@@ -2336,8 +2336,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4860778172810873,
-    "final_loss": 1.4650017618217586
+    "time_min": 1.1375388741493224,
+    "final_loss": 1.4650017537932591
   },
   "156": {
     "file": "datasets/text8/valid.txt",
@@ -2351,8 +2351,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0846030791600545,
-    "final_loss": 1.5030012055814475
+    "time_min": 0.7568385004997253,
+    "final_loss": 1.5030012002005402
   },
   "157": {
     "file": "datasets/text8/valid.txt",
@@ -2366,8 +2366,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.0795929471651713,
-    "final_loss": 1.5030012055814475
+    "time_min": 0.7514358441034953,
+    "final_loss": 1.5030012002005402
   },
   "158": {
     "file": "datasets/text8/valid.txt",
@@ -2381,8 +2381,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0865742882092795,
-    "final_loss": 1.4847338831162369
+    "time_min": 0.7694580396016438,
+    "final_loss": 1.4847338770409497
   },
   "159": {
     "file": "datasets/text8/valid.txt",
@@ -2396,8 +2396,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.072243038813273,
-    "final_loss": 1.4847338831162369
+    "time_min": 0.7633899251619974,
+    "final_loss": 1.4847338770409497
   },
   "160": {
     "file": "datasets/text8/valid.txt",
@@ -2411,8 +2411,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0782535831133524,
-    "final_loss": 1.46817857979654
+    "time_min": 0.763331937789917,
+    "final_loss": 1.4681785859277217
   },
   "161": {
     "file": "datasets/text8/valid.txt",
@@ -2426,8 +2426,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0775166710217794,
-    "final_loss": 1.46817857979654
+    "time_min": 0.7580450097719829,
+    "final_loss": 1.4681785859277217
   },
   "162": {
     "file": "datasets/text8/valid.txt",
@@ -2441,8 +2441,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8019227584203085,
-    "final_loss": 1.5047791866024582
+    "time_min": 0.5352620999018352,
+    "final_loss": 1.5047791898916263
   },
   "163": {
     "file": "datasets/text8/valid.txt",
@@ -2456,8 +2456,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7988093892733256,
-    "final_loss": 1.5047791866024582
+    "time_min": 0.5247456351915996,
+    "final_loss": 1.5047791898916263
   },
   "164": {
     "file": "datasets/text8/valid.txt",
@@ -2471,8 +2471,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8009587566057841,
-    "final_loss": 1.4882379505993888
+    "time_min": 0.5281107703844706,
+    "final_loss": 1.4882379575001927
   },
   "165": {
     "file": "datasets/text8/valid.txt",
@@ -2486,8 +2486,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7976675748825073,
-    "final_loss": 1.4882379505993888
+    "time_min": 0.524696699778239,
+    "final_loss": 1.4882379575001927
   },
   "166": {
     "file": "datasets/text8/valid.txt",
@@ -2501,8 +2501,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7987817049026489,
-    "final_loss": 1.474212722318375
+    "time_min": 0.5284977078437805,
+    "final_loss": 1.4742127303585637
   },
   "167": {
     "file": "datasets/text8/valid.txt",
@@ -2516,8 +2516,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7995489160219829,
-    "final_loss": 1.474212722318375
+    "time_min": 0.5247906764348348,
+    "final_loss": 1.4742127303585637
   },
   "168": {
     "file": "datasets/text8/valid.txt",
@@ -2531,8 +2531,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.351235818862915,
-    "final_loss": 1.513598548632388
+    "time_min": 1.9524309237798054,
+    "final_loss": 1.5135985466758952
   },
   "169": {
     "file": "datasets/text8/valid.txt",
@@ -2546,8 +2546,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.285760529836019,
-    "final_loss": 1.5154940959383223
+    "time_min": 1.928730277220408,
+    "final_loss": 1.5154940927598384
   },
   "170": {
     "file": "datasets/text8/valid.txt",
@@ -2561,8 +2561,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.3461839040120442,
-    "final_loss": 1.4976400078803265
+    "time_min": 1.9709795514742534,
+    "final_loss": 1.4976400053664238
   },
   "171": {
     "file": "datasets/text8/valid.txt",
@@ -2576,8 +2576,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.312089546521505,
-    "final_loss": 1.4989743783899776
+    "time_min": 1.9769328196843465,
+    "final_loss": 1.4989743741799297
   },
   "172": {
     "file": "datasets/text8/valid.txt",
@@ -2591,8 +2591,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.3194303631782534,
-    "final_loss": 1.4833478873999417
+    "time_min": 1.9772473255793253,
+    "final_loss": 1.4833478867021188
   },
   "173": {
     "file": "datasets/text8/valid.txt",
@@ -2606,8 +2606,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.2944266120592753,
-    "final_loss": 1.48372448613143
+    "time_min": 1.9681300520896912,
+    "final_loss": 1.4837244887525867
   },
   "174": {
     "file": "datasets/text8/valid.txt",
@@ -2621,8 +2621,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.5021349867184957,
-    "final_loss": 1.5161124857207033
+    "time_min": 1.165532143910726,
+    "final_loss": 1.5161124894604527
   },
   "175": {
     "file": "datasets/text8/valid.txt",
@@ -2636,8 +2636,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.4847363432248433,
-    "final_loss": 1.5134551205348754
+    "time_min": 1.1614036560058594,
+    "final_loss": 1.5134551094688666
   },
   "176": {
     "file": "datasets/text8/valid.txt",
@@ -2651,8 +2651,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.4919857382774353,
-    "final_loss": 1.5012055414894083
+    "time_min": 1.1670056144396463,
+    "final_loss": 1.5012055400090136
   },
   "177": {
     "file": "datasets/text8/valid.txt",
@@ -2666,8 +2666,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.4871898770332337,
-    "final_loss": 1.4967970754494204
+    "time_min": 1.158658766746521,
+    "final_loss": 1.4967970710115293
   },
   "178": {
     "file": "datasets/text8/valid.txt",
@@ -2681,8 +2681,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.505093518892924,
-    "final_loss": 1.4874925176842084
+    "time_min": 1.1676868518193564,
+    "final_loss": 1.4874925120992735
   },
   "179": {
     "file": "datasets/text8/valid.txt",
@@ -2696,8 +2696,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.482291865348816,
-    "final_loss": 1.481195867318555
+    "time_min": 1.1730399926503499,
+    "final_loss": 1.4811958622030115
   },
   "180": {
     "file": "datasets/text8/valid.txt",
@@ -2711,8 +2711,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0784500281016032,
-    "final_loss": 1.5152427926752827
+    "time_min": 0.7910773634910584,
+    "final_loss": 1.515242788973356
   },
   "181": {
     "file": "datasets/text8/valid.txt",
@@ -2726,8 +2726,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.065965429941813,
-    "final_loss": 1.5103193673649975
+    "time_min": 0.7817541162172953,
+    "final_loss": 1.5103193681475187
   },
   "182": {
     "file": "datasets/text8/valid.txt",
@@ -2741,8 +2741,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0729222893714905,
-    "final_loss": 1.500407387204767
+    "time_min": 0.7786347111066182,
+    "final_loss": 1.5004073941593155
   },
   "183": {
     "file": "datasets/text8/valid.txt",
@@ -2756,8 +2756,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.0669467131296793,
-    "final_loss": 1.4936919649302112
+    "time_min": 0.7755471626917522,
+    "final_loss": 1.4936919657750762
   },
   "184": {
     "file": "datasets/text8/valid.txt",
@@ -2771,8 +2771,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0737996061642965,
-    "final_loss": 1.486607577495747
+    "time_min": 0.7740141789118449,
+    "final_loss": 1.4866075764380537
   },
   "185": {
     "file": "datasets/text8/valid.txt",
@@ -2786,8 +2786,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0777767817179362,
-    "final_loss": 1.4779039305775794
+    "time_min": 0.7623613556226094,
+    "final_loss": 1.4779039286277262
   },
   "186": {
     "file": "datasets/text8/valid.txt",
@@ -2801,8 +2801,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7982203483581543,
-    "final_loss": 1.512895305032235
+    "time_min": 0.5378327369689941,
+    "final_loss": 1.5128953003457077
   },
   "187": {
     "file": "datasets/text8/valid.txt",
@@ -2816,8 +2816,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7975740989049276,
-    "final_loss": 1.5081534465488877
+    "time_min": 0.5375372489293416,
+    "final_loss": 1.5081534650370225
   },
   "188": {
     "file": "datasets/text8/valid.txt",
@@ -2831,8 +2831,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8017986575762431,
-    "final_loss": 1.498821951232991
+    "time_min": 0.5384069561958313,
+    "final_loss": 1.4988219561559943
   },
   "189": {
     "file": "datasets/text8/valid.txt",
@@ -2846,8 +2846,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.802296249071757,
-    "final_loss": 1.4922296815340417
+    "time_min": 0.5360552867253622,
+    "final_loss": 1.4922296765895409
   },
   "190": {
     "file": "datasets/text8/valid.txt",
@@ -2861,8 +2861,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8006320595741272,
-    "final_loss": 1.4858410057141018
+    "time_min": 0.5360382835070292,
+    "final_loss": 1.4858410071329586
   },
   "191": {
     "file": "datasets/text8/valid.txt",
@@ -2876,8 +2876,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7935043811798096,
-    "final_loss": 1.4780679886097061
+    "time_min": 0.5348758379618327,
+    "final_loss": 1.478067987620806
   },
   "192": {
     "file": "datasets/text8/valid.txt",
@@ -2891,8 +2891,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3381420890490214,
-    "final_loss": 1.5252628016516463
+    "time_min": 1.9878617723782857,
+    "final_loss": 1.5252627971463728
   },
   "193": {
     "file": "datasets/text8/valid.txt",
@@ -2906,8 +2906,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.3236204743385316,
-    "final_loss": 1.5289294290451738
+    "time_min": 1.9580319404602051,
+    "final_loss": 1.528929428336148
   },
   "194": {
     "file": "datasets/text8/valid.txt",
@@ -2921,8 +2921,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.3464763601620993,
-    "final_loss": 1.5191357166183637
+    "time_min": 1.9903753280639649,
+    "final_loss": 1.5191357209264786
   },
   "195": {
     "file": "datasets/text8/valid.txt",
@@ -2936,8 +2936,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.3030823548634847,
-    "final_loss": 1.5241514374295602
+    "time_min": 1.9433491706848145,
+    "final_loss": 1.5241514419641962
   },
   "196": {
     "file": "datasets/text8/valid.txt",
@@ -2951,8 +2951,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.3144620299339294,
-    "final_loss": 1.511671664093174
+    "time_min": 1.954111119111379,
+    "final_loss": 1.5116716634755816
   },
   "197": {
     "file": "datasets/text8/valid.txt",
@@ -2966,8 +2966,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.2807443300882975,
-    "final_loss": 1.5179890774625935
+    "time_min": 1.964706035455068,
+    "final_loss": 1.517989080123202
   },
   "198": {
     "file": "datasets/text8/valid.txt",
@@ -2981,8 +2981,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.4708441734313964,
-    "final_loss": 1.5267172164414722
+    "time_min": 1.162474306424459,
+    "final_loss": 1.526717211475742
   },
   "199": {
     "file": "datasets/text8/valid.txt",
@@ -2996,8 +2996,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.484281055132548,
-    "final_loss": 1.5277824200617465
+    "time_min": 1.13228174050649,
+    "final_loss": 1.5277824096324766
   },
   "200": {
     "file": "datasets/text8/valid.txt",
@@ -3011,8 +3011,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.5029196699460348,
-    "final_loss": 1.521063846388047
+    "time_min": 1.184557282924652,
+    "final_loss": 1.5210638547562794
   },
   "201": {
     "file": "datasets/text8/valid.txt",
@@ -3026,8 +3026,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.451367942492167,
-    "final_loss": 1.5216235910884617
+    "time_min": 1.1843320926030476,
+    "final_loss": 1.5216235905088265
   },
   "202": {
     "file": "datasets/text8/valid.txt",
@@ -3041,8 +3041,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.4899644176165263,
-    "final_loss": 1.5144636061843322
+    "time_min": 1.2002047936121623,
+    "final_loss": 1.5144636051080635
   },
   "203": {
     "file": "datasets/text8/valid.txt",
@@ -3056,8 +3056,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.4933172901471456,
-    "final_loss": 1.5137511655113336
+    "time_min": 1.1339433193206787,
+    "final_loss": 1.51375117078455
   },
   "204": {
     "file": "datasets/text8/valid.txt",
@@ -3071,8 +3071,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.0852372248967488,
-    "final_loss": 1.5262234284113754
+    "time_min": 0.7731248895327251,
+    "final_loss": 1.5262234182300025
   },
   "205": {
     "file": "datasets/text8/valid.txt",
@@ -3086,8 +3086,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.0820207158724466,
-    "final_loss": 1.5253274118452644
+    "time_min": 0.7698527455329895,
+    "final_loss": 1.525327416884356
   },
   "206": {
     "file": "datasets/text8/valid.txt",
@@ -3101,8 +3101,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.0883006691932677,
-    "final_loss": 1.5199397694137768
+    "time_min": 0.778868043422699,
+    "final_loss": 1.519939761384337
   },
   "207": {
     "file": "datasets/text8/valid.txt",
@@ -3116,8 +3116,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.0797595143318177,
-    "final_loss": 1.5171253624387684
+    "time_min": 0.7672212998072306,
+    "final_loss": 1.5171253618411285
   },
   "208": {
     "file": "datasets/text8/valid.txt",
@@ -3131,8 +3131,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.0891146103541056,
-    "final_loss": 1.5128646971960193
+    "time_min": 0.7723598678906759,
+    "final_loss": 1.5128646974604427
   },
   "209": {
     "file": "datasets/text8/valid.txt",
@@ -3146,8 +3146,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.0666390736897786,
-    "final_loss": 1.5064977856795059
+    "time_min": 0.7607196648915608,
+    "final_loss": 1.5064977918214366
   },
   "210": {
     "file": "datasets/text8/valid.txt",
@@ -3161,8 +3161,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.795881164073944,
-    "final_loss": 1.5241446108551777
+    "time_min": 0.5280966202418009,
+    "final_loss": 1.5241445708047179
   },
   "211": {
     "file": "datasets/text8/valid.txt",
@@ -3176,8 +3176,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7948280334472656,
-    "final_loss": 1.5208952538033875
+    "time_min": 0.5246865312258403,
+    "final_loss": 1.5208952578449797
   },
   "212": {
     "file": "datasets/text8/valid.txt",
@@ -3191,8 +3191,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8024910052617391,
-    "final_loss": 1.516691491413385
+    "time_min": 0.5280925710995992,
+    "final_loss": 1.5166913741642127
   },
   "213": {
     "file": "datasets/text8/valid.txt",
@@ -3206,8 +3206,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7962469140688578,
-    "final_loss": 1.5097466208198451
+    "time_min": 0.5250022451082865,
+    "final_loss": 1.5097466303863802
   },
   "214": {
     "file": "datasets/text8/valid.txt",
@@ -3221,8 +3221,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7947762449582417,
-    "final_loss": NaN
+    "time_min": 0.528145718574524,
+    "final_loss": 1.5074756116925052
   },
   "215": {
     "file": "datasets/text8/valid.txt",
@@ -3236,9 +3236,9 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7968933582305908,
-    "final_loss": 1.4982664226556872
+    "time_min": 0.5247045795122782,
+    "final_loss": 1.4982664162923292
   },
   "best_key": 44,
-  "total_time_min": 306.3907941937447
+  "total_time_min": 301.88519085645675
 }
