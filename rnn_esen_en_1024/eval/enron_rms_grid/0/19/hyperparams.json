@@ -10,6 +10,6 @@
   "rms_est_train_size": 1000000,
   "rms_est_batch_size": 100,
   "rms_global_prior": false,
-  "time_min": 0.8391141335169474,
-  "final_loss": 338.62075497901014
+  "time_min": 0.5637854496637981,
+  "final_loss": 636.5627604160633
 }

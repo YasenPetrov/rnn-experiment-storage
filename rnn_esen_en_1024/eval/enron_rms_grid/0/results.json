@@ -11,8 +11,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6449047923088074,
-    "final_loss": 296.7191670971913
+    "time_min": 2.2825477282206217,
+    "final_loss": 220.42127604956556
   },
   "1": {
     "file": "datasets/enron/valid.txt",
@@ -26,8 +26,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.618423851331075,
-    "final_loss": 296.7191670971913
+    "time_min": 2.1680131196975707,
+    "final_loss": 220.42127604956556
   },
   "2": {
     "file": "datasets/enron/valid.txt",
@@ -41,8 +41,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6602658073107404,
-    "final_loss": 490.5767103713986
+    "time_min": 2.285128951072693,
+    "final_loss": 431.2611449296543
   },
   "3": {
     "file": "datasets/enron/valid.txt",
@@ -56,8 +56,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.6389583985010785,
-    "final_loss": 490.5767103713986
+    "time_min": 2.220284895102183,
+    "final_loss": 431.2611449296543
   },
   "4": {
     "file": "datasets/enron/valid.txt",
@@ -71,8 +71,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.66948352654775,
-    "final_loss": 633.8349522163857
+    "time_min": 2.2740582982699076,
+    "final_loss": 657.0193666640462
   },
   "5": {
     "file": "datasets/enron/valid.txt",
@@ -86,8 +86,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.652523907025655,
-    "final_loss": 633.8349522163857
+    "time_min": 2.175926117102305,
+    "final_loss": 657.0193666640462
   },
   "6": {
     "file": "datasets/enron/valid.txt",
@@ -101,8 +101,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.652713406085968,
-    "final_loss": 360.6310556983134
+    "time_min": 1.3387311299641926,
+    "final_loss": 342.61512001071424
   },
   "7": {
     "file": "datasets/enron/valid.txt",
@@ -116,8 +116,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6384272813796996,
-    "final_loss": 360.6310556983134
+    "time_min": 1.3222812136014304,
+    "final_loss": 342.61512001071424
   },
   "8": {
     "file": "datasets/enron/valid.txt",
@@ -131,8 +131,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6401225129763286,
-    "final_loss": 600.9726854802065
+    "time_min": 1.31134192943573,
+    "final_loss": 660.0376675089748
   },
   "9": {
     "file": "datasets/enron/valid.txt",
@@ -146,8 +146,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6316896319389342,
-    "final_loss": 600.9726854802065
+    "time_min": 1.3529331962267557,
+    "final_loss": 660.0376675089748
   },
   "10": {
     "file": "datasets/enron/valid.txt",
@@ -161,8 +161,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6370358188947043,
-    "final_loss": 637.4562710825306
+    "time_min": 1.3064321835835775,
+    "final_loss": 668.2073153173535
   },
   "11": {
     "file": "datasets/enron/valid.txt",
@@ -176,8 +176,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6376847227414448,
-    "final_loss": 637.4562710825306
+    "time_min": 1.3578712701797486,
+    "final_loss": 668.2073153173535
   },
   "12": {
     "file": "datasets/enron/valid.txt",
@@ -191,8 +191,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.168209707736969,
-    "final_loss": 317.1649531957336
+    "time_min": 0.8476839383443197,
+    "final_loss": 684.4181402081887
   },
   "13": {
     "file": "datasets/enron/valid.txt",
@@ -206,8 +206,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1547728459040323,
-    "final_loss": 317.1649531957336
+    "time_min": 0.8651182015736898,
+    "final_loss": 684.4181402081887
   },
   "14": {
     "file": "datasets/enron/valid.txt",
@@ -221,8 +221,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1681978901227315,
-    "final_loss": 1278.5020835627474
+    "time_min": 0.8897614240646362,
+    "final_loss": 629.0657119268305
   },
   "15": {
     "file": "datasets/enron/valid.txt",
@@ -236,8 +236,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1529803236325582,
-    "final_loss": 1278.5020835627474
+    "time_min": 0.8413109660148621,
+    "final_loss": 629.0657119268305
   },
   "16": {
     "file": "datasets/enron/valid.txt",
@@ -251,8 +251,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1659218390782675,
-    "final_loss": 1518.2986298742912
+    "time_min": 0.8706185936927795,
+    "final_loss": 977.0259419573916
   },
   "17": {
     "file": "datasets/enron/valid.txt",
@@ -266,8 +266,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1520164688428243,
-    "final_loss": 1518.2986298742912
+    "time_min": 0.8941263357798258,
+    "final_loss": 977.0259419573916
   },
   "18": {
     "file": "datasets/enron/valid.txt",
@@ -281,8 +281,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8402229269345601,
-    "final_loss": 338.62075497901014
+    "time_min": 0.5792677283287049,
+    "final_loss": 636.5627604160633
   },
   "19": {
     "file": "datasets/enron/valid.txt",
@@ -296,8 +296,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8391141335169474,
-    "final_loss": 338.62075497901014
+    "time_min": 0.5637854496637981,
+    "final_loss": 636.5627604160633
   },
   "20": {
     "file": "datasets/enron/valid.txt",
@@ -311,8 +311,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8463044762611389,
-    "final_loss": 1184.9162637499492
+    "time_min": 0.5792930722236633,
+    "final_loss": 1754.7085383689298
   },
   "21": {
     "file": "datasets/enron/valid.txt",
@@ -326,8 +326,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8341092268625895,
-    "final_loss": 1184.9162637499492
+    "time_min": 0.5641541679700216,
+    "final_loss": 1754.7085383689298
   },
   "22": {
     "file": "datasets/enron/valid.txt",
@@ -341,8 +341,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.843501611550649,
-    "final_loss": 2220.7092007416372
+    "time_min": 0.5694813092549642,
+    "final_loss": 1758.608470193427
   },
   "23": {
     "file": "datasets/enron/valid.txt",
@@ -356,8 +356,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8382124900817871,
-    "final_loss": 2220.7092007416372
+    "time_min": 0.565520183245341,
+    "final_loss": 1758.608470193427
   },
   "24": {
     "file": "datasets/enron/valid.txt",
@@ -371,8 +371,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.656313439210256,
-    "final_loss": 192.347749477793
+    "time_min": 2.239072155952454,
+    "final_loss": 207.05239567843097
   },
   "25": {
     "file": "datasets/enron/valid.txt",
@@ -386,8 +386,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.668494697411855,
-    "final_loss": 214.70376695799183
+    "time_min": 2.1561949650446572,
+    "final_loss": 222.71697203579845
   },
   "26": {
     "file": "datasets/enron/valid.txt",
@@ -401,8 +401,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6777287165323895,
-    "final_loss": 283.50858083106283
+    "time_min": 2.203969991207123,
+    "final_loss": 289.77850331811106
   },
   "27": {
     "file": "datasets/enron/valid.txt",
@@ -416,8 +416,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.5981398026148477,
-    "final_loss": 327.30634267708496
+    "time_min": 2.19704300959905,
+    "final_loss": 302.2263680555456
   },
   "28": {
     "file": "datasets/enron/valid.txt",
@@ -431,8 +431,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.5886885007222493,
-    "final_loss": 484.61200320115563
+    "time_min": 2.2525091330210367,
+    "final_loss": 527.7092402646872
   },
   "29": {
     "file": "datasets/enron/valid.txt",
@@ -446,8 +446,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.6425675551096597,
-    "final_loss": 396.1490431967406
+    "time_min": 2.1767600059509276,
+    "final_loss": 469.4975466317247
   },
   "30": {
     "file": "datasets/enron/valid.txt",
@@ -461,8 +461,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6633021791776021,
-    "final_loss": 256.58886194542004
+    "time_min": 1.307580582300822,
+    "final_loss": 218.1716765079982
   },
   "31": {
     "file": "datasets/enron/valid.txt",
@@ -476,8 +476,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6483563264211019,
-    "final_loss": 221.6692102511974
+    "time_min": 1.2700492024421692,
+    "final_loss": 341.44745515431003
   },
   "32": {
     "file": "datasets/enron/valid.txt",
@@ -491,8 +491,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6531436642011006,
-    "final_loss": 581.9369128277797
+    "time_min": 1.3119885047276816,
+    "final_loss": 603.0893638739519
   },
   "33": {
     "file": "datasets/enron/valid.txt",
@@ -506,8 +506,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6366653283437094,
-    "final_loss": 505.4871974439715
+    "time_min": 1.2976736187934876,
+    "final_loss": 471.5704067841305
   },
   "34": {
     "file": "datasets/enron/valid.txt",
@@ -521,8 +521,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6503433465957642,
-    "final_loss": 824.5234209773627
+    "time_min": 1.3175199945767722,
+    "final_loss": 687.9982364290333
   },
   "35": {
     "file": "datasets/enron/valid.txt",
@@ -536,8 +536,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6374186555544534,
-    "final_loss": 804.3289171198511
+    "time_min": 1.2913549900054933,
+    "final_loss": 783.1533502561858
   },
   "36": {
     "file": "datasets/enron/valid.txt",
@@ -551,8 +551,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1594324191411336,
-    "final_loss": 311.05768704271406
+    "time_min": 0.8465165177981059,
+    "final_loss": 599.1028741177299
   },
   "37": {
     "file": "datasets/enron/valid.txt",
@@ -566,8 +566,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1532409985860188,
-    "final_loss": 424.25669720789915
+    "time_min": 0.8258937001228333,
+    "final_loss": 401.41471702547625
   },
   "38": {
     "file": "datasets/enron/valid.txt",
@@ -581,8 +581,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1638929486274718,
-    "final_loss": 899.9307621640494
+    "time_min": 0.8407572110493978,
+    "final_loss": 798.2203358746323
   },
   "39": {
     "file": "datasets/enron/valid.txt",
@@ -596,8 +596,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1534705837567647,
-    "final_loss": 999.2724792365647
+    "time_min": 0.8185824275016784,
+    "final_loss": 916.1598096226787
   },
   "40": {
     "file": "datasets/enron/valid.txt",
@@ -611,8 +611,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.161423349380493,
-    "final_loss": 1433.8637331321415
+    "time_min": 0.8335691968599955,
+    "final_loss": 794.297832513219
   },
   "41": {
     "file": "datasets/enron/valid.txt",
@@ -626,8 +626,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.149368703365326,
-    "final_loss": 1247.0940595654718
+    "time_min": 0.8325217962265015,
+    "final_loss": 1210.9560818562652
   },
   "42": {
     "file": "datasets/enron/valid.txt",
@@ -641,8 +641,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8411234140396118,
-    "final_loss": 665.2386285518772
+    "time_min": 0.5618093729019165,
+    "final_loss": 657.2430353584348
   },
   "43": {
     "file": "datasets/enron/valid.txt",
@@ -656,8 +656,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8419383525848388,
-    "final_loss": 547.2536005076392
+    "time_min": 0.5608011841773987,
+    "final_loss": 530.8162725836976
   },
   "44": {
     "file": "datasets/enron/valid.txt",
@@ -671,8 +671,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8444224834442139,
-    "final_loss": 1203.4917086725977
+    "time_min": 0.5600449879964192,
+    "final_loss": 1164.432824398939
   },
   "45": {
     "file": "datasets/enron/valid.txt",
@@ -686,8 +686,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8425523161888122,
-    "final_loss": 1534.589801868291
+    "time_min": 0.5563785115877787,
+    "final_loss": 939.70593438377
   },
   "46": {
     "file": "datasets/enron/valid.txt",
@@ -701,8 +701,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8459564447402954,
-    "final_loss": 1016.3991045110256
+    "time_min": 0.5603862007459005,
+    "final_loss": 716.7758952891525
   },
   "47": {
     "file": "datasets/enron/valid.txt",
@@ -716,8 +716,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8410020470619202,
-    "final_loss": 1376.1470975650268
+    "time_min": 0.5598810394605,
+    "final_loss": 1879.6303418057753
   },
   "48": {
     "file": "datasets/enron/valid.txt",
@@ -731,8 +731,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6484018127123514,
-    "final_loss": NaN
+    "time_min": 2.2256601134936016,
+    "final_loss": 224.1435027163193
   },
   "49": {
     "file": "datasets/enron/valid.txt",
@@ -746,8 +746,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.605398643016815,
-    "final_loss": 154.72796944840155
+    "time_min": 2.167770564556122,
+    "final_loss": 183.52137858450013
   },
   "50": {
     "file": "datasets/enron/valid.txt",
@@ -761,8 +761,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.64490164120992,
-    "final_loss": NaN
+    "time_min": 2.25999094247818,
+    "final_loss": 317.8592209862823
   },
   "51": {
     "file": "datasets/enron/valid.txt",
@@ -776,8 +776,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.6562103470166525,
-    "final_loss": 252.60245928078615
+    "time_min": 2.172477495670319,
+    "final_loss": 263.80230763658824
   },
   "52": {
     "file": "datasets/enron/valid.txt",
@@ -791,8 +791,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6551909327507017,
-    "final_loss": NaN
+    "time_min": 2.20592608054479,
+    "final_loss": 481.8845551081648
   },
   "53": {
     "file": "datasets/enron/valid.txt",
@@ -806,8 +806,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.6350061933199567,
-    "final_loss": 357.0316133799699
+    "time_min": 2.159294005235036,
+    "final_loss": 372.36968368705755
   },
   "54": {
     "file": "datasets/enron/valid.txt",
@@ -821,8 +821,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6337587038675945,
-    "final_loss": NaN
+    "time_min": 1.2926335016886392,
+    "final_loss": 308.13052433594476
   },
   "55": {
     "file": "datasets/enron/valid.txt",
@@ -836,8 +836,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.637261978785197,
-    "final_loss": 282.3658648672761
+    "time_min": 1.30205127398173,
+    "final_loss": 253.6012852075983
   },
   "56": {
     "file": "datasets/enron/valid.txt",
@@ -851,8 +851,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6389346837997436,
-    "final_loss": NaN
+    "time_min": 1.317113196849823,
+    "final_loss": 370.47214541603483
   },
   "57": {
     "file": "datasets/enron/valid.txt",
@@ -866,8 +866,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6341938932736715,
-    "final_loss": 471.17843027028886
+    "time_min": 1.2880154808362325,
+    "final_loss": 469.2445042046243
   },
   "58": {
     "file": "datasets/enron/valid.txt",
@@ -881,8 +881,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.635039472579956,
-    "final_loss": NaN
+    "time_min": 1.306939947605133,
+    "final_loss": 586.38222436524
   },
   "59": {
     "file": "datasets/enron/valid.txt",
@@ -896,8 +896,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.5962018330891927,
-    "final_loss": 628.5456580013981
+    "time_min": 1.2777130087216695,
+    "final_loss": 650.8927085241777
   },
   "60": {
     "file": "datasets/enron/valid.txt",
@@ -911,8 +911,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1598373413085938,
-    "final_loss": NaN
+    "time_min": 0.8510915001233419,
+    "final_loss": 381.86927942540035
   },
   "61": {
     "file": "datasets/enron/valid.txt",
@@ -926,8 +926,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1515097538630168,
-    "final_loss": 325.6990347557542
+    "time_min": 0.8357837438583374,
+    "final_loss": 456.99491172120923
   },
   "62": {
     "file": "datasets/enron/valid.txt",
@@ -941,8 +941,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1588869929313659,
-    "final_loss": NaN
+    "time_min": 0.8476149797439575,
+    "final_loss": 438.2940484748576
   },
   "63": {
     "file": "datasets/enron/valid.txt",
@@ -956,8 +956,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.148956831296285,
-    "final_loss": 480.3311449783804
+    "time_min": 0.8356052875518799,
+    "final_loss": 639.2609362043905
   },
   "64": {
     "file": "datasets/enron/valid.txt",
@@ -971,8 +971,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1599929292996725,
-    "final_loss": NaN
+    "time_min": 0.8550530155499776,
+    "final_loss": 792.0143781800846
   },
   "65": {
     "file": "datasets/enron/valid.txt",
@@ -986,8 +986,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1523552060127258,
-    "final_loss": 788.7928856669845
+    "time_min": 0.8409390409787496,
+    "final_loss": 966.2525146902595
   },
   "66": {
     "file": "datasets/enron/valid.txt",
@@ -1001,8 +1001,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.844549024105072,
-    "final_loss": NaN
+    "time_min": 0.5709281166394552,
+    "final_loss": 445.0674313886429
   },
   "67": {
     "file": "datasets/enron/valid.txt",
@@ -1016,8 +1016,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8380433082580566,
-    "final_loss": 481.27239302076873
+    "time_min": 0.5667839447657267,
+    "final_loss": 520.206779973919
   },
   "68": {
     "file": "datasets/enron/valid.txt",
@@ -1031,8 +1031,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8393515189488728,
-    "final_loss": NaN
+    "time_min": 0.5719433267911275,
+    "final_loss": 388.4252214210452
   },
   "69": {
     "file": "datasets/enron/valid.txt",
@@ -1046,8 +1046,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.841113563378652,
-    "final_loss": 813.6868601243776
+    "time_min": 0.5660808006922404,
+    "final_loss": 631.7354693057816
   },
   "70": {
     "file": "datasets/enron/valid.txt",
@@ -1061,8 +1061,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.845856761932373,
-    "final_loss": NaN
+    "time_min": 0.5685157696406047,
+    "final_loss": 1845.4240171184779
   },
   "71": {
     "file": "datasets/enron/valid.txt",
@@ -1076,8 +1076,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8418387770652771,
-    "final_loss": 1145.3913311150363
+    "time_min": 0.5672124783198039,
+    "final_loss": 1947.1491372297942
   },
   "72": {
     "file": "datasets/enron/valid.txt",
@@ -1091,8 +1091,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6226969997088116,
-    "final_loss": 2.8150916976522358
+    "time_min": 2.242632257938385,
+    "final_loss": 2.81556724467993
   },
   "73": {
     "file": "datasets/enron/valid.txt",
@@ -1106,8 +1106,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.610096593697866,
-    "final_loss": 2.8150916976522358
+    "time_min": 2.1948161085446674,
+    "final_loss": 2.81556724467993
   },
   "74": {
     "file": "datasets/enron/valid.txt",
@@ -1121,8 +1121,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.5901997009913127,
-    "final_loss": 2.6367518874886744
+    "time_min": 2.21790896654129,
+    "final_loss": 2.636466065097355
   },
   "75": {
     "file": "datasets/enron/valid.txt",
@@ -1136,8 +1136,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.6041582822799683,
-    "final_loss": 2.6367518874886744
+    "time_min": 2.2041311264038086,
+    "final_loss": 2.636466065097355
   },
   "76": {
     "file": "datasets/enron/valid.txt",
@@ -1151,8 +1151,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.630917505423228,
-    "final_loss": 2.502063259870257
+    "time_min": 2.2757676323254903,
+    "final_loss": 2.5023699216670967
   },
   "77": {
     "file": "datasets/enron/valid.txt",
@@ -1166,8 +1166,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.6040366530418395,
-    "final_loss": 2.502063259870257
+    "time_min": 2.205944033463796,
+    "final_loss": 2.5023699216670967
   },
   "78": {
     "file": "datasets/enron/valid.txt",
@@ -1181,8 +1181,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6035483161608377,
-    "final_loss": 2.859954254805239
+    "time_min": 1.3278608163197836,
+    "final_loss": 2.8635428137775776
   },
   "79": {
     "file": "datasets/enron/valid.txt",
@@ -1196,8 +1196,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6113402485847472,
-    "final_loss": 2.859954254805239
+    "time_min": 1.3070796410242715,
+    "final_loss": 2.8635428137775776
   },
   "80": {
     "file": "datasets/enron/valid.txt",
@@ -1211,8 +1211,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6437034964561463,
-    "final_loss": 15.806566465980811
+    "time_min": 1.2968169371287028,
+    "final_loss": 2.6904323980866045
   },
   "81": {
     "file": "datasets/enron/valid.txt",
@@ -1226,8 +1226,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6078691204388937,
-    "final_loss": 15.806566465980811
+    "time_min": 1.2859164675076802,
+    "final_loss": 2.6904323980866045
   },
   "82": {
     "file": "datasets/enron/valid.txt",
@@ -1241,8 +1241,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6342819849650065,
-    "final_loss": 2.5528986226937405
+    "time_min": 1.2987592458724975,
+    "final_loss": 2.5528254102110037
   },
   "83": {
     "file": "datasets/enron/valid.txt",
@@ -1256,8 +1256,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.618515662352244,
-    "final_loss": 2.5528986226937405
+    "time_min": 1.2843547185262045,
+    "final_loss": 2.5528254102110037
   },
   "84": {
     "file": "datasets/enron/valid.txt",
@@ -1271,8 +1271,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1566878835360208,
-    "final_loss": 2.910452128732703
+    "time_min": 0.8311539769172669,
+    "final_loss": 2.9105728601408503
   },
   "85": {
     "file": "datasets/enron/valid.txt",
@@ -1286,8 +1286,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.142188056310018,
-    "final_loss": 2.910452128732703
+    "time_min": 0.8348132967948914,
+    "final_loss": 2.9105728601408503
   },
   "86": {
     "file": "datasets/enron/valid.txt",
@@ -1301,8 +1301,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.160680643717448,
-    "final_loss": 34.726476848278416
+    "time_min": 0.851866888999939,
+    "final_loss": 2.7375560286800886
   },
   "87": {
     "file": "datasets/enron/valid.txt",
@@ -1316,8 +1316,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1521040598551433,
-    "final_loss": 34.726476848278416
+    "time_min": 0.845383369922638,
+    "final_loss": 2.7375560286800886
   },
   "88": {
     "file": "datasets/enron/valid.txt",
@@ -1331,8 +1331,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1607890963554381,
-    "final_loss": 54.82763468857776
+    "time_min": 0.855765696366628,
+    "final_loss": 68.50372282504054
   },
   "89": {
     "file": "datasets/enron/valid.txt",
@@ -1346,8 +1346,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.150506361325582,
-    "final_loss": 54.82763468857776
+    "time_min": 0.8406006256739299,
+    "final_loss": 68.50372282504054
   },
   "90": {
     "file": "datasets/enron/valid.txt",
@@ -1361,8 +1361,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8447965105374654,
-    "final_loss": 53.54187426283246
+    "time_min": 0.5700221578280131,
+    "final_loss": 58.266293442377865
   },
   "91": {
     "file": "datasets/enron/valid.txt",
@@ -1376,8 +1376,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8417468349138896,
-    "final_loss": 53.54187426283246
+    "time_min": 0.5672936320304871,
+    "final_loss": 58.266293442377865
   },
   "92": {
     "file": "datasets/enron/valid.txt",
@@ -1391,8 +1391,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.843468964099884,
-    "final_loss": 2.8303100959355327
+    "time_min": 0.5703927437464397,
+    "final_loss": 2.8303101171753897
   },
   "93": {
     "file": "datasets/enron/valid.txt",
@@ -1406,8 +1406,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8403703729311626,
-    "final_loss": 2.8303100959355327
+    "time_min": 0.564304502805074,
+    "final_loss": 2.8303101171753897
   },
   "94": {
     "file": "datasets/enron/valid.txt",
@@ -1421,8 +1421,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.839501142501831,
-    "final_loss": 2.716428294482703
+    "time_min": 0.5711510896682739,
+    "final_loss": 2.7164281896592772
   },
   "95": {
     "file": "datasets/enron/valid.txt",
@@ -1436,8 +1436,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8385441025098165,
-    "final_loss": 2.716428294482703
+    "time_min": 0.5663734277089437,
+    "final_loss": 2.7164281896592772
   },
   "96": {
     "file": "datasets/enron/valid.txt",
@@ -1451,8 +1451,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6332699418067933,
-    "final_loss": 3.078849976367635
+    "time_min": 2.2737637082735698,
+    "final_loss": 3.078368609849818
   },
   "97": {
     "file": "datasets/enron/valid.txt",
@@ -1466,8 +1466,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.5874542593955994,
-    "final_loss": 3.1439417904459352
+    "time_min": 2.191142932573954,
+    "final_loss": 3.1436079844675033
   },
   "98": {
     "file": "datasets/enron/valid.txt",
@@ -1481,8 +1481,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.629020631313324,
-    "final_loss": 2.975893872981898
+    "time_min": 2.2587958375612893,
+    "final_loss": 2.9653916869903543
   },
   "99": {
     "file": "datasets/enron/valid.txt",
@@ -1496,8 +1496,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.552236004670461,
-    "final_loss": 3.0140500528426766
+    "time_min": 2.165973734855652,
+    "final_loss": 3.014195907863294
   },
   "100": {
     "file": "datasets/enron/valid.txt",
@@ -1511,8 +1511,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.61950656970342,
-    "final_loss": 2.860060808957791
+    "time_min": 2.2607971906661986,
+    "final_loss": 2.8658183530255052
   },
   "101": {
     "file": "datasets/enron/valid.txt",
@@ -1526,8 +1526,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.6060940345128376,
-    "final_loss": 2.8941255372473513
+    "time_min": 2.217302930355072,
+    "final_loss": 2.913758035030449
   },
   "102": {
     "file": "datasets/enron/valid.txt",
@@ -1541,8 +1541,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6384228706359862,
-    "final_loss": 3.0886362946978765
+    "time_min": 1.3053448875745137,
+    "final_loss": 3.0886410707740604
   },
   "103": {
     "file": "datasets/enron/valid.txt",
@@ -1556,8 +1556,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6156596581141154,
-    "final_loss": 3.127859149179265
+    "time_min": 1.3065823912620544,
+    "final_loss": 3.1278592018454576
   },
   "104": {
     "file": "datasets/enron/valid.txt",
@@ -1571,8 +1571,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6351497014363607,
-    "final_loss": 2.989004298697389
+    "time_min": 1.3119422475496927,
+    "final_loss": 2.9896174462417
   },
   "105": {
     "file": "datasets/enron/valid.txt",
@@ -1586,8 +1586,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6190873543421427,
-    "final_loss": 2.987273919271364
+    "time_min": 1.2925128062566122,
+    "final_loss": 2.9873186389999606
   },
   "106": {
     "file": "datasets/enron/valid.txt",
@@ -1601,8 +1601,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6390469749768575,
-    "final_loss": 2.8837530763979498
+    "time_min": 1.3136414607365927,
+    "final_loss": 2.8633129180897976
   },
   "107": {
     "file": "datasets/enron/valid.txt",
@@ -1616,8 +1616,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.61523441473643,
-    "final_loss": 2.849215911901661
+    "time_min": 1.289338513215383,
+    "final_loss": 2.848827622641577
   },
   "108": {
     "file": "datasets/enron/valid.txt",
@@ -1631,8 +1631,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1583622336387633,
-    "final_loss": 3.108732370182242
+    "time_min": 0.8494843125343323,
+    "final_loss": 3.1087323702080396
   },
   "109": {
     "file": "datasets/enron/valid.txt",
@@ -1646,8 +1646,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1485853473345438,
-    "final_loss": 3.1010634973784557
+    "time_min": 0.8281328360239665,
+    "final_loss": 3.1010634835768482
   },
   "110": {
     "file": "datasets/enron/valid.txt",
@@ -1661,8 +1661,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1590128978093466,
-    "final_loss": 2.980991619832092
+    "time_min": 0.8408011794090271,
+    "final_loss": 2.98099214296032
   },
   "111": {
     "file": "datasets/enron/valid.txt",
@@ -1676,8 +1676,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1406703193982441,
-    "final_loss": 2.9365378764215633
+    "time_min": 0.8315776149431865,
+    "final_loss": 2.9365378460924223
   },
   "112": {
     "file": "datasets/enron/valid.txt",
@@ -1691,8 +1691,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.160674766699473,
-    "final_loss": 59.87049270038983
+    "time_min": 0.8494052489598592,
+    "final_loss": 48.38747251342943
   },
   "113": {
     "file": "datasets/enron/valid.txt",
@@ -1706,8 +1706,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1492475191752116,
-    "final_loss": 3.839978995303648
+    "time_min": 0.8374748905499776,
+    "final_loss": 4.03819074685526
   },
   "114": {
     "file": "datasets/enron/valid.txt",
@@ -1721,8 +1721,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8436993201573689,
-    "final_loss": 45.58903881001665
+    "time_min": 0.5725562373797098,
+    "final_loss": 49.792187991749934
   },
   "115": {
     "file": "datasets/enron/valid.txt",
@@ -1736,8 +1736,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8395683805147807,
-    "final_loss": 42.23657350346382
+    "time_min": 0.5650614500045776,
+    "final_loss": 56.23644432435963
   },
   "116": {
     "file": "datasets/enron/valid.txt",
@@ -1751,8 +1751,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8447595516840617,
-    "final_loss": 3.0521114060209062
+    "time_min": 0.5710982163747151,
+    "final_loss": 3.0521114622162373
   },
   "117": {
     "file": "datasets/enron/valid.txt",
@@ -1766,8 +1766,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8411088267962138,
-    "final_loss": 2.9428668990185565
+    "time_min": 0.563276477654775,
+    "final_loss": 2.9431900767342762
   },
   "118": {
     "file": "datasets/enron/valid.txt",
@@ -1781,8 +1781,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8438364227612813,
-    "final_loss": 2.944270483785782
+    "time_min": 0.5620115041732788,
+    "final_loss": 2.944270509626176
   },
   "119": {
     "file": "datasets/enron/valid.txt",
@@ -1796,8 +1796,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8402214288711548,
-    "final_loss": 2.8169963999745935
+    "time_min": 0.5642625570297242,
+    "final_loss": 2.816996495811926
   },
   "120": {
     "file": "datasets/enron/valid.txt",
@@ -1811,8 +1811,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.649743139743805,
-    "final_loss": NaN
+    "time_min": 2.2587150732676187,
+    "final_loss": 3.156137500230886
   },
   "121": {
     "file": "datasets/enron/valid.txt",
@@ -1826,8 +1826,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.6018296122550963,
-    "final_loss": 3.318059850532431
+    "time_min": 2.1980243722597756,
+    "final_loss": 3.3180598809344293
   },
   "122": {
     "file": "datasets/enron/valid.txt",
@@ -1841,8 +1841,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.636599433422089,
-    "final_loss": NaN
+    "time_min": 2.2200249075889587,
+    "final_loss": 3.1059653483199194
   },
   "123": {
     "file": "datasets/enron/valid.txt",
@@ -1856,8 +1856,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.567707816759745,
-    "final_loss": 3.264705125918566
+    "time_min": 2.1615606506665546,
+    "final_loss": 3.264704710092379
   },
   "124": {
     "file": "datasets/enron/valid.txt",
@@ -1871,8 +1871,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6045625885327657,
-    "final_loss": NaN
+    "time_min": 2.2693079392115276,
+    "final_loss": 3.064181190225197
   },
   "125": {
     "file": "datasets/enron/valid.txt",
@@ -1886,8 +1886,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.5963165879249575,
-    "final_loss": 3.1978899390667244
+    "time_min": 2.1783302664756774,
+    "final_loss": 3.1978902573645556
   },
   "126": {
     "file": "datasets/enron/valid.txt",
@@ -1901,8 +1901,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6309532602628072,
-    "final_loss": NaN
+    "time_min": 1.3186192194620767,
+    "final_loss": 21.931091889491995
   },
   "127": {
     "file": "datasets/enron/valid.txt",
@@ -1916,8 +1916,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.622680393854777,
-    "final_loss": 3.3266069929861
+    "time_min": 1.2895897388458253,
+    "final_loss": 3.3266070271507227
   },
   "128": {
     "file": "datasets/enron/valid.txt",
@@ -1931,8 +1931,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6310400406519572,
-    "final_loss": NaN
+    "time_min": 1.2972573081652323,
+    "final_loss": 3.1227011614055
   },
   "129": {
     "file": "datasets/enron/valid.txt",
@@ -1946,8 +1946,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.5986510713895161,
-    "final_loss": 3.2618322948281864
+    "time_min": 1.2925392230351767,
+    "final_loss": 3.261832323002035
   },
   "130": {
     "file": "datasets/enron/valid.txt",
@@ -1961,8 +1961,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.637478200594584,
-    "final_loss": NaN
+    "time_min": 1.3230579177538553,
+    "final_loss": 3.072993457709306
   },
   "131": {
     "file": "datasets/enron/valid.txt",
@@ -1976,8 +1976,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.624621860186259,
-    "final_loss": 18.986901323013278
+    "time_min": 1.2995411117871603,
+    "final_loss": 3.1889013145788727
   },
   "132": {
     "file": "datasets/enron/valid.txt",
@@ -1991,8 +1991,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1442783991495769,
-    "final_loss": NaN
+    "time_min": 0.8430567065874736,
+    "final_loss": 3.2049331043997453
   },
   "133": {
     "file": "datasets/enron/valid.txt",
@@ -2006,8 +2006,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1478121717770895,
-    "final_loss": 3.3436689013702083
+    "time_min": 0.8278281609217326,
+    "final_loss": 3.3436689458535205
   },
   "134": {
     "file": "datasets/enron/valid.txt",
@@ -2021,8 +2021,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1599290211995443,
-    "final_loss": NaN
+    "time_min": 0.841991929213206,
+    "final_loss": 3.155007197793601
   },
   "135": {
     "file": "datasets/enron/valid.txt",
@@ -2036,8 +2036,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1499736348787943,
-    "final_loss": 3.264952458898803
+    "time_min": 0.8263443827629089,
+    "final_loss": 3.2649525034939044
   },
   "136": {
     "file": "datasets/enron/valid.txt",
@@ -2051,8 +2051,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1632919987042745,
-    "final_loss": NaN
+    "time_min": 0.8470699230829875,
+    "final_loss": 3.0946090204459513
   },
   "137": {
     "file": "datasets/enron/valid.txt",
@@ -2066,8 +2066,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1457075675328572,
-    "final_loss": 3.1933076819870094
+    "time_min": 0.8395170728365581,
+    "final_loss": 3.1870004426781784
   },
   "138": {
     "file": "datasets/enron/valid.txt",
@@ -2081,8 +2081,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8435954292615254,
-    "final_loss": NaN
+    "time_min": 0.5719435890515645,
+    "final_loss": 3.2603108431348455
   },
   "139": {
     "file": "datasets/enron/valid.txt",
@@ -2096,8 +2096,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8388845364252726,
-    "final_loss": 3.3786364591148774
+    "time_min": 0.5659181316693623,
+    "final_loss": 3.3786365058941588
   },
   "140": {
     "file": "datasets/enron/valid.txt",
@@ -2111,8 +2111,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8457727233568827,
-    "final_loss": NaN
+    "time_min": 0.5700438618659973,
+    "final_loss": 3.2058825802594293
   },
   "141": {
     "file": "datasets/enron/valid.txt",
@@ -2126,8 +2126,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8393728971481323,
-    "final_loss": 41.17015358098696
+    "time_min": 0.5652562936147054,
+    "final_loss": 51.391190836136225
   },
   "142": {
     "file": "datasets/enron/valid.txt",
@@ -2141,8 +2141,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8438201665878295,
-    "final_loss": NaN
+    "time_min": 0.5590857068697611,
+    "final_loss": 3.1522624921515634
   },
   "143": {
     "file": "datasets/enron/valid.txt",
@@ -2156,8 +2156,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8385571519533793,
-    "final_loss": 3.1975451062918907
+    "time_min": 0.5601740956306458,
+    "final_loss": 3.1975451040131206
   },
   "144": {
     "file": "datasets/enron/valid.txt",
@@ -2171,8 +2171,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6375590046246846,
-    "final_loss": 2.9773674673740316
+    "time_min": 2.260382970174154,
+    "final_loss": 2.9773676973414895
   },
   "145": {
     "file": "datasets/enron/valid.txt",
@@ -2186,8 +2186,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.5764405965805053,
-    "final_loss": 2.9773674673740316
+    "time_min": 2.208717099825541,
+    "final_loss": 2.9773676973414895
   },
   "146": {
     "file": "datasets/enron/valid.txt",
@@ -2201,8 +2201,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6297125220298767,
-    "final_loss": 2.813160528703656
+    "time_min": 2.2569472630818685,
+    "final_loss": 2.809766026580633
   },
   "147": {
     "file": "datasets/enron/valid.txt",
@@ -2216,8 +2216,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.590456179777781,
-    "final_loss": 2.813160528703656
+    "time_min": 2.1799912214279176,
+    "final_loss": 2.809766026580633
   },
   "148": {
     "file": "datasets/enron/valid.txt",
@@ -2231,8 +2231,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6392987807591757,
-    "final_loss": 2.6670379272744644
+    "time_min": 2.26136847337087,
+    "final_loss": 2.666966852607508
   },
   "149": {
     "file": "datasets/enron/valid.txt",
@@ -2246,8 +2246,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.581071678797404,
-    "final_loss": 2.6670379272744644
+    "time_min": 2.2223468740781147,
+    "final_loss": 2.666966852607508
   },
   "150": {
     "file": "datasets/enron/valid.txt",
@@ -2261,8 +2261,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6349201202392578,
-    "final_loss": 3.0274176640809785
+    "time_min": 1.3055500547091166,
+    "final_loss": 3.027417398682189
   },
   "151": {
     "file": "datasets/enron/valid.txt",
@@ -2276,8 +2276,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6112806399663289,
-    "final_loss": 3.0274176640809785
+    "time_min": 1.2797106544176737,
+    "final_loss": 3.027417398682189
   },
   "152": {
     "file": "datasets/enron/valid.txt",
@@ -2291,8 +2291,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6371515194574993,
-    "final_loss": 2.8856316096020516
+    "time_min": 1.3091264247894288,
+    "final_loss": 2.8677412959006077
   },
   "153": {
     "file": "datasets/enron/valid.txt",
@@ -2306,8 +2306,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.629370911916097,
-    "final_loss": 2.8856316096020516
+    "time_min": 1.3049745043118794,
+    "final_loss": 2.8677412959006077
   },
   "154": {
     "file": "datasets/enron/valid.txt",
@@ -2321,8 +2321,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6424432555834452,
-    "final_loss": 12.811180501398432
+    "time_min": 1.3242495814959208,
+    "final_loss": 7.125068911075897
   },
   "155": {
     "file": "datasets/enron/valid.txt",
@@ -2336,8 +2336,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6166151762008667,
-    "final_loss": 12.811180501398432
+    "time_min": 1.2865190267562867,
+    "final_loss": 7.125068911075897
   },
   "156": {
     "file": "datasets/enron/valid.txt",
@@ -2351,8 +2351,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1605754733085631,
-    "final_loss": 11.845015538572705
+    "time_min": 0.8551416198412577,
+    "final_loss": 3.07784697957637
   },
   "157": {
     "file": "datasets/enron/valid.txt",
@@ -2366,8 +2366,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1566195964813233,
-    "final_loss": 11.845015538572705
+    "time_min": 0.8378805637359619,
+    "final_loss": 3.07784697957637
   },
   "158": {
     "file": "datasets/enron/valid.txt",
@@ -2381,8 +2381,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1606143633524577,
-    "final_loss": 2.922193380858855
+    "time_min": 0.8472012599309285,
+    "final_loss": 2.922193447416141
   },
   "159": {
     "file": "datasets/enron/valid.txt",
@@ -2396,8 +2396,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.150047810872396,
-    "final_loss": 2.922193380858855
+    "time_min": 0.8293484608332317,
+    "final_loss": 2.922193447416141
   },
   "160": {
     "file": "datasets/enron/valid.txt",
@@ -2411,8 +2411,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1588316440582276,
-    "final_loss": 2.804183965980725
+    "time_min": 0.8423808614412943,
+    "final_loss": 2.804144051997738
   },
   "161": {
     "file": "datasets/enron/valid.txt",
@@ -2426,8 +2426,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1535203218460084,
-    "final_loss": 2.804183965980725
+    "time_min": 0.8380585471789043,
+    "final_loss": 2.804144051997738
   },
   "162": {
     "file": "datasets/enron/valid.txt",
@@ -2441,8 +2441,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8446909467379252,
-    "final_loss": 3.1738657646538018
+    "time_min": 0.569090994199117,
+    "final_loss": 3.173861330210136
   },
   "163": {
     "file": "datasets/enron/valid.txt",
@@ -2456,8 +2456,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8398247400919596,
-    "final_loss": 3.1738657646538018
+    "time_min": 0.5651161869366964,
+    "final_loss": 3.173861330210136
   },
   "164": {
     "file": "datasets/enron/valid.txt",
@@ -2471,8 +2471,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8453492323557535,
-    "final_loss": 38.968838494725404
+    "time_min": 0.5709048787752787,
+    "final_loss": 25.364697191525362
   },
   "165": {
     "file": "datasets/enron/valid.txt",
@@ -2486,8 +2486,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8388351559638977,
-    "final_loss": 38.968838494725404
+    "time_min": 0.5657542626063029,
+    "final_loss": 25.364697191525362
   },
   "166": {
     "file": "datasets/enron/valid.txt",
@@ -2501,8 +2501,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8439631938934327,
-    "final_loss": 2.9201628719394144
+    "time_min": 0.567200223604838,
+    "final_loss": 2.920162569765897
   },
   "167": {
     "file": "datasets/enron/valid.txt",
@@ -2516,8 +2516,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8408133427302042,
-    "final_loss": 2.9201628719394144
+    "time_min": 0.5595048745473226,
+    "final_loss": 2.920162569765897
   },
   "168": {
     "file": "datasets/enron/valid.txt",
@@ -2531,8 +2531,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6499881466229755,
-    "final_loss": 3.1642273355301285
+    "time_min": 2.2380913058916727,
+    "final_loss": 3.1642273767078555
   },
   "169": {
     "file": "datasets/enron/valid.txt",
@@ -2546,8 +2546,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.6103623191515606,
-    "final_loss": 3.238437324118984
+    "time_min": 2.1907473882039388,
+    "final_loss": 3.2384373596361136
   },
   "170": {
     "file": "datasets/enron/valid.txt",
@@ -2561,8 +2561,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.609077767531077,
-    "final_loss": 3.10120763573724
+    "time_min": 2.24692595799764,
+    "final_loss": 3.1012098669035235
   },
   "171": {
     "file": "datasets/enron/valid.txt",
@@ -2576,8 +2576,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.6134488264719646,
-    "final_loss": 3.1605597407727983
+    "time_min": 2.2051220099131266,
+    "final_loss": 3.1605597737346
   },
   "172": {
     "file": "datasets/enron/valid.txt",
@@ -2591,8 +2591,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.631879087289174,
-    "final_loss": 3.0139024514268935
+    "time_min": 2.2161895473798117,
+    "final_loss": 3.013786639097607
   },
   "173": {
     "file": "datasets/enron/valid.txt",
@@ -2606,8 +2606,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.5952343543370566,
-    "final_loss": 3.062830275145763
+    "time_min": 2.167367720603943,
+    "final_loss": 3.062835527221275
   },
   "174": {
     "file": "datasets/enron/valid.txt",
@@ -2621,8 +2621,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6422371983528137,
-    "final_loss": 3.197138664013365
+    "time_min": 1.2927465041478474,
+    "final_loss": 3.197138711423607
   },
   "175": {
     "file": "datasets/enron/valid.txt",
@@ -2636,8 +2636,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6172142267227172,
-    "final_loss": 3.2445527042012583
+    "time_min": 1.2759775956471762,
+    "final_loss": 3.2445527582625266
   },
   "176": {
     "file": "datasets/enron/valid.txt",
@@ -2651,8 +2651,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6349677125612894,
-    "final_loss": 3.1339706672287346
+    "time_min": 1.271298086643219,
+    "final_loss": 3.1339706883754794
   },
   "177": {
     "file": "datasets/enron/valid.txt",
@@ -2666,8 +2666,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6092239459355673,
-    "final_loss": 3.151353275343141
+    "time_min": 1.2655197064081827,
+    "final_loss": 3.151353328032848
   },
   "178": {
     "file": "datasets/enron/valid.txt",
@@ -2681,8 +2681,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.609380594889323,
-    "final_loss": 3.0377100689395706
+    "time_min": 1.2837162971496583,
+    "final_loss": 3.037710300533021
   },
   "179": {
     "file": "datasets/enron/valid.txt",
@@ -2696,8 +2696,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.593216860294342,
-    "final_loss": 3.0438409184319344
+    "time_min": 1.2909818530082702,
+    "final_loss": 3.043841280581177
   },
   "180": {
     "file": "datasets/enron/valid.txt",
@@ -2711,8 +2711,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1583529472351075,
-    "final_loss": 3.233887594671136
+    "time_min": 0.8529505729675293,
+    "final_loss": 3.233887630434929
   },
   "181": {
     "file": "datasets/enron/valid.txt",
@@ -2726,8 +2726,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.144004472096761,
-    "final_loss": 3.2471030882460625
+    "time_min": 0.8336247762044271,
+    "final_loss": 3.2471031213699204
   },
   "182": {
     "file": "datasets/enron/valid.txt",
@@ -2741,8 +2741,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.158874221642812,
-    "final_loss": 3.159815002499875
+    "time_min": 0.8347164074579875,
+    "final_loss": 3.159815046596227
   },
   "183": {
     "file": "datasets/enron/valid.txt",
@@ -2756,8 +2756,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1504161397616068,
-    "final_loss": 3.1364721487620115
+    "time_min": 0.8205877979596455,
+    "final_loss": 3.1364721831069464
   },
   "184": {
     "file": "datasets/enron/valid.txt",
@@ -2771,8 +2771,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1607527573903402,
-    "final_loss": 3.0797206903823735
+    "time_min": 0.8431330323219299,
+    "final_loss": 3.079720725260455
   },
   "185": {
     "file": "datasets/enron/valid.txt",
@@ -2786,8 +2786,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1503311316172282,
-    "final_loss": 3.0227750331145855
+    "time_min": 0.8304709951082866,
+    "final_loss": 3.0227750830497477
   },
   "186": {
     "file": "datasets/enron/valid.txt",
@@ -2801,8 +2801,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.843080445130666,
-    "final_loss": 3.2980216692023454
+    "time_min": 0.5694092909495035,
+    "final_loss": 3.2980217045877755
   },
   "187": {
     "file": "datasets/enron/valid.txt",
@@ -2816,8 +2816,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8422999342282613,
-    "final_loss": 3.2609373650970315
+    "time_min": 0.567540184656779,
+    "final_loss": 3.2609374085226515
   },
   "188": {
     "file": "datasets/enron/valid.txt",
@@ -2831,8 +2831,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8433944821357727,
-    "final_loss": 30.90784384195945
+    "time_min": 0.5692246158917745,
+    "final_loss": 39.605662849347574
   },
   "189": {
     "file": "datasets/enron/valid.txt",
@@ -2846,8 +2846,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8405927896499634,
-    "final_loss": 42.146529822761885
+    "time_min": 0.5664961218833924,
+    "final_loss": 36.518605946682335
   },
   "190": {
     "file": "datasets/enron/valid.txt",
@@ -2861,8 +2861,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8456100622812907,
-    "final_loss": 51.22213044284611
+    "time_min": 0.5714085618654887,
+    "final_loss": 3.174405249679035
   },
   "191": {
     "file": "datasets/enron/valid.txt",
@@ -2876,8 +2876,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.838478684425354,
-    "final_loss": 56.32276566497801
+    "time_min": 0.5671570817629497,
+    "final_loss": 46.15401514138196
   },
   "192": {
     "file": "datasets/enron/valid.txt",
@@ -2891,8 +2891,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6167357166608176,
-    "final_loss": NaN
+    "time_min": 2.2183491826057433,
+    "final_loss": 3.2108449243708868
   },
   "193": {
     "file": "datasets/enron/valid.txt",
@@ -2906,8 +2906,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.5950497309366862,
-    "final_loss": 3.410120745957037
+    "time_min": 2.1726479371388754,
+    "final_loss": 3.410120794840183
   },
   "194": {
     "file": "datasets/enron/valid.txt",
@@ -2921,8 +2921,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6441962639490764,
-    "final_loss": NaN
+    "time_min": 2.249692746003469,
+    "final_loss": 3.1849542403069955
   },
   "195": {
     "file": "datasets/enron/valid.txt",
@@ -2936,8 +2936,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.552327823638916,
-    "final_loss": 3.378310129032506
+    "time_min": 2.200460958480835,
+    "final_loss": 3.3783101756230005
   },
   "196": {
     "file": "datasets/enron/valid.txt",
@@ -2951,8 +2951,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.640376102924347,
-    "final_loss": NaN
+    "time_min": 2.195996336142222,
+    "final_loss": 3.1541818389186145
   },
   "197": {
     "file": "datasets/enron/valid.txt",
@@ -2966,8 +2966,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.565312465031942,
-    "final_loss": 3.3378553163062032
+    "time_min": 2.198380772272746,
+    "final_loss": 3.3378553625238117
   },
   "198": {
     "file": "datasets/enron/valid.txt",
@@ -2981,8 +2981,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6240079124768576,
-    "final_loss": NaN
+    "time_min": 1.317839833100637,
+    "final_loss": 3.2425100215528926
   },
   "199": {
     "file": "datasets/enron/valid.txt",
@@ -2996,8 +2996,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6162728468577068,
-    "final_loss": 3.4432808258465495
+    "time_min": 1.2815516233444213,
+    "final_loss": 3.4432808815603293
   },
   "200": {
     "file": "datasets/enron/valid.txt",
@@ -3011,8 +3011,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6312784592310587,
-    "final_loss": NaN
+    "time_min": 1.3075324416160583,
+    "final_loss": 3.21487048304304
   },
   "201": {
     "file": "datasets/enron/valid.txt",
@@ -3026,8 +3026,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6113696932792663,
-    "final_loss": 3.4031567220082914
+    "time_min": 1.2768808722496032,
+    "final_loss": 3.4031567686091404
   },
   "202": {
     "file": "datasets/enron/valid.txt",
@@ -3041,8 +3041,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.640592086315155,
-    "final_loss": NaN
+    "time_min": 1.3151148200035094,
+    "final_loss": 3.1834733155794073
   },
   "203": {
     "file": "datasets/enron/valid.txt",
@@ -3056,8 +3056,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6120011885960897,
-    "final_loss": 3.354517521377641
+    "time_min": 1.2665951172510783,
+    "final_loss": 3.354517575502328
   },
   "204": {
     "file": "datasets/enron/valid.txt",
@@ -3071,8 +3071,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1595419804255167,
-    "final_loss": NaN
+    "time_min": 0.8346902012825013,
+    "final_loss": 3.283385472162881
   },
   "205": {
     "file": "datasets/enron/valid.txt",
@@ -3086,8 +3086,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1483510931332905,
-    "final_loss": 3.4855269431527947
+    "time_min": 0.8370079874992371,
+    "final_loss": 3.485526989416128
   },
   "206": {
     "file": "datasets/enron/valid.txt",
@@ -3101,8 +3101,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1588051001230875,
-    "final_loss": NaN
+    "time_min": 0.8362422227859497,
+    "final_loss": 3.252161676841346
   },
   "207": {
     "file": "datasets/enron/valid.txt",
@@ -3116,8 +3116,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1415217955907186,
-    "final_loss": 3.4356253512044557
+    "time_min": 0.832554833094279,
+    "final_loss": 3.4356254025240784
   },
   "208": {
     "file": "datasets/enron/valid.txt",
@@ -3131,8 +3131,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1553565343221028,
-    "final_loss": NaN
+    "time_min": 0.8450896700223287,
+    "final_loss": 3.219457594270322
   },
   "209": {
     "file": "datasets/enron/valid.txt",
@@ -3146,8 +3146,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1471468647321066,
-    "final_loss": 3.3785954469280743
+    "time_min": 0.8338206847508748,
+    "final_loss": 3.3785954852028133
   },
   "210": {
     "file": "datasets/enron/valid.txt",
@@ -3161,8 +3161,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.843919821580251,
-    "final_loss": NaN
+    "time_min": 0.5665311535199483,
+    "final_loss": 3.357117565944684
   },
   "211": {
     "file": "datasets/enron/valid.txt",
@@ -3176,8 +3176,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8404481728871663,
-    "final_loss": 3.548725801516441
+    "time_min": 0.5622656027475993,
+    "final_loss": 3.5487258381917406
   },
   "212": {
     "file": "datasets/enron/valid.txt",
@@ -3191,8 +3191,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8441077788670858,
-    "final_loss": NaN
+    "time_min": 0.5665502309799194,
+    "final_loss": 3.3233594953510748
   },
   "213": {
     "file": "datasets/enron/valid.txt",
@@ -3206,8 +3206,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8384149352709452,
-    "final_loss": 3.4872999916533347
+    "time_min": 0.5594256281852722,
+    "final_loss": 3.487300047203731
   },
   "214": {
     "file": "datasets/enron/valid.txt",
@@ -3221,8 +3221,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8433045228322347,
-    "final_loss": NaN
+    "time_min": 0.5653310020764669,
+    "final_loss": 3.2886632300739667
   },
   "215": {
     "file": "datasets/enron/valid.txt",
@@ -3236,9 +3236,9 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8409954110781351,
-    "final_loss": 52.88637142336051
+    "time_min": 0.5610243757565816,
+    "final_loss": 53.489748370615224
   },
   "best_key": 76,
-  "total_time_min": 337.2472933570544
+  "total_time_min": 266.0363019545873
 }
