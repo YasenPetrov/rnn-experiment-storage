@@ -1,0 +1,13 @@
+{
+  "file": "datasets/enron/valid.txt",
+  "eval_char_count": 100000,
+  "learning_rate": 0.01,
+  "num_timesteps": 20,
+  "m_size": 500,
+  "adapt_rule": "sparse",
+  "use_in_recurrent": true,
+  "weight_decay": 10,
+  "stats_interval": 100,
+  "time_min": 1.7749350984891257,
+  "final_loss": 153270985346168.2
+}
