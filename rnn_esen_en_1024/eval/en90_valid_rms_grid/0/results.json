@@ -11,7 +11,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.5671191891034444,
+    "time_min": 2.7622458299001056,
     "final_loss": 54.593194831748285
   },
   "1": {
@@ -26,7 +26,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.5277281244595846,
+    "time_min": 2.607330338160197,
     "final_loss": 54.593194831748285
   },
   "2": {
@@ -41,7 +41,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6187537630399067,
+    "time_min": 2.6494020144144694,
     "final_loss": 147.46378119690115
   },
   "3": {
@@ -56,7 +56,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.610222136974335,
+    "time_min": 2.6865365982055662,
     "final_loss": 147.46378119690115
   },
   "4": {
@@ -71,7 +71,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.5387698809305825,
+    "time_min": 2.625265324115753,
     "final_loss": 294.23251796779437
   },
   "5": {
@@ -86,7 +86,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.5261837442715964,
+    "time_min": 2.7383298238118488,
     "final_loss": 294.23251796779437
   },
   "6": {
@@ -101,7 +101,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.617188843091329,
+    "time_min": 1.7590623140335082,
     "final_loss": 141.67872034188377
   },
   "7": {
@@ -116,7 +116,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6173709988594056,
+    "time_min": 1.6840524077415466,
     "final_loss": 141.67872034188377
   },
   "8": {
@@ -131,7 +131,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6048852602640789,
+    "time_min": 1.6591947197914123,
     "final_loss": 348.13408454795723
   },
   "9": {
@@ -146,7 +146,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6123354196548463,
+    "time_min": 1.595762320359548,
     "final_loss": 348.13408454795723
   },
   "10": {
@@ -161,7 +161,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6098804950714112,
+    "time_min": 1.7507162690162659,
     "final_loss": 262.3589172765598
   },
   "11": {
@@ -176,7 +176,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6214018702507018,
+    "time_min": 1.6373895247777304,
     "final_loss": 262.3589172765598
   },
   "12": {
@@ -191,7 +191,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1349228183428446,
+    "time_min": 1.1641354163487752,
     "final_loss": 272.86365467662284
   },
   "13": {
@@ -206,7 +206,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.118499251206716,
+    "time_min": 1.1511345148086547,
     "final_loss": 272.86365467662284
   },
   "14": {
@@ -221,7 +221,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1583086967468261,
+    "time_min": 1.1756166259447733,
     "final_loss": 422.53801239032754
   },
   "15": {
@@ -236,7 +236,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1360283215840659,
+    "time_min": 1.140852113564809,
     "final_loss": 422.53801239032754
   },
   "16": {
@@ -251,7 +251,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1470873316129049,
+    "time_min": 1.1542629996935527,
     "final_loss": 1027.0731399445367
   },
   "17": {
@@ -266,7 +266,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1407496690750123,
+    "time_min": 1.1343836029370626,
     "final_loss": 1027.0731399445367
   },
   "18": {
@@ -281,7 +281,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8355478644371033,
+    "time_min": 0.8396166880925496,
     "final_loss": 673.4997846447912
   },
   "19": {
@@ -296,7 +296,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8298080960909525,
+    "time_min": 0.8349244912465413,
     "final_loss": 673.4997846447912
   },
   "20": {
@@ -311,7 +311,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8381935755411783,
+    "time_min": 0.8413039406140645,
     "final_loss": 884.4033048670813
   },
   "21": {
@@ -326,7 +326,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8320253650347392,
+    "time_min": 0.8343827843666076,
     "final_loss": 884.4033048670813
   },
   "22": {
@@ -341,7 +341,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8380493998527527,
+    "time_min": 0.8443662563959757,
     "final_loss": 1756.7034277420785
   },
   "23": {
@@ -356,7 +356,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8277915517489115,
+    "time_min": 0.8341141462326049,
     "final_loss": 1756.7034277420785
   },
   "24": {
@@ -371,7 +371,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6117437839508058,
+    "time_min": 2.6362290740013123,
     "final_loss": 38.807669134431016
   },
   "25": {
@@ -386,7 +386,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.6495999852816263,
+    "time_min": 2.6112104535102842,
     "final_loss": 52.64875448456867
   },
   "26": {
@@ -401,7 +401,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.656703865528107,
+    "time_min": 2.659334675470988,
     "final_loss": 88.19825503702054
   },
   "27": {
@@ -416,7 +416,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.6384188691775003,
+    "time_min": 2.62965149084727,
     "final_loss": 107.7244708126975
   },
   "28": {
@@ -431,7 +431,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6470066706339517,
+    "time_min": 2.62827650308609,
     "final_loss": 203.17810163513727
   },
   "29": {
@@ -446,7 +446,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.6473968664805096,
+    "time_min": 2.6006621678670245,
     "final_loss": 163.34358871453398
   },
   "30": {
@@ -461,7 +461,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6502663016319274,
+    "time_min": 1.6414420127868652,
     "final_loss": 83.57932070750451
   },
   "31": {
@@ -476,7 +476,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6294300238291421,
+    "time_min": 1.6165976921717327,
     "final_loss": 113.27330481308846
   },
   "32": {
@@ -491,7 +491,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.644836429754893,
+    "time_min": 1.6281770904858908,
     "final_loss": 277.16585743909485
   },
   "33": {
@@ -506,7 +506,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6204319715499877,
+    "time_min": 1.605857785542806,
     "final_loss": 243.2654431212467
   },
   "34": {
@@ -521,7 +521,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6364274621009827,
+    "time_min": 1.631057047843933,
     "final_loss": 428.08693323989837
   },
   "35": {
@@ -536,7 +536,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.607848850886027,
+    "time_min": 1.6130883932113647,
     "final_loss": 439.1602750300763
   },
   "36": {
@@ -551,7 +551,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1573289275169372,
+    "time_min": 1.1543737490971884,
     "final_loss": 266.3631114811512
   },
   "37": {
@@ -566,7 +566,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1417072097460428,
+    "time_min": 1.1459262291590373,
     "final_loss": 248.14125359938458
   },
   "38": {
@@ -581,7 +581,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.157049822807312,
+    "time_min": 1.1482756416002908,
     "final_loss": 470.888670433875
   },
   "39": {
@@ -596,7 +596,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1511478185653687,
+    "time_min": 1.1372120380401611,
     "final_loss": 370.08788320258344
   },
   "40": {
@@ -611,7 +611,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.150904413064321,
+    "time_min": 1.1550047357877096,
     "final_loss": 906.1062115832233
   },
   "41": {
@@ -626,7 +626,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1402899185816446,
+    "time_min": 1.1470893979072572,
     "final_loss": 584.8818844769395
   },
   "42": {
@@ -641,7 +641,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8373549580574036,
+    "time_min": 0.8413269559542338,
     "final_loss": 628.761382692349
   },
   "43": {
@@ -656,7 +656,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8363927920659383,
+    "time_min": 0.8332281748453776,
     "final_loss": 119.05602172118611
   },
   "44": {
@@ -671,7 +671,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.83670045932134,
+    "time_min": 0.8389761050542196,
     "final_loss": 1173.91430782484
   },
   "45": {
@@ -686,7 +686,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8349941571553549,
+    "time_min": 0.8345669865608215,
     "final_loss": 270.8132112901907
   },
   "46": {
@@ -701,8 +701,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8389528314272563,
-    "final_loss": 1127.069794578035
+    "time_min": 0.8359701633453369,
+    "final_loss": 537.4890826366191
   },
   "47": {
     "file": "datasets/es-en/en/valid.txt",
@@ -716,7 +716,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8308193365732829,
+    "time_min": 0.8357202569643657,
     "final_loss": 2201.4820013001595
   },
   "48": {
@@ -731,8 +731,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6250834266344705,
-    "final_loss": NaN
+    "time_min": 2.6367140134175617,
+    "final_loss": 53.86884647505319
   },
   "49": {
     "file": "datasets/es-en/en/valid.txt",
@@ -746,7 +746,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.5769399960835773,
+    "time_min": 2.587798511981964,
     "final_loss": 1.339630785621777
   },
   "50": {
@@ -761,8 +761,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6172986467679342,
-    "final_loss": NaN
+    "time_min": 2.62850790421168,
+    "final_loss": 98.93145917576848
   },
   "51": {
     "file": "datasets/es-en/en/valid.txt",
@@ -776,7 +776,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.6041061600049336,
+    "time_min": 2.629969533284505,
     "final_loss": 95.81771194240923
   },
   "52": {
@@ -791,8 +791,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.628553787867228,
-    "final_loss": NaN
+    "time_min": 2.649936230977376,
+    "final_loss": 191.1181603703337
   },
   "53": {
     "file": "datasets/es-en/en/valid.txt",
@@ -806,7 +806,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.639929207166036,
+    "time_min": 2.6376989245414735,
     "final_loss": 156.3825994805957
   },
   "54": {
@@ -821,8 +821,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6330369194348653,
-    "final_loss": NaN
+    "time_min": 1.6485527276992797,
+    "final_loss": 90.45359000181074
   },
   "55": {
     "file": "datasets/es-en/en/valid.txt",
@@ -836,7 +836,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6281758785247802,
+    "time_min": 1.6126355608304341,
     "final_loss": 76.6354934619121
   },
   "56": {
@@ -851,8 +851,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.63585577805837,
-    "final_loss": NaN
+    "time_min": 1.6388954003651937,
+    "final_loss": 181.88445125168568
   },
   "57": {
     "file": "datasets/es-en/en/valid.txt",
@@ -866,7 +866,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6280985633532206,
+    "time_min": 1.6154724399248759,
     "final_loss": 186.92788640282464
   },
   "58": {
@@ -881,8 +881,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6206108411153157,
-    "final_loss": NaN
+    "time_min": 1.6424564599990845,
+    "final_loss": 296.4599423076247
   },
   "59": {
     "file": "datasets/es-en/en/valid.txt",
@@ -896,7 +896,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6150306145350137,
+    "time_min": 1.639119299252828,
     "final_loss": 321.79781598221086
   },
   "60": {
@@ -911,8 +911,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1470742384592691,
-    "final_loss": NaN
+    "time_min": 1.161660412947337,
+    "final_loss": 156.9541786585669
   },
   "61": {
     "file": "datasets/es-en/en/valid.txt",
@@ -926,7 +926,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1487879713376363,
+    "time_min": 1.1483357667922973,
     "final_loss": 161.2629399152837
   },
   "62": {
@@ -941,8 +941,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1515838702519734,
-    "final_loss": NaN
+    "time_min": 1.152720606327057,
+    "final_loss": 328.4183514135075
   },
   "63": {
     "file": "datasets/es-en/en/valid.txt",
@@ -956,7 +956,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1423969507217406,
+    "time_min": 1.1496779719988506,
     "final_loss": 360.88078920833595
   },
   "64": {
@@ -971,8 +971,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1532498637835185,
-    "final_loss": NaN
+    "time_min": 1.1437721371650695,
+    "final_loss": 390.77409882648044
   },
   "65": {
     "file": "datasets/es-en/en/valid.txt",
@@ -986,7 +986,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1442556301752727,
+    "time_min": 1.1476107239723206,
     "final_loss": 648.0926885301074
   },
   "66": {
@@ -1001,8 +1001,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.83723517258962,
-    "final_loss": NaN
+    "time_min": 0.8389064232508342,
+    "final_loss": 157.54244247268372
   },
   "67": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1016,7 +1016,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8312785903612773,
+    "time_min": 0.8367161711057027,
     "final_loss": 544.5272767783658
   },
   "68": {
@@ -1031,8 +1031,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8327190438906352,
-    "final_loss": NaN
+    "time_min": 0.8415899038314819,
+    "final_loss": 468.73438803016336
   },
   "69": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1046,7 +1046,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8290183027585347,
+    "time_min": 0.8324947555859884,
     "final_loss": 1099.2530057527902
   },
   "70": {
@@ -1061,8 +1061,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8321647087732951,
-    "final_loss": NaN
+    "time_min": 0.8411286989847819,
+    "final_loss": 1049.1932185239507
   },
   "71": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1076,7 +1076,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.831987996896108,
+    "time_min": 0.8352109273274739,
     "final_loss": 2030.2831265792552
   },
   "72": {
@@ -1091,7 +1091,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6081848621368406,
+    "time_min": 2.651595588525136,
     "final_loss": 1.300942024713456
   },
   "73": {
@@ -1106,7 +1106,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.593570617834727,
+    "time_min": 2.569652271270752,
     "final_loss": 1.300942024713456
   },
   "74": {
@@ -1121,7 +1121,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6239799857139587,
+    "time_min": 2.639020303885142,
     "final_loss": 1.283661029801505
   },
   "75": {
@@ -1136,7 +1136,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.5519598563512167,
+    "time_min": 2.5837045550346374,
     "final_loss": 1.283661029801505
   },
   "76": {
@@ -1151,7 +1151,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6080756147702533,
+    "time_min": 2.6369231899579364,
     "final_loss": 1.2694888741730668
   },
   "77": {
@@ -1166,7 +1166,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.589204748471578,
+    "time_min": 2.584240504105886,
     "final_loss": 1.2694888741730668
   },
   "78": {
@@ -1181,7 +1181,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6177384813626607,
+    "time_min": 1.6289221882820129,
     "final_loss": 1.304322988583507
   },
   "79": {
@@ -1196,7 +1196,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.599674638112386,
+    "time_min": 1.612778902053833,
     "final_loss": 1.304322988583507
   },
   "80": {
@@ -1211,7 +1211,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6107316851615905,
+    "time_min": 1.634574055671692,
     "final_loss": 1.286856268906498
   },
   "81": {
@@ -1226,7 +1226,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6054007331530253,
+    "time_min": 1.6095158537228902,
     "final_loss": 1.286856268906498
   },
   "82": {
@@ -1241,7 +1241,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6125749707221986,
+    "time_min": 1.6335450092951456,
     "final_loss": 1.2726946222604596
   },
   "83": {
@@ -1256,7 +1256,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.5884552280108133,
+    "time_min": 1.6090197364489238,
     "final_loss": 1.2726946222604596
   },
   "84": {
@@ -1271,7 +1271,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1420071482658387,
+    "time_min": 1.1538001497586567,
     "final_loss": 1.3065085179355798
   },
   "85": {
@@ -1286,7 +1286,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1280878861745198,
+    "time_min": 1.1426801919937133,
     "final_loss": 1.3065085179355798
   },
   "86": {
@@ -1301,7 +1301,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1489431858062744,
+    "time_min": 1.144695512453715,
     "final_loss": 1.2903396886945844
   },
   "87": {
@@ -1316,7 +1316,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.137240970134735,
+    "time_min": 1.1446696043014526,
     "final_loss": 1.2903396886945844
   },
   "88": {
@@ -1331,7 +1331,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1507344166437785,
+    "time_min": 1.1498424490292867,
     "final_loss": 1.276985880381838
   },
   "89": {
@@ -1346,7 +1346,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1416685700416564,
+    "time_min": 1.145868436495463,
     "final_loss": 1.276985880381838
   },
   "90": {
@@ -1361,7 +1361,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.837037189801534,
+    "time_min": 0.8384618441263835,
     "final_loss": 1.3117506164619621
   },
   "91": {
@@ -1376,7 +1376,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8340305765469869,
+    "time_min": 0.8352652351061504,
     "final_loss": 1.3117506164619621
   },
   "92": {
@@ -1391,7 +1391,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8356301824251811,
+    "time_min": 0.835360054175059,
     "final_loss": 1.2963971845812272
   },
   "93": {
@@ -1406,7 +1406,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8331987977027893,
+    "time_min": 0.8291753212610881,
     "final_loss": 1.2963971845812272
   },
   "94": {
@@ -1421,7 +1421,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8376819133758545,
+    "time_min": 0.8349944790204366,
     "final_loss": 1.2844838073859168
   },
   "95": {
@@ -1436,7 +1436,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8337093551953634,
+    "time_min": 0.8343004147211711,
     "final_loss": 1.2844838073859168
   },
   "96": {
@@ -1451,7 +1451,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.5259337544441225,
+    "time_min": 2.6200317621231077,
     "final_loss": 1.3181931144063275
   },
   "97": {
@@ -1466,7 +1466,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.490077352523804,
+    "time_min": 2.5661421179771424,
     "final_loss": 1.3297959683261147
   },
   "98": {
@@ -1481,7 +1481,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.546367907524109,
+    "time_min": 2.5993252356847125,
     "final_loss": 1.3091235198002606
   },
   "99": {
@@ -1496,7 +1496,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.559298312664032,
+    "time_min": 2.579197037220001,
     "final_loss": 1.3148250167014275
   },
   "100": {
@@ -1511,7 +1511,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.565624205271403,
+    "time_min": 2.608441158135732,
     "final_loss": 1.3012478485426604
   },
   "101": {
@@ -1526,7 +1526,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.5890990138053893,
+    "time_min": 2.528451148668925,
     "final_loss": 1.3034258641036855
   },
   "102": {
@@ -1541,7 +1541,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6286841750144958,
+    "time_min": 1.5881672620773315,
     "final_loss": 1.3191779135723865
   },
   "103": {
@@ -1556,7 +1556,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6092570145924887,
+    "time_min": 1.607476262251536,
     "final_loss": 1.323782649766492
   },
   "104": {
@@ -1571,7 +1571,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.623353902498881,
+    "time_min": 1.6202048142751058,
     "final_loss": 1.3093365334016047
   },
   "105": {
@@ -1586,7 +1586,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.607309138774872,
+    "time_min": 1.5817841172218323,
     "final_loss": 1.309645925842541
   },
   "106": {
@@ -1601,7 +1601,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6258124987284341,
+    "time_min": 1.6232989033063252,
     "final_loss": 1.3012041756694401
   },
   "107": {
@@ -1616,7 +1616,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6067378918329875,
+    "time_min": 1.5935047348340352,
     "final_loss": 1.2971516744513776
   },
   "108": {
@@ -1631,7 +1631,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1521478652954102,
+    "time_min": 1.1516972502072653,
     "final_loss": 1.3188417378158857
   },
   "109": {
@@ -1646,7 +1646,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1415671984354654,
+    "time_min": 1.141366477807363,
     "final_loss": 1.319254575439285
   },
   "110": {
@@ -1661,7 +1661,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.151999568939209,
+    "time_min": 1.1486440340677897,
     "final_loss": 1.309210244533901
   },
   "111": {
@@ -1676,7 +1676,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1414938569068909,
+    "time_min": 1.1403124849001567,
     "final_loss": 1.3047093243371293
   },
   "112": {
@@ -1691,7 +1691,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1451524138450622,
+    "time_min": 1.1584263722101846,
     "final_loss": 1.3008793241683945
   },
   "113": {
@@ -1706,7 +1706,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1435327649116516,
+    "time_min": 1.1406558752059937,
     "final_loss": 1.2917878513609502
   },
   "114": {
@@ -1721,7 +1721,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8359116435050964,
+    "time_min": 0.8386163791020711,
     "final_loss": 1.3212907335320443
   },
   "115": {
@@ -1736,7 +1736,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.833009934425354,
+    "time_min": 0.8297632535298666,
     "final_loss": 1.3180869814986826
   },
   "116": {
@@ -1751,7 +1751,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8363609194755555,
+    "time_min": 0.8355258822441101,
     "final_loss": 91.7985211406365
   },
   "117": {
@@ -1766,7 +1766,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8303679943084716,
+    "time_min": 0.8386565327644349,
     "final_loss": 1.3031682595231073
   },
   "118": {
@@ -1781,8 +1781,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8345285852750143,
-    "final_loss": 1.3026824734686195
+    "time_min": 0.8405929565429687,
+    "final_loss": 1.302682418431484
   },
   "119": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1796,7 +1796,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8321980834007263,
+    "time_min": 0.8299875219662984,
     "final_loss": 1.2914963650946165
   },
   "120": {
@@ -1811,8 +1811,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.626776985327403,
-    "final_loss": NaN
+    "time_min": 2.583170930544535,
+    "final_loss": 1.3319472871964133
   },
   "121": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1826,7 +1826,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.588843619823456,
+    "time_min": 2.5868281006813048,
     "final_loss": 1.3489008094163655
   },
   "122": {
@@ -1841,8 +1841,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.617490820089976,
-    "final_loss": NaN
+    "time_min": 2.6137579043706256,
+    "final_loss": 1.3270905779341198
   },
   "123": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1856,7 +1856,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.5758917808532713,
+    "time_min": 2.608997722466787,
     "final_loss": 1.343813821208287
   },
   "124": {
@@ -1871,8 +1871,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.5881860852241516,
-    "final_loss": NaN
+    "time_min": 2.635898840427399,
+    "final_loss": 1.3218287727875258
   },
   "125": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1886,7 +1886,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.5573521494865417,
+    "time_min": 2.59086860815684,
     "final_loss": 1.3386030121311945
   },
   "126": {
@@ -1901,8 +1901,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6302720745404562,
-    "final_loss": NaN
+    "time_min": 1.6073086102803549,
+    "final_loss": 1.3329469735930355
   },
   "127": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1916,7 +1916,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6020209431648254,
+    "time_min": 1.6221964240074158,
     "final_loss": 1.3475478867628996
   },
   "128": {
@@ -1931,8 +1931,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6330111702283223,
-    "final_loss": NaN
+    "time_min": 1.6141077717145285,
+    "final_loss": 1.3257002394147954
   },
   "129": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1946,7 +1946,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.589196757475535,
+    "time_min": 1.5944562117258707,
     "final_loss": 1.3411894675053415
   },
   "130": {
@@ -1961,8 +1961,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6035691539446513,
-    "final_loss": NaN
+    "time_min": 1.634424881140391,
+    "final_loss": 1.3204842871243023
   },
   "131": {
     "file": "datasets/es-en/en/valid.txt",
@@ -1976,7 +1976,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6082977771759033,
+    "time_min": 1.6049062331517538,
     "final_loss": 1.3345350750693916
   },
   "132": {
@@ -1991,8 +1991,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1530392487843832,
-    "final_loss": NaN
+    "time_min": 1.1447234869003295,
+    "final_loss": 1.33186300707805
   },
   "133": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2006,7 +2006,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.131413173675537,
+    "time_min": 1.1386570612589517,
     "final_loss": 1.3452520907273573
   },
   "134": {
@@ -2021,8 +2021,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1522598187128703,
-    "final_loss": NaN
+    "time_min": 1.145605456829071,
+    "final_loss": 1.3251270797307693
   },
   "135": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2036,7 +2036,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1418826977411907,
+    "time_min": 1.1383795579274496,
     "final_loss": 1.337429998548342
   },
   "136": {
@@ -2051,8 +2051,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1524232864379882,
-    "final_loss": NaN
+    "time_min": 1.1462471604347229,
+    "final_loss": 1.3199018475954587
   },
   "137": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2066,7 +2066,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1440853158632913,
+    "time_min": 1.144619341691335,
     "final_loss": 1.3294561428232743
   },
   "138": {
@@ -2081,8 +2081,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8367042899131775,
-    "final_loss": NaN
+    "time_min": 0.8393763105074564,
+    "final_loss": 1.3349047407179124
   },
   "139": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2096,7 +2096,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8320138374964396,
+    "time_min": 0.8362703641255697,
     "final_loss": 1.3416948378089528
   },
   "140": {
@@ -2111,8 +2111,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.837323800722758,
-    "final_loss": NaN
+    "time_min": 0.8360755840937296,
+    "final_loss": 1.3268863957553294
   },
   "141": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2126,7 +2126,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8328649520874023,
+    "time_min": 0.8314609130223592,
     "final_loss": 1.3317097759473033
   },
   "142": {
@@ -2141,8 +2141,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8358300884564718,
-    "final_loss": NaN
+    "time_min": 0.8337393760681152,
+    "final_loss": 1.3211785098863573
   },
   "143": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2156,7 +2156,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8343528350194295,
+    "time_min": 0.8311867992083232,
     "final_loss": 1.3289006723255194
   },
   "144": {
@@ -2171,7 +2171,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.6129252155621847,
+    "time_min": 2.6355265617370605,
     "final_loss": 1.3142888736982288
   },
   "145": {
@@ -2186,7 +2186,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.598676065603892,
+    "time_min": 2.6024566888809204,
     "final_loss": 1.3142888736982288
   },
   "146": {
@@ -2201,7 +2201,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6422889709472654,
+    "time_min": 2.5894567251205443,
     "final_loss": 1.2993815654731176
   },
   "147": {
@@ -2216,7 +2216,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.5992932677268983,
+    "time_min": 2.562962849934896,
     "final_loss": 1.2993815654731176
   },
   "148": {
@@ -2231,7 +2231,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6477496226628623,
+    "time_min": 2.6218207160631817,
     "final_loss": 1.2864033060366273
   },
   "149": {
@@ -2246,7 +2246,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.591950503985087,
+    "time_min": 2.5604395469029746,
     "final_loss": 1.2864033060366273
   },
   "150": {
@@ -2261,7 +2261,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6291739304860433,
+    "time_min": 1.631519333521525,
     "final_loss": 1.318119142092291
   },
   "151": {
@@ -2276,7 +2276,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6192434350649516,
+    "time_min": 1.6104844768842062,
     "final_loss": 1.318119142092291
   },
   "152": {
@@ -2291,7 +2291,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.639500617980957,
+    "time_min": 1.6271000464757284,
     "final_loss": 1.3034825568167216
   },
   "153": {
@@ -2306,7 +2306,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6070489645004273,
+    "time_min": 1.5968034227689107,
     "final_loss": 1.3034825568167216
   },
   "154": {
@@ -2321,7 +2321,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.63184707959493,
+    "time_min": 1.6119207859039306,
     "final_loss": 1.290792004366162
   },
   "155": {
@@ -2336,7 +2336,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6064197580019632,
+    "time_min": 1.6038601795832317,
     "final_loss": 1.290792004366162
   },
   "156": {
@@ -2351,7 +2351,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1477280735969544,
+    "time_min": 1.155319062868754,
     "final_loss": 1.320747189291635
   },
   "157": {
@@ -2366,7 +2366,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1457988699277242,
+    "time_min": 1.143338692188263,
     "final_loss": 1.320747189291635
   },
   "158": {
@@ -2381,7 +2381,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1502302408218383,
+    "time_min": 1.152095905939738,
     "final_loss": 1.30670204583859
   },
   "159": {
@@ -2396,7 +2396,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.14222704966863,
+    "time_min": 1.1353071371714274,
     "final_loss": 1.30670204583859
   },
   "160": {
@@ -2411,7 +2411,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1516957958539327,
+    "time_min": 1.1490447044372558,
     "final_loss": 1.2949646215762165
   },
   "161": {
@@ -2426,7 +2426,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1369174599647522,
+    "time_min": 1.1461063146591186,
     "final_loss": 1.2949646215762165
   },
   "162": {
@@ -2441,7 +2441,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8368682066599528,
+    "time_min": 0.839723285039266,
     "final_loss": 1.3266425602416607
   },
   "163": {
@@ -2456,7 +2456,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8331690311431885,
+    "time_min": 0.8327974677085876,
     "final_loss": 1.3266425602416607
   },
   "164": {
@@ -2471,7 +2471,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8381151159604391,
+    "time_min": 0.8355383038520813,
     "final_loss": 1.3138114613925889
   },
   "165": {
@@ -2486,7 +2486,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8320569157600403,
+    "time_min": 0.8343020876248678,
     "final_loss": 1.3138114613925889
   },
   "166": {
@@ -2501,7 +2501,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8338255524635315,
+    "time_min": 0.8375021100044251,
     "final_loss": 53.7603395624074
   },
   "167": {
@@ -2516,7 +2516,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8341230670611064,
+    "time_min": 0.8353131731351217,
     "final_loss": 53.7603395624074
   },
   "168": {
@@ -2531,7 +2531,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.64832497437795,
+    "time_min": 2.6153783639272055,
     "final_loss": 1.3289095478737185
   },
   "169": {
@@ -2546,7 +2546,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.6008684317270916,
+    "time_min": 2.569872709115346,
     "final_loss": 1.3408290452997609
   },
   "170": {
@@ -2561,7 +2561,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.642122240861257,
+    "time_min": 2.6049641291300456,
     "final_loss": 1.319307163315034
   },
   "171": {
@@ -2576,7 +2576,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.592030159632365,
+    "time_min": 2.594532918930054,
     "final_loss": 1.3304225265512166
   },
   "172": {
@@ -2591,7 +2591,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6428879618644716,
+    "time_min": 2.61646568775177,
     "final_loss": 1.3124016851868199
   },
   "173": {
@@ -2606,7 +2606,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.619815985361735,
+    "time_min": 2.598419976234436,
     "final_loss": 1.3192279243386322
   },
   "174": {
@@ -2621,7 +2621,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6279236276944478,
+    "time_min": 1.6208661834398905,
     "final_loss": 1.330590390247423
   },
   "175": {
@@ -2636,7 +2636,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.5915095885594686,
+    "time_min": 1.61632798910141,
     "final_loss": 1.3380546701029044
   },
   "176": {
@@ -2651,7 +2651,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.628453048070272,
+    "time_min": 1.63805357615153,
     "final_loss": 1.3205284348781339
   },
   "177": {
@@ -2666,7 +2666,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.6135600368181864,
+    "time_min": 1.6104444901148478,
     "final_loss": 1.324778872361787
   },
   "178": {
@@ -2681,7 +2681,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.62993882894516,
+    "time_min": 1.619765333334605,
     "final_loss": 1.313601721369519
   },
   "179": {
@@ -2696,7 +2696,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.609924054145813,
+    "time_min": 1.6162809093793233,
     "final_loss": 1.3145138848575202
   },
   "180": {
@@ -2711,7 +2711,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1525317549705505,
+    "time_min": 1.1526447931925456,
     "final_loss": 1.330336209820056
   },
   "181": {
@@ -2726,7 +2726,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.141756240526835,
+    "time_min": 1.1414063135782877,
     "final_loss": 1.333656775667518
   },
   "182": {
@@ -2741,7 +2741,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1496304909388224,
+    "time_min": 1.1532961169878642,
     "final_loss": 1.3211721465912574
   },
   "183": {
@@ -2756,7 +2756,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1428656975428264,
+    "time_min": 1.142938506603241,
     "final_loss": 1.321040564805796
   },
   "184": {
@@ -2771,7 +2771,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.157223912080129,
+    "time_min": 1.1537208954493205,
     "final_loss": 1.3142970097819673
   },
   "185": {
@@ -2786,7 +2786,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1437165975570678,
+    "time_min": 1.137506095568339,
     "final_loss": 1.310500169021644
   },
   "186": {
@@ -2801,7 +2801,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8377071340878804,
+    "time_min": 0.8316105167071025,
     "final_loss": 1.3343813749009925
   },
   "187": {
@@ -2816,7 +2816,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8331398725509643,
+    "time_min": 0.8336395819981893,
     "final_loss": 1.3332115654846517
   },
   "188": {
@@ -2831,7 +2831,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.8323994080225626,
+    "time_min": 0.8373116771380107,
     "final_loss": 1.325002619889337
   },
   "189": {
@@ -2846,7 +2846,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8346364339192708,
+    "time_min": 0.837564738591512,
     "final_loss": 1.3208756194080538
   },
   "190": {
@@ -2861,8 +2861,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.8349465489387512,
-    "final_loss": 1.3187261667933643
+    "time_min": 0.8384620149930319,
+    "final_loss": 1.3187262112159455
   },
   "191": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2876,7 +2876,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8326547384262085,
+    "time_min": 0.8364561120669047,
     "final_loss": 1.316252382153023
   },
   "192": {
@@ -2891,8 +2891,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.5921943306922914,
-    "final_loss": NaN
+    "time_min": 2.6601781249046326,
+    "final_loss": 1.3399102839151058
   },
   "193": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2906,7 +2906,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.59592741727829,
+    "time_min": 2.567221188545227,
     "final_loss": 1.352267422519632
   },
   "194": {
@@ -2921,8 +2921,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.6307971517244977,
-    "final_loss": NaN
+    "time_min": 2.644425404071808,
+    "final_loss": 1.3360761790450064
   },
   "195": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2936,7 +2936,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.597896428902944,
+    "time_min": 2.6096686840057375,
     "final_loss": 1.3491989039518066
   },
   "196": {
@@ -2951,8 +2951,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.6379761854807535,
-    "final_loss": NaN
+    "time_min": 2.6509844501813253,
+    "final_loss": 1.3328756858843231
   },
   "197": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2966,7 +2966,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.5975850462913512,
+    "time_min": 2.590839672088623,
     "final_loss": 1.3457835886184333
   },
   "198": {
@@ -2981,8 +2981,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.6325661301612855,
-    "final_loss": NaN
+    "time_min": 1.6334812839825947,
+    "final_loss": 1.3414743216279084
   },
   "199": {
     "file": "datasets/es-en/en/valid.txt",
@@ -2996,7 +2996,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.6066301782925925,
+    "time_min": 1.611895708243052,
     "final_loss": 1.351576634865706
   },
   "200": {
@@ -3011,8 +3011,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.6409193992614746,
-    "final_loss": NaN
+    "time_min": 1.6232930620511372,
+    "final_loss": 1.3372206685947172
   },
   "201": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3026,7 +3026,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.59704479376475,
+    "time_min": 1.6159910957018535,
     "final_loss": 1.347793537009213
   },
   "202": {
@@ -3041,8 +3041,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.6359997510910034,
-    "final_loss": NaN
+    "time_min": 1.6337655345598856,
+    "final_loss": 1.3337501758615258
   },
   "203": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3056,7 +3056,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.6156550168991088,
+    "time_min": 1.5877920587857564,
     "final_loss": 1.3436501352219536
   },
   "204": {
@@ -3071,8 +3071,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1583199898401897,
-    "final_loss": NaN
+    "time_min": 1.1510761936505636,
+    "final_loss": 1.3423923215163864
   },
   "205": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3086,7 +3086,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1463290572166442,
+    "time_min": 1.1432156085968017,
     "final_loss": 1.3503809884544602
   },
   "206": {
@@ -3101,8 +3101,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1562034169832864,
-    "final_loss": NaN
+    "time_min": 1.153650414943695,
+    "final_loss": 1.3369734840316914
   },
   "207": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3116,7 +3116,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.144175148010254,
+    "time_min": 1.141126267115275,
     "final_loss": 1.3458325033924874
   },
   "208": {
@@ -3131,8 +3131,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1514750043551127,
-    "final_loss": NaN
+    "time_min": 1.1529646158218383,
+    "final_loss": 1.3327356363430107
   },
   "209": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3146,7 +3146,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1401889165242514,
+    "time_min": 1.1443918188412985,
     "final_loss": 1.3408310111069524
   },
   "210": {
@@ -3161,8 +3161,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.8385849197705587,
-    "final_loss": NaN
+    "time_min": 0.8371898412704468,
+    "final_loss": 1.3441827002934097
   },
   "211": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3176,7 +3176,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8341928323109945,
+    "time_min": 0.8318390369415283,
     "final_loss": 1.348380163614595
   },
   "212": {
@@ -3191,8 +3191,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.837366231282552,
-    "final_loss": NaN
+    "time_min": 0.8366341352462768,
+    "final_loss": 1.3399863840158888
   },
   "213": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3206,7 +3206,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8326105952262879,
+    "time_min": 0.8317683021227519,
     "final_loss": 1.3428411164165792
   },
   "214": {
@@ -3221,8 +3221,8 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.838088083267212,
-    "final_loss": NaN
+    "time_min": 0.8354615132013957,
+    "final_loss": 1.3361165339504786
   },
   "215": {
     "file": "datasets/es-en/en/valid.txt",
@@ -3236,9 +3236,9 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.8325474222501119,
+    "time_min": 0.8347558856010437,
     "final_loss": 1.3391564460880587
   },
   "best_key": 76,
-  "total_time_min": 334.76824185053505
+  "total_time_min": 336.1596355756124
 }
