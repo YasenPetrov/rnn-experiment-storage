@@ -11,7 +11,7 @@
     "rms_est_train_size": 90000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 28.485471800963083,
+    "time_min": 27.142445357640586,
     "final_loss": 1.1238915745224989
   },
   "1": {
@@ -26,7 +26,7 @@
     "rms_est_train_size": 90000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 28.13252280553182,
+    "time_min": 26.89711023569107,
     "final_loss": 1.1238915745224989
   },
   "2": {
@@ -41,7 +41,7 @@
     "rms_est_train_size": 90000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 28.11092068751653,
+    "time_min": 26.97748421827952,
     "final_loss": 1.1510119652109767
   },
   "3": {
@@ -56,9 +56,9 @@
     "rms_est_train_size": 90000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 28.031570021311442,
+    "time_min": 26.940912222862245,
     "final_loss": 1.1449365438039778
   },
   "best_key": 0,
-  "total_time_min": 112.76048531532288
+  "total_time_min": 107.95795203447342
 }
