@@ -7,6 +7,6 @@
   "use_in_recurrent": true,
   "weight_decay": 10,
   "stats_interval": 100,
-  "time_min": 5.5780385057131445,
+  "time_min": 3.1050097584724425,
   "final_loss": 1.3188136748678676
 }
