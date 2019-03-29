@@ -1,0 +1,56 @@
+{
+  "0": {
+    "file": "datasets/enron/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 53.34544587135315,
+    "final_loss": 2.015573539472025
+  },
+  "1": {
+    "file": "datasets/enron/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.5,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 53.1195070028305,
+    "final_loss": 2.533520525297748
+  },
+  "2": {
+    "file": "datasets/enron/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 53.28551415205002,
+    "final_loss": 1.9662866599275086
+  },
+  "3": {
+    "file": "datasets/enron/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.7,
+    "decay_coef": 0.001,
+    "num_timesteps": 50,
+    "stats_interval": 100,
+    "rms_global_prior": false,
+    "time_min": 53.156319284439085,
+    "final_loss": 2.4487559876766207
+  },
+  "best_key": 2,
+  "total_time_min": 212.90678631067277
+}
