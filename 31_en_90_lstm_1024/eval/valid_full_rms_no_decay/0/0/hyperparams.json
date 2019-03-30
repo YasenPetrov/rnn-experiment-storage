@@ -1,0 +1,15 @@
+{
+  "file": "datasets/es-en/en/valid.txt",
+  "eval_char_count": Infinity,
+  "dynamic": true,
+  "dynamic_type": "rms",
+  "learning_rate": 0.001,
+  "decay_coef": 0,
+  "num_timesteps": 20,
+  "stats_interval": 5000,
+  "rms_est_train_size": 90000000,
+  "rms_est_batch_size": 100,
+  "rms_global_prior": false,
+  "time_min": 39.510363852977754,
+  "final_loss": 1.1330849369015557
+}

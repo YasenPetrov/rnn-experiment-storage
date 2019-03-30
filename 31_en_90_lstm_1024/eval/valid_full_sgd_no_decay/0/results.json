@@ -1,0 +1,17 @@
+{
+  "0": {
+    "file": "datasets/es-en/en/valid.txt",
+    "eval_char_count": Infinity,
+    "dynamic": true,
+    "dynamic_type": "sgd",
+    "learning_rate": 0.1,
+    "decay_coef": 0,
+    "num_timesteps": 5,
+    "stats_interval": 5000,
+    "rms_global_prior": false,
+    "time_min": 108.02489290237426,
+    "final_loss": 1.1393981809718754
+  },
+  "best_key": 0,
+  "total_time_min": 108.02489290237426
+}
