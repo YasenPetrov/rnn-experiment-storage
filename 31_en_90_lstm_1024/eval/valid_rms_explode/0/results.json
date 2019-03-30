@@ -13,7 +13,7 @@
     "rms_global_prior": true,
     "remove_unknown": false,
     "record_logits": true,
-    "time_min": 0.026567113399505616,
+    "time_min": 0.02546777327855428,
     "final_loss": 197.05220144214013
   },
   "1": {
@@ -30,7 +30,7 @@
     "rms_global_prior": true,
     "remove_unknown": false,
     "record_logits": true,
-    "time_min": 0.02441569964090983,
+    "time_min": 0.02344734271367391,
     "final_loss": 1.2015929721780794
   },
   "2": {
@@ -41,13 +41,13 @@
     "learning_rate": null,
     "decay_coef": null,
     "eval_char_count": 4000,
+    "remove_unknown": false,
+    "record_logits": true,
     "rms_global_prior": false,
     "dynamic_type": "sgd",
-    "remove_unknown": false,
-    "record_logits": false,
-    "time_min": 0.008975652853647868,
+    "time_min": 0.008929920196533204,
     "final_loss": 1.0265299188265584
   },
   "best_key": 2,
-  "total_time_min": 0.05995846589406331
+  "total_time_min": 0.05784503618876139
 }

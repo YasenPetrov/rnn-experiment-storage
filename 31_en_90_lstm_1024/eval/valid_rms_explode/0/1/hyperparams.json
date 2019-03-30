@@ -12,6 +12,6 @@
   "rms_global_prior": true,
   "remove_unknown": false,
   "record_logits": true,
-  "time_min": 0.02441569964090983,
+  "time_min": 0.02344734271367391,
   "final_loss": 1.2015929721780794
 }
