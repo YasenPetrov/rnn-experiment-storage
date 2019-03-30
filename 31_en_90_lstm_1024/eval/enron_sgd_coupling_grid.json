@@ -1,11 +1,11 @@
 {
   "file": ["datasets/enron/valid.txt"],
-  "eval_char_count": [20000],
+  "eval_char_count": [100000],
   "models": [0],
   "dynamic": [true, false],
-  "dynamic_type": ["sgd_pen_1", "sgd"],
-  "learning_rate"     : [0.1, 0.4, 0.7, 1.0, 1.3, 1.6],
-  "decay_coef"        : [0.00001, 0.00006, 0.00011, 0.00016, 0.00021, 0.00026],
+  "dynamic_type": ["sgd_pen_1", "sgd", "sgd_pen"],
+  "learning_rate"     : [0.000061035, 0.000244140625, 0.0009765625, 0.00390625, 0.015625, 0.0625, 0.25, 1, 2],
+  "decay_coef"        : [0.0000004768, 0.0000019073, 0.0000076294, 0.0000305176, 0.0001220703, 0.0004882812, 0.0019531250, 0.0078125 , 0.03125, 0.125, 0.5],
   "num_timesteps"     : [5],
   "stats_interval"       : [100]
 }
