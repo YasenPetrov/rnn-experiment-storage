@@ -1,15 +1,17 @@
 {
   "file": "datasets/es-en/en/valid.txt",
-  "dynamic": false,
+  "eval_char_count": 4000,
+  "dynamic": true,
+  "dynamic_type": "rms",
+  "learning_rate": 0.001,
+  "decay_coef": 0,
   "num_timesteps": 50,
   "stats_interval": 50,
-  "learning_rate": null,
-  "decay_coef": null,
-  "eval_char_count": 4000,
+  "rms_est_train_size": 1000000,
+  "rms_est_batch_size": 500,
+  "rms_global_prior": true,
   "remove_unknown": false,
   "record_logits": true,
-  "rms_global_prior": false,
-  "dynamic_type": "sgd",
-  "time_min": 0.008929920196533204,
-  "final_loss": 1.0265299188265584
+  "time_min": 0.021862244606018065,
+  "final_loss": 1.168250933743789
 }

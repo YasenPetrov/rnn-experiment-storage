@@ -4,7 +4,7 @@
   "dynamic": true,
   "dynamic_type": "rms",
   "learning_rate": 0.001,
-  "decay_coef": 0.01,
+  "decay_coef": 0.1,
   "num_timesteps": 50,
   "stats_interval": 50,
   "rms_est_train_size": 1000000,
@@ -12,6 +12,6 @@
   "rms_global_prior": true,
   "remove_unknown": false,
   "record_logits": true,
-  "time_min": 0.025533934434254963,
-  "final_loss": 197.05220144214013
+  "time_min": 0.02165683110555013,
+  "final_loss": 1.241361213304702
 }
