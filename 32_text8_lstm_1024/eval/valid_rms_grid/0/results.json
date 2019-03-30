@@ -11,7 +11,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3373012502988177,
+    "time_min": 1.9206082344055175,
     "final_loss": 1.4570069007335336
   },
   "1": {
@@ -26,7 +26,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.341754404703776,
+    "time_min": 1.9066302975018818,
     "final_loss": 1.4570069007335336
   },
   "2": {
@@ -41,7 +41,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.325322898228963,
+    "time_min": 1.9777559161186218,
     "final_loss": 1.5118070170060502
   },
   "3": {
@@ -56,7 +56,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.335373862584432,
+    "time_min": 1.9862050930658977,
     "final_loss": 1.5118070170060502
   },
   "4": {
@@ -71,7 +71,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.357743736108144,
+    "time_min": 1.914396580060323,
     "final_loss": 1.6219618150076451
   },
   "5": {
@@ -86,7 +86,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.337420626481374,
+    "time_min": 1.947360384464264,
     "final_loss": 1.6219618150076451
   },
   "6": {
@@ -101,7 +101,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.401390532652537,
+    "time_min": 1.1904530763626098,
     "final_loss": 1.430133503885632
   },
   "7": {
@@ -116,7 +116,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.3845205346743266,
+    "time_min": 1.153360116481781,
     "final_loss": 1.430133503885632
   },
   "8": {
@@ -131,7 +131,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.8610535144805909,
+    "time_min": 1.221115736166636,
     "final_loss": 1.450788464508446
   },
   "9": {
@@ -146,7 +146,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.7997021993001303,
+    "time_min": 1.1995449940363565,
     "final_loss": 1.450788464508446
   },
   "10": {
@@ -161,7 +161,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.8383840401967366,
+    "time_min": 1.216343307495117,
     "final_loss": 1.5456487403581112
   },
   "11": {
@@ -176,7 +176,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.8347251733144125,
+    "time_min": 1.2031391620635987,
     "final_loss": 1.5456487403581112
   },
   "12": {
@@ -191,7 +191,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.2255768458048502,
+    "time_min": 0.805877168973287,
     "final_loss": 1.426875666920386
   },
   "13": {
@@ -206,7 +206,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.199949073791504,
+    "time_min": 0.7975159525871277,
     "final_loss": 1.426875666920386
   },
   "14": {
@@ -221,7 +221,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.171791954835256,
+    "time_min": 0.8102292537689209,
     "final_loss": 1.4429702425780733
   },
   "15": {
@@ -236,7 +236,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1850011507670084,
+    "time_min": 0.8005008737246195,
     "final_loss": 1.4429702425780733
   },
   "16": {
@@ -251,7 +251,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1980407595634461,
+    "time_min": 0.8108231027921041,
     "final_loss": 1.519693847003504
   },
   "17": {
@@ -266,7 +266,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.2052727937698364,
+    "time_min": 0.8056798140207927,
     "final_loss": 1.519693847003504
   },
   "18": {
@@ -281,7 +281,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.90886975924174,
+    "time_min": 0.5638031919797262,
     "final_loss": 1.429553720215279
   },
   "19": {
@@ -296,7 +296,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.9293972889582316,
+    "time_min": 0.5583265940348308,
     "final_loss": 1.429553720215279
   },
   "20": {
@@ -311,7 +311,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.9175423383712769,
+    "time_min": 0.5639709035555521,
     "final_loss": 1.4376476627505992
   },
   "21": {
@@ -326,7 +326,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.9255664149920145,
+    "time_min": 0.5581040342648824,
     "final_loss": 1.4376476627505992
   },
   "22": {
@@ -341,7 +341,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.9323832074801127,
+    "time_min": 0.565645178159078,
     "final_loss": 1.4967095188593635
   },
   "23": {
@@ -356,7 +356,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.9117520054181417,
+    "time_min": 0.5578019698460897,
     "final_loss": 1.4967095188593635
   },
   "24": {
@@ -371,7 +371,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 3.221050182978312,
+    "time_min": 2.0638010422388713,
     "final_loss": 1.4486148868949176
   },
   "25": {
@@ -386,7 +386,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 3.194197432200114,
+    "time_min": 2.0234803557395935,
     "final_loss": 1.4405733992285057
   },
   "26": {
@@ -401,7 +401,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 3.266769369443258,
+    "time_min": 2.067828893661499,
     "final_loss": 1.4556505018893924
   },
   "27": {
@@ -416,7 +416,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 3.398779571056366,
+    "time_min": 2.022166979312897,
     "final_loss": 1.437373336006749
   },
   "28": {
@@ -431,7 +431,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 3.8000813047091166,
+    "time_min": 2.039466679096222,
     "final_loss": 1.4889301169513622
   },
   "29": {
@@ -446,7 +446,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 3.6620578209559125,
+    "time_min": 1.9608498533566794,
     "final_loss": 1.46301957490988
   },
   "30": {
@@ -461,7 +461,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3414101521174113,
+    "time_min": 1.1947817921638488,
     "final_loss": 1.4392764124410553
   },
   "31": {
@@ -476,7 +476,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.4005785544713336,
+    "time_min": 1.178593397140503,
     "final_loss": 1.4325605493145197
   },
   "32": {
@@ -491,7 +491,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.4206661303838093,
+    "time_min": 1.188839598496755,
     "final_loss": 1.4231970042704771
   },
   "33": {
@@ -506,7 +506,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.476085952917735,
+    "time_min": 1.1905534744262696,
     "final_loss": 1.4174289507570694
   },
   "34": {
@@ -521,7 +521,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.2616568485895794,
+    "time_min": 1.2035470128059387,
     "final_loss": 1.4276559254058698
   },
   "35": {
@@ -536,7 +536,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.2284585277239484,
+    "time_min": 1.178469451268514,
     "final_loss": 1.4392136492695966
   },
   "36": {
@@ -551,7 +551,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.4946385900179544,
+    "time_min": 0.8008614460627238,
     "final_loss": 1.433923073342493
   },
   "37": {
@@ -566,7 +566,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.4917669574419656,
+    "time_min": 0.7829444130261739,
     "final_loss": 1.4260883645563849
   },
   "38": {
@@ -581,7 +581,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.608698590596517,
+    "time_min": 0.7995727856953939,
     "final_loss": 1.4141419376716489
   },
   "39": {
@@ -596,7 +596,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.604423717657725,
+    "time_min": 0.7918946901957195,
     "final_loss": 1.412676426571731
   },
   "40": {
@@ -611,7 +611,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2582748134930928,
+    "time_min": 0.8054685990015665,
     "final_loss": 39.53049154502668
   },
   "41": {
@@ -626,7 +626,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.9212690711021423,
+    "time_min": 0.7943512638409932,
     "final_loss": 1.4368274689776432
   },
   "42": {
@@ -641,7 +641,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.6456006407737732,
+    "time_min": 0.5580726742744446,
     "final_loss": 1.4309639656340967
   },
   "43": {
@@ -656,7 +656,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.6430316845575968,
+    "time_min": 0.5477101087570191,
     "final_loss": 1.426118250719001
   },
   "44": {
@@ -671,7 +671,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.6468258817990621,
+    "time_min": 0.5544815023740133,
     "final_loss": 1.4100906105048
   },
   "45": {
@@ -686,7 +686,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.6501230676968892,
+    "time_min": 0.5479922572771708,
     "final_loss": 1.4184632283101246
   },
   "46": {
@@ -701,7 +701,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.640724511941274,
+    "time_min": 0.5485228578249614,
     "final_loss": 1.4155113669337882
   },
   "47": {
@@ -716,7 +716,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.6332254648208618,
+    "time_min": 0.5460046688715617,
     "final_loss": 1.4451794947820822
   },
   "48": {
@@ -731,7 +731,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3477384368578593,
+    "time_min": 2.0046028097470603,
     "final_loss": 1.4799960647461126
   },
   "49": {
@@ -746,7 +746,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.2764400482177733,
+    "time_min": 2.000089720884959,
     "final_loss": 1.4887716297148117
   },
   "50": {
@@ -761,7 +761,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.305009603500366,
+    "time_min": 2.0141143083572386,
     "final_loss": 1.4684211297071101
   },
   "51": {
@@ -776,7 +776,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 2.335436765352885,
+    "time_min": 1.9897568106651307,
     "final_loss": 1.4724470676281494
   },
   "52": {
@@ -791,7 +791,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.336614425977071,
+    "time_min": 2.038785441716512,
     "final_loss": 14.17610704797169
   },
   "53": {
@@ -806,7 +806,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.3216971198717755,
+    "time_min": 2.0002503673235577,
     "final_loss": 1.4707817059172203
   },
   "54": {
@@ -821,7 +821,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.416158930460612,
+    "time_min": 1.2020048419634501,
     "final_loss": 1.4765929522601597
   },
   "55": {
@@ -836,7 +836,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.401699217160543,
+    "time_min": 1.1880699038505553,
     "final_loss": 1.4781671023059215
   },
   "56": {
@@ -851,7 +851,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.4236335277557373,
+    "time_min": 1.2013733347256979,
     "final_loss": 1.458913276433775
   },
   "57": {
@@ -866,7 +866,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.3844484408696494,
+    "time_min": 1.1877416769663494,
     "final_loss": 1.4562974491342708
   },
   "58": {
@@ -881,7 +881,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.406155780951182,
+    "time_min": 1.1926421403884888,
     "final_loss": 1.4499032075035718
   },
   "59": {
@@ -896,7 +896,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.3951298316319785,
+    "time_min": 1.1582068800926208,
     "final_loss": 1.449837973474617
   },
   "60": {
@@ -911,7 +911,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.9477282643318177,
+    "time_min": 0.7941742618878682,
     "final_loss": 1.471430780366484
   },
   "61": {
@@ -926,7 +926,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.9448560833930969,
+    "time_min": 0.7902953584988912,
     "final_loss": 1.4645935161595576
   },
   "62": {
@@ -941,7 +941,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.9480256358782451,
+    "time_min": 0.7906232595443725,
     "final_loss": 1.4467413966264167
   },
   "63": {
@@ -956,7 +956,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.9425303141276041,
+    "time_min": 0.7804344216982524,
     "final_loss": 1.4394409346072126
   },
   "64": {
@@ -971,7 +971,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.958285411198934,
+    "time_min": 0.7950363914171855,
     "final_loss": 1.4347655869980809
   },
   "65": {
@@ -986,7 +986,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.9271955808003743,
+    "time_min": 0.7881677508354187,
     "final_loss": 1.4340832984230774
   },
   "66": {
@@ -1001,7 +1001,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.6483190178871154,
+    "time_min": 0.5592233935991923,
     "final_loss": 1.461680966869926
   },
   "67": {
@@ -1016,7 +1016,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.642747179667155,
+    "time_min": 0.5559669812520345,
     "final_loss": 1.448872915767923
   },
   "68": {
@@ -1031,7 +1031,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.6482184608777364,
+    "time_min": 0.5569069067637126,
     "final_loss": 1.4362605068410754
   },
   "69": {
@@ -1046,7 +1046,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.644755216439565,
+    "time_min": 0.5505171656608582,
     "final_loss": 1.4250016766404254
   },
   "70": {
@@ -1061,7 +1061,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.64436803261439,
+    "time_min": 0.5536331971486409,
     "final_loss": 1.4221234327817562
   },
   "71": {
@@ -1076,7 +1076,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.6424056212107341,
+    "time_min": 0.5540631333986918,
     "final_loss": 1.4219191035909233
   },
   "72": {
@@ -1091,7 +1091,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 2.3872583826382954,
+    "time_min": 2.014172832171122,
     "final_loss": 1.479650972919118
   },
   "73": {
@@ -1106,7 +1106,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 2.366622010866801,
+    "time_min": 1.979629111289978,
     "final_loss": 1.479650972919118
   },
   "74": {
@@ -1121,7 +1121,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 2.928754921754201,
+    "time_min": 1.9856838703155517,
     "final_loss": 1.4564934907774352
   },
   "75": {
@@ -1136,7 +1136,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 3.1462554693222047,
+    "time_min": 1.9851139028867086,
     "final_loss": 1.4564934907774352
   },
   "76": {
@@ -1151,7 +1151,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 3.1750898162523904,
+    "time_min": 1.9989583889643352,
     "final_loss": 1.4415939988937363
   },
   "77": {
@@ -1166,7 +1166,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 3.1500580231348674,
+    "time_min": 1.958613602320353,
     "final_loss": 1.4415939988937363
   },
   "78": {
@@ -1181,7 +1181,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.7996259053548178,
+    "time_min": 1.2011983076731363,
     "final_loss": 1.4858217725658598
   },
   "79": {
@@ -1196,7 +1196,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.7811763644218446,
+    "time_min": 1.1794557571411133,
     "final_loss": 1.4858217725658598
   },
   "80": {
@@ -1211,7 +1211,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.8182209809621175,
+    "time_min": 1.190012772878011,
     "final_loss": 1.4625712470155832
   },
   "81": {
@@ -1226,7 +1226,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.7873074014981587,
+    "time_min": 1.183289078871409,
     "final_loss": 1.4625712470155832
   },
   "82": {
@@ -1241,7 +1241,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 2.0036290844281512,
+    "time_min": 1.19600004752477,
     "final_loss": 1.4446714431261305
   },
   "83": {
@@ -1256,7 +1256,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 2.0930888772010805,
+    "time_min": 1.1717506567637126,
     "final_loss": 1.4446714431261305
   },
   "84": {
@@ -1271,7 +1271,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.4266217867533366,
+    "time_min": 0.797876489162445,
     "final_loss": 1.4881128561848695
   },
   "85": {
@@ -1286,7 +1286,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.4237741112709046,
+    "time_min": 0.7686413049697876,
     "final_loss": 1.4881128561848695
   },
   "86": {
@@ -1301,7 +1301,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.42915833791097,
+    "time_min": 0.7939125657081604,
     "final_loss": 1.4652022628656125
   },
   "87": {
@@ -1316,7 +1316,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.4218215823173523,
+    "time_min": 0.7731419563293457,
     "final_loss": 1.4652022628656125
   },
   "88": {
@@ -1331,7 +1331,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.4346387187639873,
+    "time_min": 0.7774084210395813,
     "final_loss": 1.4473578572122667
   },
   "89": {
@@ -1346,7 +1346,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.422178284327189,
+    "time_min": 0.7758799195289612,
     "final_loss": 1.4473578572122667
   },
   "90": {
@@ -1361,7 +1361,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.9060798088709513,
+    "time_min": 0.5535899758338928,
     "final_loss": 1.4903979819448627
   },
   "91": {
@@ -1376,7 +1376,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.8976893862088521,
+    "time_min": 0.5522760669390361,
     "final_loss": 1.4903979819448627
   },
   "92": {
@@ -1391,7 +1391,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.9054559946060181,
+    "time_min": 0.5573200941085815,
     "final_loss": 1.4699740716138097
   },
   "93": {
@@ -1406,7 +1406,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.8992169300715128,
+    "time_min": 0.55342538356781,
     "final_loss": 1.4699740716138097
   },
   "94": {
@@ -1421,7 +1421,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.9065288702646891,
+    "time_min": 0.5549509882926941,
     "final_loss": 1.4540090605802491
   },
   "95": {
@@ -1436,7 +1436,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.895592474937439,
+    "time_min": 0.5495044906934102,
     "final_loss": 1.4540090605802491
   },
   "96": {
@@ -1451,7 +1451,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 3.71512576341629,
+    "time_min": 1.973429814974467,
     "final_loss": 1.4998192099569054
   },
   "97": {
@@ -1466,7 +1466,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 3.691017230351766,
+    "time_min": 1.938830347855886,
     "final_loss": 1.5020719777995786
   },
   "98": {
@@ -1481,7 +1481,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 3.6639323234558105,
+    "time_min": 2.0073204676310223,
     "final_loss": 1.479909475512793
   },
   "99": {
@@ -1496,7 +1496,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 3.5726221521695454,
+    "time_min": 1.9741200844446818,
     "final_loss": 1.4811187722488721
   },
   "100": {
@@ -1511,7 +1511,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 3.840191662311554,
+    "time_min": 1.9626566926638285,
     "final_loss": 1.4624025146292592
   },
   "101": {
@@ -1526,7 +1526,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 3.49802534977595,
+    "time_min": 1.9927186846733094,
     "final_loss": 1.4623610454183464
   },
   "102": {
@@ -1541,7 +1541,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.7971510330835978,
+    "time_min": 1.1875834544499715,
     "final_loss": 1.5036629232680734
   },
   "103": {
@@ -1556,7 +1556,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.5832199970881145,
+    "time_min": 1.1701749523480733,
     "final_loss": 1.5000858410338629
   },
   "104": {
@@ -1571,7 +1571,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1713569362958272,
+    "time_min": 1.2006325562795004,
     "final_loss": 1.4844166440984827
   },
   "105": {
@@ -1586,7 +1586,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1533658901850383,
+    "time_min": 1.1717445651690166,
     "final_loss": 1.4787114138295951
   },
   "106": {
@@ -1601,7 +1601,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1825293024381003,
+    "time_min": 1.1836998144785562,
     "final_loss": 1.4667637412194225
   },
   "107": {
@@ -1616,7 +1616,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1480456550916036,
+    "time_min": 1.1701042811075846,
     "final_loss": 1.4592983262708035
   },
   "108": {
@@ -1631,7 +1631,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7830979188283285,
+    "time_min": 0.7950970967610677,
     "final_loss": 1.5026670186801034
   },
   "109": {
@@ -1646,7 +1646,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7751298785209656,
+    "time_min": 0.777947743733724,
     "final_loss": 1.4968082587406057
   },
   "110": {
@@ -1661,7 +1661,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7844006975491842,
+    "time_min": 0.7959452629089355,
     "final_loss": 1.4832706228586106
   },
   "111": {
@@ -1676,7 +1676,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7590372443199158,
+    "time_min": 0.7889027039210001,
     "final_loss": 1.474913860955086
   },
   "112": {
@@ -1691,7 +1691,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7608535329500834,
+    "time_min": 0.7923459808031718,
     "final_loss": 1.4655049678912615
   },
   "113": {
@@ -1706,7 +1706,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7639096776644388,
+    "time_min": 0.7720852017402648,
     "final_loss": 1.4555236748445244
   },
   "114": {
@@ -1721,7 +1721,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5350058714548747,
+    "time_min": 0.556921911239624,
     "final_loss": 1.5003150118446396
   },
   "115": {
@@ -1736,7 +1736,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5251850406328837,
+    "time_min": 0.554346227645874,
     "final_loss": 1.494331413577089
   },
   "116": {
@@ -1751,7 +1751,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5281783779462178,
+    "time_min": 0.5585831602414449,
     "final_loss": 1.4815270258775324
   },
   "117": {
@@ -1766,7 +1766,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5328487316767375,
+    "time_min": 0.5534943183263142,
     "final_loss": 1.4737696018811468
   },
   "118": {
@@ -1781,7 +1781,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5397916793823242,
+    "time_min": 0.5550205071767171,
     "final_loss": 1.4649306325015876
   },
   "119": {
@@ -1796,7 +1796,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5276818990707397,
+    "time_min": 0.5535521904627482,
     "final_loss": 1.456575844868604
   },
   "120": {
@@ -1811,7 +1811,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.9746591687202453,
+    "time_min": 2.0139946818351744,
     "final_loss": 1.5193629734102125
   },
   "121": {
@@ -1826,7 +1826,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.9577206134796143,
+    "time_min": 1.9942049702008566,
     "final_loss": 1.5251803092035296
   },
   "122": {
@@ -1841,7 +1841,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.9822355230649313,
+    "time_min": 2.0111964265505473,
     "final_loss": 1.5077033837041536
   },
   "123": {
@@ -1856,7 +1856,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.9217348615328471,
+    "time_min": 1.9850720326105753,
     "final_loss": 1.5166690646318643
   },
   "124": {
@@ -1871,7 +1871,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.9253594835599264,
+    "time_min": 2.0240407228469848,
     "final_loss": 1.4970615807084409
   },
   "125": {
@@ -1886,7 +1886,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.9336798429489135,
+    "time_min": 1.9861323753992717,
     "final_loss": 1.5067268671491802
   },
   "126": {
@@ -1901,7 +1901,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.1629501501719157,
+    "time_min": 1.1865765968958537,
     "final_loss": 1.5217311415578385
   },
   "127": {
@@ -1916,7 +1916,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1320637782414755,
+    "time_min": 1.156761093934377,
     "final_loss": 1.5230483833244615
   },
   "128": {
@@ -1931,7 +1931,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1770910422007244,
+    "time_min": 1.1981791694959005,
     "final_loss": 1.5121293346682931
   },
   "129": {
@@ -1946,7 +1946,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1679034153620402,
+    "time_min": 1.162836213906606,
     "final_loss": 1.5121804466663806
   },
   "130": {
@@ -1961,7 +1961,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.159651263554891,
+    "time_min": 1.1905325770378112,
     "final_loss": 1.500868496480248
   },
   "131": {
@@ -1976,7 +1976,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1627087672551473,
+    "time_min": 1.1748650749524434,
     "final_loss": 1.499602320581439
   },
   "132": {
@@ -1991,7 +1991,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7570098042488098,
+    "time_min": 0.7885448217391968,
     "final_loss": 1.5206561140040533
   },
   "133": {
@@ -2006,7 +2006,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7603856404622396,
+    "time_min": 0.7921786586443583,
     "final_loss": 1.5188078037091666
   },
   "134": {
@@ -2021,7 +2021,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7759125351905822,
+    "time_min": 0.7908824841181438,
     "final_loss": 1.509339377580224
   },
   "135": {
@@ -2036,7 +2036,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7727352778116862,
+    "time_min": 0.776533575852712,
     "final_loss": 1.504346062353692
   },
   "136": {
@@ -2051,7 +2051,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7817550659179687,
+    "time_min": 0.7910342812538147,
     "final_loss": 1.4982640011356634
   },
   "137": {
@@ -2066,7 +2066,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7531680385271708,
+    "time_min": 0.7758218288421631,
     "final_loss": 1.4904777000504694
   },
   "138": {
@@ -2081,7 +2081,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5355739831924439,
+    "time_min": 0.5545400977134705,
     "final_loss": 1.5171350351644102
   },
   "139": {
@@ -2096,7 +2096,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5353765527407328,
+    "time_min": 0.5458974003791809,
     "final_loss": 1.5107077336319261
   },
   "140": {
@@ -2111,7 +2111,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5304493586222331,
+    "time_min": 0.5505072514216105,
     "final_loss": 1.5046469485832659
   },
   "141": {
@@ -2126,7 +2126,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5251213510831197,
+    "time_min": 0.5519986828168233,
     "final_loss": 1.4948268509432294
   },
   "142": {
@@ -2141,7 +2141,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.528147566318512,
+    "time_min": 0.5549305041631063,
     "final_loss": 1.492269684010702
   },
   "143": {
@@ -2156,7 +2156,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5247926394144694,
+    "time_min": 0.5503504276275635,
     "final_loss": 1.4802195582797706
   },
   "144": {
@@ -2171,7 +2171,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.949319064617157,
+    "time_min": 1.9671072959899902,
     "final_loss": 1.4963596232389382
   },
   "145": {
@@ -2186,7 +2186,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.9209261973698935,
+    "time_min": 1.9411824027697244,
     "final_loss": 1.4963596232389382
   },
   "146": {
@@ -2201,7 +2201,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.9331654151280722,
+    "time_min": 2.0182270367940265,
     "final_loss": 1.47573636999684
   },
   "147": {
@@ -2216,7 +2216,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.962236479918162,
+    "time_min": 1.9815594911575318,
     "final_loss": 1.47573636999684
   },
   "148": {
@@ -2231,7 +2231,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.9710689226786295,
+    "time_min": 1.9740993857383728,
     "final_loss": 1.4588286429164785
   },
   "149": {
@@ -2246,7 +2246,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.9277158896128337,
+    "time_min": 1.9699458638827005,
     "final_loss": 1.4588286429164785
   },
   "150": {
@@ -2261,7 +2261,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.152270460128784,
+    "time_min": 1.1847202022870382,
     "final_loss": 1.5012751674168212
   },
   "151": {
@@ -2276,7 +2276,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1590066035588582,
+    "time_min": 1.1646689414978026,
     "final_loss": 1.5012751674168212
   },
   "152": {
@@ -2291,7 +2291,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1689024408658346,
+    "time_min": 1.2049674987792969,
     "final_loss": 1.4818930372864278
   },
   "153": {
@@ -2306,7 +2306,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1536464770634969,
+    "time_min": 1.1797484437624612,
     "final_loss": 1.4818930372864278
   },
   "154": {
@@ -2321,7 +2321,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1502130468686422,
+    "time_min": 1.1867924491564432,
     "final_loss": 1.4650017537932591
   },
   "155": {
@@ -2336,7 +2336,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1375388741493224,
+    "time_min": 1.1716897050539652,
     "final_loss": 1.4650017537932591
   },
   "156": {
@@ -2351,7 +2351,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7568385004997253,
+    "time_min": 0.7865731994311015,
     "final_loss": 1.5030012002005402
   },
   "157": {
@@ -2366,7 +2366,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7514358441034953,
+    "time_min": 0.7849750200907389,
     "final_loss": 1.5030012002005402
   },
   "158": {
@@ -2381,7 +2381,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7694580396016438,
+    "time_min": 0.7918446024258932,
     "final_loss": 1.4847338770409497
   },
   "159": {
@@ -2396,7 +2396,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7633899251619974,
+    "time_min": 0.7719588279724121,
     "final_loss": 1.4847338770409497
   },
   "160": {
@@ -2411,7 +2411,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.763331937789917,
+    "time_min": 0.7800131440162659,
     "final_loss": 1.4681785859277217
   },
   "161": {
@@ -2426,7 +2426,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7580450097719829,
+    "time_min": 0.7654368877410889,
     "final_loss": 1.4681785859277217
   },
   "162": {
@@ -2441,7 +2441,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5352620999018352,
+    "time_min": 0.5518204410870869,
     "final_loss": 1.5047791898916263
   },
   "163": {
@@ -2456,7 +2456,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5247456351915996,
+    "time_min": 0.5535780429840088,
     "final_loss": 1.5047791898916263
   },
   "164": {
@@ -2471,7 +2471,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5281107703844706,
+    "time_min": 0.5548457066218059,
     "final_loss": 1.4882379575001927
   },
   "165": {
@@ -2486,7 +2486,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.524696699778239,
+    "time_min": 0.5565983215967815,
     "final_loss": 1.4882379575001927
   },
   "166": {
@@ -2501,7 +2501,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5284977078437805,
+    "time_min": 0.5611063083012898,
     "final_loss": 1.4742127303585637
   },
   "167": {
@@ -2516,7 +2516,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5247906764348348,
+    "time_min": 0.5512785037358602,
     "final_loss": 1.4742127303585637
   },
   "168": {
@@ -2531,7 +2531,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.9524309237798054,
+    "time_min": 2.024094553788503,
     "final_loss": 1.5135985466758952
   },
   "169": {
@@ -2546,7 +2546,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.928730277220408,
+    "time_min": 1.9913976271947225,
     "final_loss": 1.5154940927598384
   },
   "170": {
@@ -2561,7 +2561,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.9709795514742534,
+    "time_min": 2.0381516138712565,
     "final_loss": 1.4976400053664238
   },
   "171": {
@@ -2576,7 +2576,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.9769328196843465,
+    "time_min": 1.9775673230489095,
     "final_loss": 1.4989743741799297
   },
   "172": {
@@ -2591,7 +2591,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.9772473255793253,
+    "time_min": 2.0146140813827516,
     "final_loss": 1.4833478867021188
   },
   "173": {
@@ -2606,7 +2606,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.9681300520896912,
+    "time_min": 1.9863921999931335,
     "final_loss": 1.4837244887525867
   },
   "174": {
@@ -2621,7 +2621,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.165532143910726,
+    "time_min": 1.2039279500643412,
     "final_loss": 1.5161124894604527
   },
   "175": {
@@ -2636,7 +2636,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.1614036560058594,
+    "time_min": 1.1839906613032023,
     "final_loss": 1.5134551094688666
   },
   "176": {
@@ -2651,7 +2651,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.1670056144396463,
+    "time_min": 1.2012651443481446,
     "final_loss": 1.5012055400090136
   },
   "177": {
@@ -2666,7 +2666,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.158658766746521,
+    "time_min": 1.1686623334884643,
     "final_loss": 1.4967970710115293
   },
   "178": {
@@ -2681,7 +2681,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.1676868518193564,
+    "time_min": 1.1854440569877625,
     "final_loss": 1.4874925120992735
   },
   "179": {
@@ -2696,7 +2696,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1730399926503499,
+    "time_min": 1.1711849729220072,
     "final_loss": 1.4811958622030115
   },
   "180": {
@@ -2711,7 +2711,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7910773634910584,
+    "time_min": 0.7946292479832967,
     "final_loss": 1.515242788973356
   },
   "181": {
@@ -2726,7 +2726,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7817541162172953,
+    "time_min": 0.7868065516153971,
     "final_loss": 1.5103193681475187
   },
   "182": {
@@ -2741,7 +2741,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.7786347111066182,
+    "time_min": 0.7981091698010763,
     "final_loss": 1.5004073941593155
   },
   "183": {
@@ -2756,7 +2756,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7755471626917522,
+    "time_min": 0.7752457062403361,
     "final_loss": 1.4936919657750762
   },
   "184": {
@@ -2771,7 +2771,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7740141789118449,
+    "time_min": 0.7786249796549479,
     "final_loss": 1.4866075764380537
   },
   "185": {
@@ -2786,7 +2786,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7623613556226094,
+    "time_min": 0.7737207571665446,
     "final_loss": 1.4779039286277262
   },
   "186": {
@@ -2801,7 +2801,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5378327369689941,
+    "time_min": 0.5574526945749919,
     "final_loss": 1.5128953003457077
   },
   "187": {
@@ -2816,7 +2816,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5375372489293416,
+    "time_min": 0.5533475637435913,
     "final_loss": 1.5081534650370225
   },
   "188": {
@@ -2831,7 +2831,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5384069561958313,
+    "time_min": 0.5588155587514242,
     "final_loss": 1.4988219561559943
   },
   "189": {
@@ -2846,7 +2846,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5360552867253622,
+    "time_min": 0.5545956373214722,
     "final_loss": 1.4922296765895409
   },
   "190": {
@@ -2861,7 +2861,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.5360382835070292,
+    "time_min": 0.5589876333872478,
     "final_loss": 1.4858410071329586
   },
   "191": {
@@ -2876,7 +2876,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5348758379618327,
+    "time_min": 0.5551313002904256,
     "final_loss": 1.478067987620806
   },
   "192": {
@@ -2891,7 +2891,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.9878617723782857,
+    "time_min": 2.011213068167369,
     "final_loss": 1.5252627971463728
   },
   "193": {
@@ -2906,7 +2906,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.9580319404602051,
+    "time_min": 1.9984888672828673,
     "final_loss": 1.528929428336148
   },
   "194": {
@@ -2921,7 +2921,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.9903753280639649,
+    "time_min": 2.000467038154602,
     "final_loss": 1.5191357209264786
   },
   "195": {
@@ -2936,7 +2936,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.9433491706848145,
+    "time_min": 1.9859580397605896,
     "final_loss": 1.5241514419641962
   },
   "196": {
@@ -2951,7 +2951,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.954111119111379,
+    "time_min": 2.0364744663238525,
     "final_loss": 1.5116716634755816
   },
   "197": {
@@ -2966,7 +2966,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.964706035455068,
+    "time_min": 1.994607651233673,
     "final_loss": 1.517989080123202
   },
   "198": {
@@ -2981,7 +2981,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 1.162474306424459,
+    "time_min": 1.175481120745341,
     "final_loss": 1.526717211475742
   },
   "199": {
@@ -2996,7 +2996,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 1.13228174050649,
+    "time_min": 1.17271200021108,
     "final_loss": 1.5277824096324766
   },
   "200": {
@@ -3011,7 +3011,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 1.184557282924652,
+    "time_min": 1.2013568917910258,
     "final_loss": 1.5210638547562794
   },
   "201": {
@@ -3026,7 +3026,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 1.1843320926030476,
+    "time_min": 1.1847487727801005,
     "final_loss": 1.5216235905088265
   },
   "202": {
@@ -3041,7 +3041,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 1.2002047936121623,
+    "time_min": 1.2149057666460672,
     "final_loss": 1.5144636051080635
   },
   "203": {
@@ -3056,7 +3056,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 1.1339433193206787,
+    "time_min": 1.19790278673172,
     "final_loss": 1.51375117078455
   },
   "204": {
@@ -3071,7 +3071,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.7731248895327251,
+    "time_min": 0.7950630108515422,
     "final_loss": 1.5262234182300025
   },
   "205": {
@@ -3086,7 +3086,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.7698527455329895,
+    "time_min": 0.7895272016525269,
     "final_loss": 1.525327416884356
   },
   "206": {
@@ -3101,7 +3101,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.778868043422699,
+    "time_min": 0.803668491045634,
     "final_loss": 1.519939761384337
   },
   "207": {
@@ -3116,7 +3116,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.7672212998072306,
+    "time_min": 0.794026772181193,
     "final_loss": 1.5171253618411285
   },
   "208": {
@@ -3131,7 +3131,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.7723598678906759,
+    "time_min": 0.792645267645518,
     "final_loss": 1.5128646974604427
   },
   "209": {
@@ -3146,7 +3146,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.7607196648915608,
+    "time_min": 0.7918039997418721,
     "final_loss": 1.5064977918214366
   },
   "210": {
@@ -3161,7 +3161,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": true,
-    "time_min": 0.5280966202418009,
+    "time_min": 0.5546157717704773,
     "final_loss": 1.5241445708047179
   },
   "211": {
@@ -3176,7 +3176,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 100,
     "rms_global_prior": false,
-    "time_min": 0.5246865312258403,
+    "time_min": 0.5553508202234904,
     "final_loss": 1.5208952578449797
   },
   "212": {
@@ -3191,7 +3191,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": true,
-    "time_min": 0.5280925710995992,
+    "time_min": 0.5600342988967896,
     "final_loss": 1.5166913741642127
   },
   "213": {
@@ -3206,7 +3206,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 250,
     "rms_global_prior": false,
-    "time_min": 0.5250022451082865,
+    "time_min": 0.5574557622273763,
     "final_loss": 1.5097466303863802
   },
   "214": {
@@ -3221,7 +3221,7 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": true,
-    "time_min": 0.528145718574524,
+    "time_min": 0.5605352997779847,
     "final_loss": 1.5074756116925052
   },
   "215": {
@@ -3236,9 +3236,9 @@
     "rms_est_train_size": 1000000,
     "rms_est_batch_size": 500,
     "rms_global_prior": false,
-    "time_min": 0.5247045795122782,
+    "time_min": 0.5588633457819621,
     "final_loss": 1.4982664162923292
   },
   "best_key": 44,
-  "total_time_min": 301.88519085645675
+  "total_time_min": 244.25360670089722
 }
