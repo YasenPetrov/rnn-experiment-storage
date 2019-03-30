@@ -8,10 +8,10 @@
   "num_timesteps": 50,
   "stats_interval": 50,
   "rms_est_train_size": 1000000,
-  "rms_est_batch_size": 500,
+  "rms_est_batch_size": 250,
   "rms_global_prior": true,
   "remove_unknown": false,
   "record_logits": true,
-  "time_min": 0.026567113399505616,
-  "final_loss": 197.05220144214013
+  "time_min": 0.02441569964090983,
+  "final_loss": 1.2015929721780794
 }
