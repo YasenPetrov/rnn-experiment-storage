@@ -1,13 +1,13 @@
 {
   "file": "datasets/es-en/en/valid.txt",
-  "eval_char_count": 10000,
+  "eval_char_count": 100000,
   "dynamic": true,
-  "dynamic_type": "sgd",
-  "learning_rate": 0.5,
-  "decay_coef": 0.0005,
+  "dynamic_type": "sgd_pen_1",
+  "learning_rate": 0.015625,
+  "decay_coef": 0.001953125,
   "num_timesteps": 20,
   "stats_interval": 100,
   "rms_global_prior": false,
-  "time_min": 0.09961171944936116,
-  "final_loss": 1.0493184166122616
+  "time_min": 1.0113681038220723,
+  "final_loss": 1.2987605260001414
 }
