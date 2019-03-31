@@ -1,0 +1,13 @@
+{
+  "file": "datasets/es-en/en/valid.txt",
+  "eval_char_count": 100000,
+  "learning_rate": 0.01,
+  "num_timesteps": 300,
+  "m_size": 200,
+  "adapt_rule": "sparse",
+  "use_in_recurrent": false,
+  "stats_interval": 100,
+  "weight_decay": 0,
+  "time_min": 2.0896266023317973,
+  "final_loss": 1.4763607707726498
+}
