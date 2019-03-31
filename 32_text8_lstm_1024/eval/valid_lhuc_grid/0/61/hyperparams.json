@@ -1,0 +1,12 @@
+{
+  "file": "datasets/text8/valid.txt",
+  "eval_char_count": 100000,
+  "learning_rate": 0.1,
+  "num_timesteps": 1,
+  "adapt_rule": "lhuc",
+  "use_in_recurrent": false,
+  "stats_interval": 100,
+  "weight_decay": 0,
+  "time_min": 2.491328819592794,
+  "final_loss": 2.5116339644261414
+}
