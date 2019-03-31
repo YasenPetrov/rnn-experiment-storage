@@ -1,11 +1,12 @@
 {
   "file": "datasets/es-en/en/valid.txt",
   "eval_char_count": 100000,
-  "learning_rate": 0.001,
+  "learning_rate": 1e-06,
   "num_timesteps": 1,
   "adapt_rule": "lhuc",
   "use_in_recurrent": true,
   "stats_interval": 100,
-  "time_min": 2.7255996147791546,
-  "final_loss": 5.293654178295071
+  "weight_decay": 0,
+  "time_min": 2.5969645818074545,
+  "final_loss": 1.337119043175158
 }
