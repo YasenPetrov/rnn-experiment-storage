@@ -1,0 +1,15 @@
+{
+  "file": "datasets/text8/valid.txt",
+  "eval_char_count": 100000,
+  "dynamic": true,
+  "dynamic_type": "sgd",
+  "learning_rate": 1,
+  "decay_coef": 0.001,
+  "num_timesteps": 1,
+  "stats_interval": 100,
+  "remove_unknown": false,
+  "record_logits": false,
+  "rms_global_prior": false,
+  "time_min": 7.5672440727551775,
+  "final_loss": 3.2247685631594956
+}
